@@ -1,10 +1,11 @@
 {
-  "parent": "item/generated",
+  "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "item/potion_overlay",
-    "layer1": "item/potion"
+	"layer1": "minecraft:item/potion"
   },
-  "overrides": [{
+  "overrides": [
+		{
       "predicate": {
         "custom_model_data": 330000
       },
@@ -81,6 +82,12 @@
         "custom_model_data": 330012
       },
       "model": "tcc:item/riftjuice_bottle"
-    }
-  ]
+    },
+        {
+            "predicate": {
+              "custom_model_data": 888501
+            },
+            "model": "item/custom/mega_pot"
+        }
+    ]
 }

@@ -268,8 +268,8 @@
   "item.tcc.compendium.entry.cursed_crown.icon": "\uf017",
   "item.tcc.compendium.entry.cursed_crown.contributors": "%1$s: 제작",
   "item.tcc.compendium.entry.cursed_crown.more_info": "This feature does not affect incredibly powerful magic items, such as totems, dragon eggs, nether stars, and elytra. It has 100 durability and can be enchanted with all helmet enchantments.",
-  "item.tcc.compendium.entry.cursed_crown.history": "%3$s: 구현\n%4$s: Improved drop rates and added armor stand functionality\n%5$s: Heavily nerfed this feature",
-  "item.tcc.compendium.entry.cursed_crown.recipe": "This item can be found in bastions, and can also be found by mining soul sand with a fortune shovel, about 1% of the time.",
+  "item.tcc.compendium.entry.cursed_crown.history": "%3$s: 구현\n%4$s: 드랍률 개선, 갑옷 및 갑옷 거치대 기능 추가\n%5$s: 강력한 너프",
+  "item.tcc.compendium.entry.cursed_crown.recipe": "해당 아이템은 This item can be found in bastions, and can also be found by mining soul sand with a fortune shovel, about 1% of the time.",
   "item.tcc.compendium.entry.cursed_crown.description": "The cursed crown can be found by mining soul sand with a %s or in bastion loot. They change all of your mob and farming loot to gold, and come with built-in curse of binding. Yikes.\n\n",
   "item.tcc.compendium.entry.cursed_crown.reference.0": "fortune shovel",
 

@@ -3,11 +3,14 @@
     "textures": {
       "layer0": "item/item_frame"
     },
-    "overrides": [{
+    "overrides": [
+	{
         "predicate": {
           "custom_model_data": 330000
         },
         "model": "tcc:item/phantom_item_frame"
-      }
+      },
+	  { "predicate": {"custom_model_data": 800070}, "model": "sipilus:shamanism/primal_table"},
+ 	{ "predicate": {"custom_model_data": 800072}, "model": "sipilus:shamanism/spirit_altar"}
     ]
   }

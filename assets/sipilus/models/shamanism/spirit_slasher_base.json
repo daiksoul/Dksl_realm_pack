@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "sipilus:shamanism/spirit_slasher_base"
+    }
+}

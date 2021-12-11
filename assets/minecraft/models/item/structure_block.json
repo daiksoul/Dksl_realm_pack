@@ -372,6 +372,23 @@
         "custom_model_data": 330061
       },
       "model": "tcc:entity/sponge_drowned/head"
-    }
+    },
+	{ "predicate": {"custom_model_data": 800007}, "model": "sipilus:shamanism/spiritfraga"},
+  { "predicate": {"custom_model_data": 800008}, "model": "sipilus:shamanism/spiritfragh"},
+  { "predicate": {"custom_model_data": 800009}, "model": "sipilus:shamanism/spiritfragm"},
+  { "predicate": {"custom_model_data": 800010}, "model": "sipilus:shamanism/spiritfragn"},
+  { "predicate": {"custom_model_data": 800011}, "model": "sipilus:shamanism/spiritfrage"},
+  { "predicate": {"custom_model_data": 800015}, "model": "sipilus:shamanism/animalspiritbottle"},
+  { "predicate": {"custom_model_data": 800016}, "model": "sipilus:shamanism/humanspiritbottle"},
+  { "predicate": {"custom_model_data": 800017}, "model": "sipilus:shamanism/monsterspiritbottle"},
+  { "predicate": {"custom_model_data": 800018}, "model": "sipilus:shamanism/netherspiritbottle"},
+  { "predicate": {"custom_model_data": 800019}, "model": "sipilus:shamanism/endspiritbottle"},
+  { "predicate": {"custom_model_data": 800020}, "model": "sipilus:shamanism/emptytotem"},
+  { "predicate": {"custom_model_data": 800064}, "model": "sipilus:shamanism/primal_table"},
+  { "predicate": {"custom_model_data": 800067}, "model": "sipilus:shamanism/staff"},
+  { "predicate": {"custom_model_data": 800068}, "model": "sipilus:shamanism/spirit_pedestal"},
+  { "predicate": {"custom_model_data": 800069}, "model": "sipilus:shamanism/spirit_altar"},
+  { "predicate": {"custom_model_data": 800075}, "model": "sipilus:shamanism/twistedfrag"},
+  { "predicate": {"custom_model_data": 800076}, "model": "sipilus:shamanism/twistedbottle"}
   ]
 }

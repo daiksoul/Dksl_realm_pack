@@ -8,5 +8,8 @@
       "custom_model_data": 330000
     },
     "model": "tcc:item/compendium"
-  }]
+  },
+  { "predicate": {"custom_model_data": 800073}, "model": "sipilus:shamanism/shamanic_texts"},
+  { "predicate": {"custom_model_data": 800074}, "model": "sipilus:shamanism/twisted_texts"}
+  ]
 }

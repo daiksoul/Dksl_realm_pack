@@ -1,0 +1,16 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/golden_apple"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 800001}, "model": "sipilus:shamanism/spiritherb"},
+  { "predicate": {"custom_model_data": 800002}, "model": "sipilus:shamanism/spiritmushroom"},
+  { "predicate": {"custom_model_data": 800003}, "model": "sipilus:shamanism/shamanicstew"},
+  { "predicate": {"custom_model_data": 800083}, "model": "sipilus:shamanism/purestew"}
+
+ ]
+
+ 
+}
