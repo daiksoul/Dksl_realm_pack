@@ -1,5 +1,9 @@
 {
   "providers": [
+	{
+	  "type": "ttf",
+	  "file": "tcc:neodgm"
+	},
     {
       "type": "bitmap",
       "file": "tcc:gui/compendium/font/nonlatin_european.png",
