@@ -9,6 +9,12 @@
               "custom_model_data": 888502
             },
             "model": "item/custom/glacium_axe"
+        },
+		{
+            "predicate": {
+              "custom_model_data": 1450002
+            },
+            "model": "incendium:item/blazing"
         }
     ]
 }

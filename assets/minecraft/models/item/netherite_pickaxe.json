@@ -5,7 +5,12 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":888501}, "model": "item/feilfri"}
-
+		{"predicate": {"custom_model_data":888501}, "model": "item/feilfri"},
+		{
+            "predicate": {
+              "custom_model_data": 1450500
+            },
+            "model": "incendium:item/hefty"
+        }
 	]
 }

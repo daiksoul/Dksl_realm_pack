@@ -5,6 +5,12 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/mortal_cull"}
+		{"predicate": {"custom_model_data":1}, "model": "item/mortal_cull"},
+		{
+            "predicate": {
+              "custom_model_data": 1450002
+            },
+            "model": "incendium:item/blazing"
+        }
 	]
 }

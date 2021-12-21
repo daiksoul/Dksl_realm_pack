@@ -15,6 +15,12 @@
               "custom_model_data": 888502
             },
             "model": "item/custom/glacium_sword"
+        },
+		{
+            "predicate": {
+              "custom_model_data": 1450003
+            },
+            "model": "incendium:item/chilling"
         }
     ]
 }
