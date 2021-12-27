@@ -444,7 +444,7 @@
   "item.tcc.compendium.entry.golden_ring.more_info": "내구도: 50\n\n가능한 마법:\n - 수선\n - 내구성\n - 소실의 저주",
   "item.tcc.compendium.entry.golden_ring.history": "%2$s: 구현\n%3$s: 보석 지원 추가\n%4$s: 이제 쌓을 수 없음\n%5$s: 일부 마법 제거",
   "item.tcc.compendium.entry.golden_ring.recipe": "\n\n\n\n\n\n\uc011\n",
-  "item.tcc.compendium.entry.golden_ring.description": "이 반지는 %s의 황금 버전입니다. 그리고 %s에서 여러가지 결과를 내는데 사용될 수 있습니다. 예를 들면 더 적은 내구도로 더 긴 물약 지속시간을 얻을 수 있죠.\n\n\n\n",
+  "item.tcc.compendium.entry.golden_ring.description": "이 반지는 %s의 황금 버전입니다. 그리고 %s에서 여러가지 결과를 내는데 사용될 수 있습니다. 예를 들면 더 적은 내구도로 더 긴 물약 지속시간을 얻을 수 있죠.\n\n\n\n\n",
   "item.tcc.compendium.entry.golden_ring.reference.0": "철제 반지",
   "item.tcc.compendium.entry.golden_ring.reference.1": "세공대",
 
@@ -454,7 +454,7 @@
   "item.tcc.compendium.entry.grace_potion.more_info": "TMI: 버전 V0.4전 까지는 해당 기능은 땅에 던져졌을때 어떤 효과도 부여하지 않았답니다. 고마워요, Chroma.",
   "item.tcc.compendium.entry.grace_potion.history": "%3$s: 구현\n%4$s: 검과 반지에도 사용될 수 있음",
   "item.tcc.compendium.entry.grace_potion.recipe": "낚시 루트의 \"보물\"그룹에서 10% 확률로 드랍됩니다.",
-  "item.tcc.compendium.entry.grace_potion.description": "잔류형 돌고래의 가호의 물약은 낚시 중 드물게 발견될 수 있습니다. %s나 %s에 적용하세요. 아니면 직접 사용할 수도 있습니다만... 약간 낭비이지 않을까요.\n\n\n",
+  "item.tcc.compendium.entry.grace_potion.description": "잔류형 돌고래의 가호의 물약은 낚시 중 드물게 발견될 수 있습니다. %s나 %s에 적용하세요. 아니면 직접 사용할 수도 있습니다만... 약간 낭비이지 않을까요.\n\n\n\n\n",
   "item.tcc.compendium.entry.grace_potion.reference.0": "반지",
   "item.tcc.compendium.entry.grace_potion.reference.1": "검",
 
@@ -471,7 +471,7 @@
   "item.tcc.compendium.entry.iceologer.more_info": "빙결사는 20 하트의 체력을 가집니다. 매우 튼튼하고 치명적이죠.",
   "item.tcc.compendium.entry.iceologer.history": "%4$s: 구현",
   "item.tcc.compendium.entry.iceologer.recipe": "툰드라 성채에서 자연적으로 생성되며 눈내리는 지역에서의 습격에서도 생성됩니다",
-  "item.tcc.compendium.entry.iceologer.description": "빙결사들은 매우 위험한 우민 마법사들입니다. 빙결사들은 커다란 규모의 떨어지는 얼음을 소환 할 수 있습니다. 여러분이 후퇴할 경우 직접적으로 여러분을 얼릴겁니다. %s을 떨어뜨리며 %s에서 생성됩니다.",
+  "item.tcc.compendium.entry.iceologer.description": "빙결사들은 매우 위험한 우민 마법사들입니다. 빙결사들은 커다란 규모의 떨어지는 얼음을 소환 할 수 있습니다. 여러분이 후퇴할 경우 직접적으로 여러분을 얼릴겁니다. %s을 떨어뜨리며 %s에서 생성됩니다.\n\n\n",
   "item.tcc.compendium.entry.iceologer.reference.0": "서리꽃",
   "item.tcc.compendium.entry.iceologer.reference.1": "툰드라 성채",
 
@@ -480,7 +480,7 @@
   "item.tcc.compendium.entry.iron_ring.more_info": "내구도: 100\n\n가능한 마법:\n - 수선\n - 내구성\n - 가시 \n - 발화\n - 집전\n - 소실의 저주",
   "item.tcc.compendium.entry.iron_ring.history": "%1$s: 구현\n%3$s: 보석 지원 추가\n%4$s: 이제 쌓을 수 없음",
   "item.tcc.compendium.entry.iron_ring.recipe": "\n\n\n\n\n\n\uc013\n",
-  "item.tcc.compendium.entry.iron_ring.description": "철제 반지는 새로운 아이템입니다. %s를 사용해 보석으로 장식 될 수 있으며, %s와 마법을 가질 수 있습니다. 매우 유용한 도구입니다.\n\n\n",
+  "item.tcc.compendium.entry.iron_ring.description": "철제 반지는 새로운 아이템입니다. %s를 사용해 보석으로 장식 될 수 있으며, %s와 마법을 가질 수 있습니다. 매우 유용한 도구입니다.\n\n\n\n\n\n",
   "item.tcc.compendium.entry.iron_ring.reference.0": "세공대",
   "item.tcc.compendium.entry.iron_ring.reference.1": "물약 효과",
 
@@ -489,7 +489,7 @@
   "item.tcc.compendium.entry.netherite_ring.more_info": "내구도: 175\n\n가능한 마법:\n - 수선\n - 내구성\n - 소실의 저주",
   "item.tcc.compendium.entry.netherite_ring.history": "%5$s: 구현",
   "item.tcc.compendium.entry.netherite_ring.recipe": "\n\n\n\n\n\n\uc041\n",
-  "item.tcc.compendium.entry.netherite_ring.description": "네더라이트 반지는 %s의 네더라이트 버전입니다. %s와 동일한 물약 효과를 가지며 용암이나 불에 타지 않습니다.\n\n\n\n",
+  "item.tcc.compendium.entry.netherite_ring.description": "네더라이트 반지는 %s의 네더라이트 버전입니다. %s와 동일한 물약 효과를 가지며 용암이나 불에 타지 않습니다.\n\n\n\n\n\n",
   "item.tcc.compendium.entry.netherite_ring.reference.0": "철제 반지",
   "item.tcc.compendium.entry.netherite_ring.reference.1": "금 반지",
 
@@ -498,14 +498,14 @@
   "item.tcc.compendium.entry.photometer.more_info": "광도의 단계는 다음과 같습니다;\n - 1단계: 박쥐가 생성될 수 있음\n - 2단계: 적대적 몹이 생성될 수 있음\n - 3단계: 네더의 몹들이 생성될 수 있음 \n - 4단계: 어떤 몹도 생성될 수 없음",
   "item.tcc.compendium.entry.photometer.history": "%5$s: 구현",
   "item.tcc.compendium.entry.photometer.recipe": "\n\n\n\n\n\n\uc043\n",
-  "item.tcc.compendium.entry.photometer.description": "광도계는 광도를 측정할 수 있는 유용한 도구입니다. 양손 어느쪽에 들어도 사용할 수 있습니다. 표시되는 단계는 생성될 수 있는 몹과 직접적으로 연결되어 있습니다. '더보기'를 참고하세요.\n",
+  "item.tcc.compendium.entry.photometer.description": "광도계는 광도를 측정할 수 있는 유용한 도구입니다. 양손 어느쪽에 들어도 사용할 수 있습니다. 표시되는 단계는 생성될 수 있는 몹과 직접적으로 연결되어 있습니다. '더보기'를 참고하세요.\n\n\n\n",
 
   "item.tcc.compendium.entry.jewelry_table.icon": "\uf041",
   "item.tcc.compendium.entry.jewelry_table.contributors": "%1$s: 제작",
   "item.tcc.compendium.entry.jewelry_table.more_info": "반지 부여 마법:\n - 수선\n - 내구성\n - 소실의 저주\n\n같은 종류의 보석을 다시 추가함으로 보석이 달린 반지를 수리 할 수도 있습니다",
   "item.tcc.compendium.entry.jewelry_table.history": "%3$s: 구현\n%4$s: 반지 수리 추가\n%5$s: 순수한 보석 완전 개편, 일부 마법 제거",
   "item.tcc.compendium.entry.jewelry_table.recipe": "\n\n\n\n\n\n\uc014\n",
-  "item.tcc.compendium.entry.jewelry_table.description": "%s과 %s을 %s에 적용할 때 사용됩니다. 아이템들에 적용하기 위해서는 %s를 필요로 합니다. 20개 이상의 가루를 추가하면 반지를 순수하게 만들고 스탯을 2배로 늘립니다. GUI의 왼쪽에 쓸만한 가이드가 또한 존재합니다.",
+  "item.tcc.compendium.entry.jewelry_table.description": "%s과 %s을 %s에 적용할 때 사용됩니다. 아이템들에 적용하기 위해서는 %s를 필요로 합니다. 20개 이상의 가루를 추가하면 반지를 순수하게 만들고 스탯을 2배로 늘립니다. GUI의 왼쪽에 쓸만한 가이드가 또한 존재합니다.\n\n",
   "item.tcc.compendium.entry.jewelry_table.reference.0": "보석",
   "item.tcc.compendium.entry.jewelry_table.reference.1": "물약",
   "item.tcc.compendium.entry.jewelry_table.reference.2": "반지",
@@ -516,7 +516,7 @@
   "item.tcc.compendium.entry.amethyst_dust.more_info": "자수정 가루는 무슨 맛일지 궁금하네요.",
   "item.tcc.compendium.entry.amethyst_dust.history": "%5$s: 구현",
   "item.tcc.compendium.entry.amethyst_dust.recipe": "덜 자란 자수정 봉오리(싹 틔우는 자수정 X)를 부수거나 자수정 블록을 모루로 내려쳐서 획득할 수 있습니다.",
-  "item.tcc.compendium.entry.amethyst_dust.description": "%s의 주 연료입니다. 덜 자란 자수정 봉오리(싹 틔우는 자수정 X)를 부수거나 자수정 블럭을 %s로 내리쳐서 획득할 수 있습니다.\n\n\n",
+  "item.tcc.compendium.entry.amethyst_dust.description": "%s의 주 연료입니다. 덜 자란 자수정 봉오리(싹 틔우는 자수정 X)를 부수거나 자수정 블럭을 %s로 내리쳐서 획득할 수 있습니다.\n\n\n\n\n\n",
   "item.tcc.compendium.entry.amethyst_dust.reference.0": "세공대",
   "item.tcc.compendium.entry.amethyst_dust.reference.1": "모루",
 
@@ -525,7 +525,7 @@
   "item.tcc.compendium.entry.geomancer.more_info": "흙점쟁이들은 여러분들이 4블럭 반경 내에 있으면 항상 폭발하는 기둥을 소환합니다.",
   "item.tcc.compendium.entry.geomancer.history": "%5$s: 구현",
   "item.tcc.compendium.entry.geomancer.recipe": "일반 월드에서는 y=40 밑에서 생성되며 확장된 월드에서는 y=0 이하에서만 생성됩니다.",
-  "item.tcc.compendium.entry.geomancer.description": "흙점쟁이들은 매우 기이하고 위험한 우민들입니다. 흙점쟁이들은 지하 깊숙한 곳에서만 생성됩니다. 여러분을 가두고 터뜨리는 마법의 기둥을 소환하며, 심층암 조약돌, %s, 자수정 조각, %s을 드랍합니다.",
+  "item.tcc.compendium.entry.geomancer.description": "흙점쟁이들은 매우 기이하고 위험한 우민들입니다. 흙점쟁이들은 지하 깊숙한 곳에서만 생성됩니다. 여러분을 가두고 터뜨리는 마법의 기둥을 소환하며, 심층암 조약돌, %s, 자수정 조각, %s을 드랍합니다.\n\n\n",
   "item.tcc.compendium.entry.geomancer.reference.0": "자수정 가루",
   "item.tcc.compendium.entry.geomancer.reference.1": "순수한 자수정 보석",
 
@@ -534,7 +534,7 @@
   "item.tcc.compendium.entry.jungle_temple_poison_arrows.contributors": "%3$s: 제작",
   "item.tcc.compendium.entry.jungle_temple_poison_arrows.more_info": "TMI: TCC 기능 중 가장 작을 겁니다. 너무 작아서 현재 여러분이 읽고 있는 문단의 길이가 진짜 설명보다 길답니다.",
   "item.tcc.compendium.entry.jungle_temple_poison_arrows.history": "%4$s: 구현",
-  "item.tcc.compendium.entry.jungle_temple_poison_arrows.description": "정글 사원의 발사기는 일반화살이 아니라 독화살을 가집니다. 매우 간단하죠!\n\n\n\n\n\n\n",
+  "item.tcc.compendium.entry.jungle_temple_poison_arrows.description": "정글 사원의 발사기는 일반화살이 아니라 독화살을 가집니다. 매우 간단하죠!\n\n\n\n\n\n\n\n\n",
 
   "item.tcc.compendium.entry.amethyst_gemstone.icon": "\uf091",
   "item.tcc.compendium.entry.amethyst_gemstone.contributors": "%1$s: 제작",
