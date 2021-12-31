@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "bracken:custom_items/glacium/glacium_leggings"
+    "layer0": "bracken:custom_items/glacium/glacium_leggings",
+	"layer1": "bracken:custom_items/glacium/glacium_leggings"
   }
 }

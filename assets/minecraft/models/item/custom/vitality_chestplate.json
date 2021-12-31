@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "bracken:custom_items/vitality/vitality_chestplate"
+    "layer0": "bracken:custom_items/vitality/vitality_chestplate",
+	"layer1": "bracken:custom_items/vitality/vitality_chestplate"
   }
 }

@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "bracken:custom_items/vitality/vitality_boots"
+    "layer0": "bracken:custom_items/vitality/vitality_boots",
+	"layer1": "bracken:custom_items/vitality/vitality_boots"
   }
 }
