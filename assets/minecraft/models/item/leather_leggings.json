@@ -6,6 +6,12 @@
   },
   "overrides": [
         {
+			"predicate": {
+				"custom_model_data": 888501
+			},
+			"model": "item/custom/glacium_leggings"
+		},
+		{
             "predicate": {
               "custom_model_data": 888502
             },
