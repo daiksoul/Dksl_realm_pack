@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/golden_crown"
+    "layer0": "minecraft:item/golden_crown",
+	"layer1": "minecraft:item/golden_crown"
   }
 }
