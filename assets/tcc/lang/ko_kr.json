@@ -541,7 +541,7 @@
   "item.tcc.compendium.entry.amethyst_gemstone.more_info": "기본 자수정 보석은 아이템들이 10분 뒤에, 순수한 자수정 보석은 15분 뒤에 사라지게 합니다.",
   "item.tcc.compendium.entry.amethyst_gemstone.history": "%5$s: 구현",
   "item.tcc.compendium.entry.amethyst_gemstone.recipe": "\n\n\n\n\n\n\uc039\n",
-  "item.tcc.compendium.entry.amethyst_gemstone.description": "자수정 보석은 자수정 조각을 석재 절단기에 넣어 만들 수 있습니다. %s에 있을 때 아이템을 보존합니다. 떨어뜨린 아이템을 빛나게 하고 소멸 시간을 연장합니다. 반지에 적용하려면 %s를 사용해야 합니다.",
+  "item.tcc.compendium.entry.amethyst_gemstone.description": "자수정 보석은 자수정 조각을 석재 절단기에 넣어 만들 수 있습니다. %s에 있을 때 아이템을 보존합니다. 떨어뜨린 아이템을 빛나게 하고 소멸 시간을 연장합니다. 반지에 적용하려면 %s를 사용해야 합니다.\n\n\n",
   "item.tcc.compendium.entry.amethyst_gemstone.reference.0": "반지",
   "item.tcc.compendium.entry.amethyst_gemstone.reference.1": "세공대",
 
@@ -550,7 +550,7 @@
   "item.tcc.compendium.entry.lapis_lazuli_gemstone.more_info": "기본 청금석 보석은 처치당 1추가 경험치를, 순수한 청금석 보석은 처치당 2추가 경험치를 줍니다.",
   "item.tcc.compendium.entry.lapis_lazuli_gemstone.history": "%3$s: 구현",
   "item.tcc.compendium.entry.lapis_lazuli_gemstone.recipe": "\n\n\n\n\uc015\n\n\n",
-  "item.tcc.compendium.entry.lapis_lazuli_gemstone.description": "청금석 보석은 청금석을 석재 절단기에 넣어 만들 수 있습니다. %s에 있을 때 처치당 추가 보너스 경험치를 줍니다. 반지에 적용하려면 %s를 사용해야 합니다.\n",
+  "item.tcc.compendium.entry.lapis_lazuli_gemstone.description": "청금석 보석은 청금석을 석재 절단기에 넣어 만들 수 있습니다. %s에 있을 때 처치당 추가 보너스 경험치를 줍니다. 반지에 적용하려면 %s를 사용해야 합니다.\n\n\n\n\n\n",
   "item.tcc.compendium.entry.lapis_lazuli_gemstone.reference.0": "반지",
   "item.tcc.compendium.entry.lapis_lazuli_gemstone.reference.1": "세공대",
 
@@ -560,14 +560,14 @@
   "item.tcc.compendium.entry.more_suspicious_stews.more_info": "공중 부양 효과는 10초간 지속되며 수중 호흡 효과는 20초간 지속됩니다.",
   "item.tcc.compendium.entry.more_suspicious_stews.history": "%2$s: 구현\n%5$s: 꽃 핀 진달래 스튜 추가",
   "item.tcc.compendium.entry.more_suspicious_stews.recipe": "\n\n\n\n\n\n\uc000\n",
-  "item.tcc.compendium.entry.more_suspicious_stews.description": "후렴화로 공중 부양 효과를 주는 수상한 스튜를 만들 수 있습니다. 아니면 꽃 핀 진달래로 수중 호흡 효과를 받을 수도 있구요.\n\n\n",
+  "item.tcc.compendium.entry.more_suspicious_stews.description": "후렴화로 공중 부양 효과를 주는 수상한 스튜를 만들 수 있습니다. 아니면 꽃 핀 진달래로 수중 호흡 효과를 받을 수도 있구요.\n\n\n\n\n\n\n",
 
   "item.tcc.compendium.entry.locket_of_learning.icon": "\uf045",
   "item.tcc.compendium.entry.locket_of_learning.contributors": "%3$s: 제작\n%1$s: 코드 수정",
   "item.tcc.compendium.entry.locket_of_learning.more_info": "TMI: 로켓은 정확히 30레벨보다 한 포인트 낮게 저장할 수 있습니다. 30레벨을 만들기 위한 경험치 포인트의 숫자가 인수가 매우 적은 숫자라 발생하는 현상입니다.",
   "item.tcc.compendium.entry.locket_of_learning.history": "%4$s: 구현\n%5$s: 수선이 부여된 아이템 수리 가능",
   "item.tcc.compendium.entry.locket_of_learning.recipe": "로켓은 효과 부여자에게서 2.5%의 확률로 떨어지며 삼림 대저택 지하에서 적어도 한번 생성됩니다.",
-  "item.tcc.compendium.entry.locket_of_learning.description": "로켓은 유용한 마법 부여 도구랍니다. 우클릭 시 경험치를 저장합니다. 웅크린 상태에서 우클릭 하면 경험치를 돌려줍니다. %s들이 떨어뜨리며 %s에서 발견할 수 있습니다.\n",
+  "item.tcc.compendium.entry.locket_of_learning.description": "로켓은 유용한 마법 부여 도구랍니다. 우클릭 시 경험치를 저장합니다. 웅크린 상태에서 우클릭 하면 경험치를 돌려줍니다. %s들이 떨어뜨리며 %s에서 발견할 수 있습니다.\n\n\n\n",
   "item.tcc.compendium.entry.locket_of_learning.reference.0": "효과 부여자",
   "item.tcc.compendium.entry.locket_of_learning.reference.1": "삼림 대저택 지하",
 
@@ -576,7 +576,7 @@
   "item.tcc.compendium.entry.loot_table_improvements.contributors": "%1$s: 제작",
   "item.tcc.compendium.entry.loot_table_improvements.more_info": "TMI: 좀비로 부터 떨어지는 철 조각의 갯수는 피글린이 금 조각을 떨어뜨리는 정도와 같습니다. 사실, 이 기능을 넣은 주된 이유랍니다.",
   "item.tcc.compendium.entry.loot_table_improvements.history": "%2$s: 구현\n%5$s: 약탈 III으로 셜커를 처치하면 항상 껍데기 2개를 드랍",
-  "item.tcc.compendium.entry.loot_table_improvements.description": "이 데이터팩은 루트 테이블을 약간 수정합니다. 좀비들은 철 조각을 떨어뜨리며, 거미는 가끔 거미줄을 떨어뜨리고, 주민 좀비는 드물게 에메랄드를, 셜커는 1개에서 2개 사이의 껍데기를 떨어뜨립니다. jeb_ 양 또한 사망시 랜덤한 색깔의 양털을 떨어뜨립니다.",
+  "item.tcc.compendium.entry.loot_table_improvements.description": "이 데이터팩은 루트 테이블을 약간 수정합니다. 좀비들은 철 조각을 떨어뜨리며, 거미는 가끔 거미줄을 떨어뜨리고, 주민 좀비는 드물게 에메랄드를, 셜커는 1개에서 2개 사이의 껍데기를 떨어뜨립니다. jeb_ 양 또한 처치시 랜덤한 색깔의 양털을 떨어뜨립니다.\n",
 
   "item.tcc.compendium.entry.nether_reactor.title": "네더 발전기",
   "item.tcc.compendium.entry.nether_reactor.icon": "\uf047",
@@ -584,7 +584,7 @@
   "item.tcc.compendium.entry.nether_reactor.more_info": "발전기는 시듦 I만 제거합니다. 시듦 II를 부여하는 위더를 너무 쉽게 잡는 것을 방지하기 위함입니다.",
   "item.tcc.compendium.entry.nether_reactor.history": "%3$s: 구현",
   "item.tcc.compendium.entry.nether_reactor.recipe": "\n\n\n\n\n   \uc017\n\n    발전기 조립\n\n 아래\uc021 중간   \uc021위\n\n \uc019\uc018\uc019    \uc018\uc021\uc018    \uc021\uc018\uc021\n \uc018\uc018\uc018    \uc021\uc020\uc021    \uc018\uc018\uc018\n \uc019\uc018\uc019    \uc018\uc021\uc018    \uc021\uc018\uc021",
-  "item.tcc.compendium.entry.nether_reactor.description": "네더 발전기는 반경 64블럭 내의 우호적 생명체들에게 화염 저항을 부여하며, 스트라이더에게는 신속 III을, 위더 I을 제거합니다. '노심'을 가운데에 놓고 조합법에 표시된 모양대로 블럭을 설치하여 활성화할 수 있습니다.\n",
+  "item.tcc.compendium.entry.nether_reactor.description": "네더 발전기는 반경 64블럭 내의 우호적 생명체들에게 화염 저항을 부여하며, 스트라이더에게는 신속 III을, 위더 I을 제거합니다. '노심'을 가운데에 놓고 조합법에 표시된 모양대로 블럭을 설치하여 활성화할 수 있습니다.\n\n\n",
 
   "item.tcc.compendium.entry.obsidian_gemstone.icon": "\uf048",
   "item.tcc.compendium.entry.obsidian_gemstone.contributors": "%1$s: 제작",
@@ -601,7 +601,7 @@
   "item.tcc.compendium.entry.obsidian_mirror.more_info": "반전되는 모든 효과\n<-> = 쌍방향으로 반전\n -> = 한쪽으로만 반전\n재생 <-> 독\n신속 <-> 구속\n성급함 <-> 채굴 피로\n힘 <-> 나약함\n실명 <-> 야간 투시\n발광 <-> 투명화\n공중 부양 <-> 느린 낙하\n행운 <-> 불운\n수중 호흡 <-> 화염 저항\n\n점프 강화 -> 구속\n멀미 -> 야간 투시\n돌고래의 가호 -> 구속\n시듦 -> 재생\n생명력 강화 -> 독\n흡수 -> 독\n저항 -> 시듦\n허기 -> 포화",
   "item.tcc.compendium.entry.obsidian_mirror.history": "%1$s: 구현\n%5$s: 버프도 디버프로 반전됨",
   "item.tcc.compendium.entry.obsidian_mirror.recipe": "\n\n\n\n\n\n\uc023\n",
-  "item.tcc.compendium.entry.obsidian_mirror.description": "흑요석 거울은 %s으로 만들어졌으며, 효과를 반전시킵니다. 반전시킨 효과의 강도에 따라 내구도가 닳습니다. 최대 강도 II 까지만 반전 시킬 수 있습니다. 예를 들어 행운 IV는 불운 IV가 아니라 불운 II로 반전됩니다.",
+  "item.tcc.compendium.entry.obsidian_mirror.description": "흑요석 거울은 %s으로 만들어졌으며, 효과를 반전시킵니다. 반전시킨 효과의 강도에 따라 내구도가 닳습니다. 최대 강도 II 까지만 반전 시킬 수 있습니다. 예를 들어 행운 IV는 불운 IV가 아니라 불운 II로 반전됩니다.\n\n",
   "item.tcc.compendium.entry.obsidian_mirror.reference.0": "흑요석 조각",
 
   "item.tcc.compendium.entry.obsidian_recipes.title": "흑요석 조합법",
@@ -609,7 +609,7 @@
   "item.tcc.compendium.entry.obsidian_recipes.contributors": "%1$s: 제작",
   "item.tcc.compendium.entry.obsidian_recipes.more_info": "우는 흑요석은 150%의 속도로 약간 더 빨리 구워집니다.",
   "item.tcc.compendium.entry.obsidian_recipes.history": "%1$s: 흑요석 조각 조합법 구현\n%3$s: 우는 흑요석 제련 구현",
-  "item.tcc.compendium.entry.obsidian_recipes.description": "우는 흑요석은 일반 흑요석으로 제련될 수 있으며 흑요석은 4개의 %s으로 조합 될 수 있습니다.\n\n\n\n\n\n",
+  "item.tcc.compendium.entry.obsidian_recipes.description": "우는 흑요석은 일반 흑요석으로 제련될 수 있으며 흑요석은 4개의 %s으로 조합 될 수 있습니다.\n\n\n\n\n\n\n",
   "item.tcc.compendium.entry.obsidian_recipes.reference.0": "흑요석 조각",
 
   "item.tcc.compendium.entry.obsidian_scythe.icon": "\uf051",
