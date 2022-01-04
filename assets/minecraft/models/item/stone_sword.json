@@ -4,12 +4,13 @@
     "layer0": "item/stone_sword"
   },
   "overrides": [
-  { "predicate": {"custom_model_data": 800038}, "model": "sipilus:shamanism/macahuitl"},
-  { "predicate": {"custom_model_data": 800077}, "model": "sipilus:shamanism/twisted_macahuitl"},
-  {
-    "predicate": {
-      "custom_model_data": 330000
-    },
-    "model": "tcc:item/tipped_swords/stone_sword"
-  }]
+	{
+		"predicate": {
+			"custom_model_data": 330000
+		},
+		"model": "tcc:item/tipped_swords/stone_sword"
+	},
+	{ "predicate": {"custom_model_data": 800038}, "model": "sipilus:shamanism/macahuitl"},
+	{ "predicate": {"custom_model_data": 800077}, "model": "sipilus:shamanism/twisted_macahuitl"}
+  ]
 }
