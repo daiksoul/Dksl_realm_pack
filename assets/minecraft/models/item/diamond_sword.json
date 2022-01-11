@@ -16,6 +16,8 @@
             },
             "model": "item/custom/glacium_sword"
         },
+		{ "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/tools/mystical_sword"},
+		{ "predicate": {"custom_model_data": 1130002}, "model": "item/asphodel/tools/alchemic_sword"},
 		{
             "predicate": {
               "custom_model_data": 1450003

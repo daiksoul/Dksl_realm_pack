@@ -727,6 +727,14 @@
   { "predicate": {"custom_model_data": 800087}, "model": "sipilus:shamanism/twisted_axe_base"},
   { "predicate": {"custom_model_data": 800088}, "model": "sipilus:shamanism/twisted_warp_charm"},
   { "predicate": {"custom_model_data": 800089}, "model": "sipilus:shamanism/twisted_steed_charm"},
-  { "predicate": {"custom_model_data": 800090}, "model": "sipilus:shamanism/steed_charm"}
+  { "predicate": {"custom_model_data": 800090}, "model": "sipilus:shamanism/steed_charm"},
+		{ "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/item/cloud_in_a_bottle"},
+		{ "predicate": {"custom_model_data": 1130002}, "model": "item/asphodel/item/pegasus_feather"},
+		{ "predicate": {"custom_model_data": 1130003}, "model": "item/asphodel/item/soul_bell"},
+		{ "predicate": {"custom_model_data": 1130004}, "model": "item/asphodel/item/portal_key"},
+		{ "predicate": {"custom_model_data": 1130005}, "model": "item/asphodel/item/kharons_amulet"},
+		{ "predicate": {"custom_model_data": 1130006}, "model": "item/asphodel/item/magic_mirror"},
+		{ "predicate": {"custom_model_data": 1130007}, "model": "item/asphodel/item/hoarding_amulet"},
+		{ "predicate": {"custom_model_data": 1130008}, "model": "item/asphodel/item/astral_staff"}
   ]
 }

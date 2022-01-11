@@ -105,6 +105,12 @@
               "custom_model_data": 888517
             },
             "model": "item/custom/nul_book"
-        }
+        },
+		{
+			"predicate": {
+				"custom_model_data": 1130001
+			},
+			"model": "item/asphodel_compendium"
+		}
     ]
 }

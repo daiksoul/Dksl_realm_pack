@@ -9,6 +9,10 @@
         "custom_model_data": 330001
       },
       "model": "tcc:item/cursed_crown"
-    }
+    },
+		{ "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/gear/golden/radiant_helmet"},
+		{ "predicate": {"custom_model_data": 1130002}, "model": "item/asphodel/gear/golden/fleeting_helmet"},
+		{ "predicate": {"custom_model_data": 1130003}, "model": "item/asphodel/gear/golden/brutal_helmet"},
+		{ "predicate": {"custom_model_data": 1130004}, "model": "item/asphodel/gear/golden/tough_helmet"}
   ]
 }

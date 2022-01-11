@@ -16,6 +16,11 @@
               "custom_model_data": 888502
             },
             "model": "item/custom/vitality_boots"
-        }
+        },
+		{ "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/gear/leather/radiant_boots"},
+		{ "predicate": {"custom_model_data": 1130002}, "model": "item/asphodel/gear/leather/fleeting_boots"},
+		{ "predicate": {"custom_model_data": 1130003}, "model": "item/asphodel/gear/leather/brutal_boots"},
+		{ "predicate": {"custom_model_data": 1130004}, "model": "item/asphodel/gear/leather/tough_boots"},
+		{ "predicate": {"custom_model_data": 1130005}, "model": "item/netherite_boots"}
     ]
 }

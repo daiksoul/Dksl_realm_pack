@@ -1,4 +1,7 @@
 {
+  "block.minecraft.chain_command_block": "§4Infernal Machine",
+  "item.minecraft.knowledge_book": "§eThe Compendium",
+  
   "language.name": "English",
   "language.region": "United States",
   "language.code": "en_us",

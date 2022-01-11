@@ -1,0 +1,28 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/firework_rocket"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1130001}, "model": "block/custom_blocks/infernal_machine"},
+		{ "predicate": {"custom_model_data": 1130002}, "model": "block/custom_blocks/portal"},
+		{ "predicate": {"custom_model_data": 1130003}, "model": "item/asphodel/entities/shroud_head"},
+		{ "predicate": {"custom_model_data": 1130004}, "model": "item/asphodel/entities/shroud_body"},
+		{ "predicate": {"custom_model_data": 1130005}, "model": "block/custom_blocks/activated_onyx_ore"},
+		{ "predicate": {"custom_model_data": 1130006}, "model": "block/custom_blocks/activated_onyx_block"},
+		{ "predicate": {"custom_model_data": 1130007}, "model": "block/custom_blocks/sunken_onyx_ore"},
+		{ "predicate": {"custom_model_data": 1130008}, "model": "block/custom_blocks/sunken_onyx_block"},
+		{ "predicate": {"custom_model_data": 1130009}, "model": "block/custom_blocks/pheonix_onyx_ore"},
+		{ "predicate": {"custom_model_data": 1130010}, "model": "block/custom_blocks/pheonix_onyx_block"},
+		{ "predicate": {"custom_model_data": 1130011}, "model": "item/asphodel/entities/wraith_head"},
+		{ "predicate": {"custom_model_data": 1130012}, "model": "item/asphodel/entities/wraith_hand"},
+		{ "predicate": {"custom_model_data": 1130013}, "model": "item/asphodel/entities/wraith_fist"},
+		{ "predicate": {"custom_model_data": 1130014}, "model": "item/asphodel/entities/wraith_head_hurt"},
+		{ "predicate": {"custom_model_data": 1130015}, "model": "item/asphodel/entities/wraith_hand_hurt"},
+		{ "predicate": {"custom_model_data": 1130016}, "model": "item/asphodel/entities/wraith_fist_hurt"},
+		{ "predicate": {"custom_model_data": 1130017}, "model": "block/custom_blocks/boss_portal"},
+		{ "predicate": {"custom_model_data": 1130018}, "model": "block/custom_blocks/activated_vase"},
+		{ "predicate": {"custom_model_data": 1130019}, "model": "block/custom_blocks/phoenix_vase"},
+		{ "predicate": {"custom_model_data": 1130020}, "model": "block/custom_blocks/sunken_vase"}
+	]
+}
