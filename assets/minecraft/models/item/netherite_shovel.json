@@ -5,7 +5,9 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/jewel_of_fuar"}
-
+		{"predicate": {"custom_model_data":1}, "model": "item/jewel_of_fuar"},
+		{ "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/tools/activated_shovel"},
+		{ "predicate": {"custom_model_data": 1130002}, "model": "item/asphodel/tools/phoenix_shovel"},
+		{ "predicate": {"custom_model_data": 1130003}, "model": "item/asphodel/tools/sunken_shovel"}
 	]
 }

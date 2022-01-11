@@ -1,0 +1,15 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/charcoal"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/item/activated_onyx"},
+		{ "predicate": {"custom_model_data": 1130002}, "model": "item/asphodel/item/activated_ingot"},
+		{ "predicate": {"custom_model_data": 1130003}, "model": "item/asphodel/item/sunken_onyx"},
+		{ "predicate": {"custom_model_data": 1130004}, "model": "item/asphodel/item/sunken_ingot"},
+		{ "predicate": {"custom_model_data": 1130005}, "model": "item/asphodel/item/pheonix_onyx"},
+		{ "predicate": {"custom_model_data": 1130006}, "model": "item/asphodel/item/pheonix_ingot"}
+
+	]
+}

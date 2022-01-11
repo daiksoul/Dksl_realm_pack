@@ -22,6 +22,11 @@
               "custom_model_data": 888503
             },
             "model": "item/custom/cloak_chestplate"
-        }
+        },
+		{ "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/gear/leather/radiant_chestplate"},
+		{ "predicate": {"custom_model_data": 1130002}, "model": "item/asphodel/gear/leather/fleeting_chestplate"},
+		{ "predicate": {"custom_model_data": 1130003}, "model": "item/asphodel/gear/leather/brutal_chestplate"},
+		{ "predicate": {"custom_model_data": 1130004}, "model": "item/asphodel/gear/leather/tough_chestplate"},
+		{ "predicate": {"custom_model_data": 1130005}, "model": "item/netherite_chestplate"}
     ]
 }

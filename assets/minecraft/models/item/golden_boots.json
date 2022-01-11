@@ -1,0 +1,12 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/golden_boots"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/gear/golden/radiant_boots"},
+		{ "predicate": {"custom_model_data": 1130002}, "model": "item/asphodel/gear/golden/fleeting_boots"},
+		{ "predicate": {"custom_model_data": 1130003}, "model": "item/asphodel/gear/golden/brutal_boots"},
+		{ "predicate": {"custom_model_data": 1130004}, "model": "item/asphodel/gear/golden/tough_boots"}
+	]
+}

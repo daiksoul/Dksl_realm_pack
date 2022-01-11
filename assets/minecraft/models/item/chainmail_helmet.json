@@ -1,0 +1,12 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/chainmail_helmet"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/gear/chainmail/radiant_helmet"},
+		{ "predicate": {"custom_model_data": 1130002}, "model": "item/asphodel/gear/chainmail/fleeting_helmet"},
+		{ "predicate": {"custom_model_data": 1130003}, "model": "item/asphodel/gear/chainmail/brutal_helmet"},
+		{ "predicate": {"custom_model_data": 1130004}, "model": "item/asphodel/gear/chainmail/tough_helmet"}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/netherite_chestplate"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/gear/netherite/radiant_chestplate"},
+		{ "predicate": {"custom_model_data": 1130002}, "model": "item/asphodel/gear/netherite/fleeting_chestplate"},
+		{ "predicate": {"custom_model_data": 1130003}, "model": "item/asphodel/gear/netherite/brutal_chestplate"},
+		{ "predicate": {"custom_model_data": 1130004}, "model": "item/asphodel/gear/netherite/tough_chestplate"}
+	]
+}

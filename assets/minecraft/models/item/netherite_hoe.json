@@ -5,6 +5,9 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/carthendryll"}
+		{"predicate": {"custom_model_data":1}, "model": "item/carthendryll"},
+		{ "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/tools/activated_hoe"},
+		{ "predicate": {"custom_model_data": 1130002}, "model": "item/asphodel/tools/phoenix_hoe"},
+		{ "predicate": {"custom_model_data": 1130003}, "model": "item/asphodel/tools/sunken_hoe"}
 	]
 }
