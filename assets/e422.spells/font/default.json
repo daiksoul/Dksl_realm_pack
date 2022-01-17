@@ -1,0 +1,333 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "e422.spells:fireball1.png",
+            "ascent": 8,
+            "height": 32,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:fireball2.png",
+            "ascent": 2,
+            "height": 32,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:iceshard1.png",
+            "ascent": 5,
+            "height": 32,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:iceshard2.png",
+            "ascent": -1,
+            "height": 32,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:bonemeal.png",
+            "ascent": 8,
+            "height": 32,
+            "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:bonemeal2.png",
+            "ascent": 2,
+            "height": 32,
+            "chars": ["\uE005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:bloodcurse.png",
+            "ascent": 8,
+            "height": 32,
+            "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:shadow1.png",
+            "ascent": 2,
+            "height": 32,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:shadow2.png",
+            "ascent": 5,
+            "height": 32,
+            "chars": ["\uE008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:shadow3.png",
+            "ascent": -1,
+            "height": 32,
+            "chars": ["\uE009"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:healring1.png",
+            "ascent": 8,
+            "height": 32,
+            "chars": ["\uE010"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:healring2.png",
+            "ascent": 11,
+            "height": 32,
+            "chars": ["\uE011"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:healring3.png",
+            "ascent": 5,
+            "height": 32,
+            "chars": ["\uE012"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:invis.png",
+            "ascent": 5,
+            "height": 32,
+            "chars": ["\uE013"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:ghost.png",
+            "ascent": 8,
+            "height": 32,
+            "chars": ["\uE014"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:inferno.png",
+            "ascent": 8,
+            "height": 32,
+            "chars": ["\uE015"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:kineticshield1.png",
+            "ascent": 8,
+            "height": 32,
+            "chars": ["\uE016"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:kineticshield2.png",
+            "ascent": 2,
+            "height": 32,
+            "chars": ["\uE017"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:knockback1.png",
+            "ascent": 5,
+            "height": 32,
+            "chars": ["\uE018"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:knockback2.png",
+            "ascent": 8,
+            "height": 32,
+            "chars": ["\uE019"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:lightning.png",
+            "ascent": 8,
+            "height": 32,
+            "chars": ["\uE020"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:lux1.png",
+            "ascent": 8,
+            "height": 32,
+            "chars": ["\uE021"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:lux2.png",
+            "ascent": 2,
+            "height": 32,
+            "chars": ["\uE022"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:xray1.png",
+            "ascent": 8,
+            "height": 32,
+            "chars": ["\uE023"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:xray2.png",
+            "ascent": 11,
+            "height": 32,
+            "chars": ["\uE024"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:xray3.png",
+            "ascent": 5,
+            "height": 32,
+            "chars": ["\uE025"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:teleport1.png",
+            "ascent": 8,
+            "height": 32,
+            "chars": ["\uE026"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:teleport2.png",
+            "ascent": 11,
+            "height": 32,
+            "chars": ["\uE027"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:teleport3.png",
+            "ascent": 5,
+            "height": 32,
+            "chars": ["\uE028"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:teleport4.png",
+            "ascent": 5,
+            "height": 32,
+            "chars": ["\uE038"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:smash1.png",
+            "ascent": 8,
+            "height": 32,
+            "chars": ["\uE029"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:smash2.png",
+            "ascent": 11,
+            "height": 32,
+            "chars": ["\uE030"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:smash3.png",
+            "ascent": 5,
+            "height": 32,
+            "chars": ["\uE031"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:treefell.png",
+            "ascent": 8,
+            "height": 32,
+            "chars": ["\uE032"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:earthwave.png",
+            "ascent": 5,
+            "height": 32,
+            "chars": ["\uE033"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:earthwall.png",
+            "ascent": 8,
+            "height": 32,
+            "chars": ["\uE034"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:guardian1.png",
+            "ascent": 8,
+            "height": 32,
+            "chars": ["\uE035"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:guardian2.png",
+            "ascent": 11,
+            "height": 32,
+            "chars": ["\uE036"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:guardian3.png",
+            "ascent": 5,
+            "height": 32,
+            "chars": ["\uE037"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:waterbeam1.png",
+            "ascent": 8,
+            "height": 32,
+            "chars": ["\uE039"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:waterbeam2.png",
+            "ascent": 2,
+            "height": 32,
+            "chars": ["\uE040"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:lavabridge.png",
+            "ascent": 8,
+            "height": 32,
+            "chars": ["\uE041"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:resistring1.png",
+            "ascent": 8,
+            "height": 32,
+            "chars": ["\uE042"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:resistring2.png",
+            "ascent": 11,
+            "height": 32,
+            "chars": ["\uE043"]
+        },
+        {
+            "type": "bitmap",
+            "file": "e422.spells:resistring3.png",
+            "ascent": 5,
+            "height": 32,
+            "chars": ["\uE044"]
+        },
+
+
+
+
+
+
+
+        {
+            "type": "ttf",
+            "file": "minecraft:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        }
+    ]
+}

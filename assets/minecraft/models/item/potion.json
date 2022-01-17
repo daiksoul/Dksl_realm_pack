@@ -5,7 +5,13 @@
 	"layer1": "minecraft:item/potion"
   },
   "overrides": [
-		{
+	{
+		"predicate": {
+            "custom_model_data": 3422
+		},
+		"model": "item/e422.spells/e422_star_bottle"
+    },
+	{
       "predicate": {
         "custom_model_data": 330000
       },

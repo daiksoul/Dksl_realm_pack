@@ -1,6 +1,9 @@
 {
   "parent": "item/template_spawn_egg",
-  "overrides": [{
+  "overrides": [
+	{ "predicate": {"custom_model_data":3422}, "model": "item/e422.spells/spellforge"},
+	{ "predicate": {"custom_model_data":3423}, "model": "item/e422.spells/spellforge_on"},
+	{
       "predicate": {
         "custom_model_data": 420002
       },

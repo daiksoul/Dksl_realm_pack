@@ -4,6 +4,12 @@
 		"layer0": "item/iron_boots"
 	},
 	"overrides": [
+		{	
+			"predicate": {
+				"custom_model_data": 3422
+            },
+            "model": "item/e422.unbreaktotem/e422_totem_of_unbreaking"
+		},
 		{ "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/gear/iron/radiant_boots"},
 		{ "predicate": {"custom_model_data": 1130002}, "model": "item/asphodel/gear/iron/fleeting_boots"},
 		{ "predicate": {"custom_model_data": 1130003}, "model": "item/asphodel/gear/iron/brutal_boots"},

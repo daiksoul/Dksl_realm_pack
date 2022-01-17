@@ -3,7 +3,14 @@
   "textures": {
     "layer0": "item/written_book"
   },
-  "overrides": [{
+  "overrides": [
+	{
+		"predicate": {
+			"custom_model_data": 3422
+		},
+		"model": "item/e422.spells/e422_mage_book"
+	},
+  {
     "predicate": {
       "custom_model_data": 330000
     },
