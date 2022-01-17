@@ -5,7 +5,10 @@
  },
 
  "overrides": [
-  { "predicate": {"custom_model_data": 800036}, "model": "sipilus:shamanism/primalshovel"}
+	{"predicate": {"custom_model_data": 423001}, "model": "florcraft:item/arid_shovel"},
+    {"predicate": {"custom_model_data": 423002}, "model": "florcraft:item/aqueous_shovel"},
+    {"predicate": {"custom_model_data": 423003}, "model": "florcraft:item/verdant_shovel"},
+	{ "predicate": {"custom_model_data": 800036}, "model": "sipilus:shamanism/primalshovel"}
  
 
  ]

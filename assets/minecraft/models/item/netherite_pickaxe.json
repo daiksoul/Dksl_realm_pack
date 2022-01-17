@@ -5,6 +5,7 @@
 	},
 	
 	"overrides": [
+		{"predicate": {"custom_model_data": 423000}, "model": "florcraft:item/raging_river_pickaxe"},
 		{"predicate": {"custom_model_data":888501}, "model": "item/feilfri"},
 		{ "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/tools/activated_pickaxe"},
 		{ "predicate": {"custom_model_data": 1130002}, "model": "item/asphodel/tools/phoenix_pickaxe"},

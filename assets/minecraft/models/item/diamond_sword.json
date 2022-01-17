@@ -10,6 +10,7 @@
 			},
 			"model": "tcc:item/tipped_swords/diamond_sword"
 		},
+		{"predicate": {"custom_model_data": 423000}, "model": "florcraft:item/scorching_arc_sword"},
         {
             "predicate": {
               "custom_model_data": 888502

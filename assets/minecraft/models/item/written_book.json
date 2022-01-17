@@ -8,7 +8,17 @@
       "custom_model_data": 330000
     },
     "model": "tcc:item/compendium"
-  },
+  },{
+      "predicate": {
+        "custom_model_data": 420000
+      },
+      "model": "um:item/zealot_tome"
+    },{
+      "predicate": {
+        "custom_model_data": 420001
+      },
+      "model": "um:item/demonomicon"
+    },
   { "predicate": {"custom_model_data": 800073}, "model": "sipilus:shamanism/shamanic_texts"},
   { "predicate": {"custom_model_data": 800074}, "model": "sipilus:shamanism/twisted_texts"},
   { "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/item/compendium"}
