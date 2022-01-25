@@ -183,7 +183,7 @@
       "ascent": 48,
       "height": 100,
       "chars": [
-        "\uc000"
+        "\uf400"
       ]
     },
     {
@@ -192,7 +192,7 @@
       "ascent": 32,
       "height": 81,
       "chars": [
-        "\ud000"
+        "\uf300"
       ]
     },
     {
@@ -201,7 +201,7 @@
       "ascent": 32,
       "height": 155,
       "chars": [
-        "\ud002"
+        "\uf302"
       ]
     },
     {
@@ -210,7 +210,7 @@
       "ascent": 16,
       "height": 16,
       "chars": [
-        "\ud003"
+        "\uf303"
       ]
     },
     {
@@ -219,9 +219,9 @@
       "ascent": 11,
       "height": 12,
       "chars": [
-        "\ud004\ud005\ud006",
-        "\ud007\ud008\ud009",
-        "\ud010  "
+        "\uf304\uf305\uf306",
+        "\uf307\uf308\uf309",
+        "\uf310  "
       ]
     },
     {
@@ -230,7 +230,7 @@
       "ascent": 12,
       "height": 12,
       "chars": [
-        "\ud011"
+        "\uf311"
       ]
     },
     {
@@ -239,7 +239,7 @@
       "ascent": 32,
       "height": 146,
       "chars": [
-        "\ud012"
+        "\uf312"
       ]
     },
     {
@@ -248,7 +248,7 @@
       "ascent": 10,
       "height": 22,
       "chars": [
-        "\ud013"
+        "\uf313"
       ]
     },
     {
@@ -257,7 +257,7 @@
       "ascent": 19,
       "height": 22,
       "chars": [
-        "\ud014"
+        "\uf314"
       ]
     },
     {
@@ -266,7 +266,7 @@
       "ascent": 7,
       "height": 16,
       "chars": [
-        "\ud015"
+        "\uf315"
       ]
     },
     {
@@ -275,8 +275,8 @@
       "ascent": 10,
       "height": 12,
       "chars": [
-        "\ud016\ud017",
-        "\ud018\ud019"
+        "\uf316\uf317",
+        "\uf318\uf319"
       ]
     },
     {
@@ -285,7 +285,7 @@
       "ascent": 12,
       "height": 16,
       "chars": [
-        "\ud020"
+        "\uf320"
       ]
     },
     {
@@ -294,7 +294,7 @@
       "ascent": 32,
       "height": 155,
       "chars": [
-        "\ud021"
+        "\uf321"
       ]
     },
     {
@@ -303,7 +303,7 @@
       "ascent": 16,
       "height": 16,
       "chars": [
-        "\ud022"
+        "\uf322"
       ]
     },
     {
@@ -365,16 +365,16 @@
       "ascent": 48,
       "height": 100,
       "chars": [
-        "\uc001\uc002\uc021\uc022\uc041\uc042\uc061\uc062\uc081\uc082\uc101\uc102\uc121\uc122",
-        "\uc003\uc004\uc023\uc024\uc043\uc044\uc063\uc064\uc083\uc084\uc103\uc104\uc123\uc124",
-        "\uc005\uc006\uc025\uc026\uc045\uc046\uc065\uc066\uc085\uc086\uc105\uc106\uc125\uc126",
-        "\uc007\uc008\uc027\uc028\uc047\uc048\uc067\uc068\uc087\uc088\uc107\uc108\uc127\uc128",
-        "\uc009\uc010\uc029\uc030\uc049\uc050\uc069\uc070\uc089\uc090\uc109\uc110\uc129\uc130",
-        "\uc011\uc012\uc031\uc032\uc051\uc052\uc071\uc072\uc091\uc092\uc111\uc112\uc131\uc132",
-        "\uc013\uc014\uc033\uc034\uc053\uc054\uc073\uc074\uc093\uc094\uc113\uc114\uc133\uc134",
-        "\uc015\uc016\uc035\uc036\uc055\uc056\uc075\uc076\uc095\uc096\uc115\uc116\uc135\uc136",
-        "\uc017\uc018\uc037\uc038\uc057\uc058\uc077\uc078\uc097\uc098\uc117\uc118\uc137\uc138",
-        "\uc019\uc020\uc039\uc040\uc059\uc060\uc079\uc080\uc099\uc100\uc119\uc120\uc139\uc140"
+        "\uf101\uf102\uf121\uf122\uf141\uf142\uf161\uf162\uf181\uf182\uf201\uf202\uf221\uf222",
+        "\uf103\uf104\uf123\uf124\uf143\uf144\uf163\uf164\uf183\uf184\uf203\uf204\uf223\uf224",
+        "\uf105\uf106\uf125\uf126\uf145\uf146\uf165\uf166\uf185\uf186\uf205\uf206\uf225\uf226",
+        "\uf107\uf108\uf127\uf128\uf147\uf148\uf167\uf168\uf187\uf188\uf207\uf208\uf227\uf228",
+        "\uf109\uf110\uf129\uf130\uf149\uf150\uf169\uf170\uf189\uf190\uf209\uf210\uf229\uf230",
+        "\uf111\uf112\uf131\uf132\uf151\uf152\uf171\uf172\uf191\uf192\uf211\uf212\uf231\uf232",
+        "\uf113\uf114\uf133\uf134\uf153\uf154\uf173\uf174\uf193\uf194\uf213\uf214\uf233\uf234",
+        "\uf115\uf116\uf135\uf136\uf155\uf156\uf175\uf176\uf195\uf196\uf215\uf216\uf235\uf236",
+        "\uf117\uf118\uf137\uf138\uf157\uf158\uf177\uf178\uf197\uf198\uf217\uf218\uf237\uf238",
+        "\uf119\uf120\uf139\uf140\uf159\uf160\uf179\uf180\uf199\uf200\uf219\uf220\uf239\uf240"
       ]
     },
 	{ "type": "bitmap", "file": "neodgm:font/unicode_page_11.png", "ascent":7, "chars":[

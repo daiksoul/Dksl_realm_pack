@@ -8,9 +8,9 @@
 
   "item.um.demonomicon": "Demonomicon",
   "item.um.demonomicon.lore": "A guide to all of Undermagic.",
-  "item.um.demonomicon.example_page": "\ud003%s\ud003\ud003%s%s%s%s%s\n\ud021\n%s",
+  "item.um.demonomicon.example_page": "\uf303%s\uf303\uf303%s%s%s%s%s\n\uf321\n%s",
   "item.um.demonomicon.example_page.title": "Example Entry Page",
-  "item.um.demonomicon.example_page.icon": "\ud022",
+  "item.um.demonomicon.example_page.icon": "\uf322",
   "item.um.demonomicon.example_page.history": "This is where the history of the item would appear.",
   "item.um.demonomicon.example_page.contributors": "This is where the contributors to this feature would appear.",
   "item.um.demonomicon.example_page.more_info": "This is where additional information would appear.",
@@ -18,11 +18,11 @@
   "item.um.demonomicon.example_page.give_command": "This is where you would click to get an item.",
   "item.um.demonomicon.example_page.description": "This is an example.\n\nIf you hover over the icons, you can read about them. \n\nAfter this page, there is a feature index.",
 
-  "item.um.demonomicon.page": "\ud003%s\ud003\ud003%s%s%s%s%s\n\ud002\n%s\n\ue020%8$s\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003%9$s\n\ue020%8$s\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003%9$s",
-  "item.um.demonomicon.page.arrow_button": "\ud011",
+  "item.um.demonomicon.page": "\uf303%s\uf303\uf303%s%s%s%s%s\n\uf302\n%s\n\ue020%8$s\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303%9$s\n\ue020%8$s\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303%9$s",
+  "item.um.demonomicon.page.arrow_button": "\uf311",
   "item.um.demonomicon.page.feature_hover_event": "Click here to open feature page",
   "item.um.demonomicon.page.developers_hover_event": "Click here to open developers page",
-  "item.um.demonomicon.page.history_icon": "\ud004",
+  "item.um.demonomicon.page.history_icon": "\uf304",
   "item.um.demonomicon.page.history_icon.hover_event": "History\n%s",
   "item.um.demonomicon.version.beta_1": "Beta 1",
   "item.um.demonomicon.version.beta_2": "Beta 2",
@@ -66,32 +66,32 @@
   "item.um.demonomicon.version.1_0": "1.0",
   "item.um.demonomicon.version.1_1": "1.1",
 
-  "item.um.demonomicon.page.contributors_icon": "\ud005",
+  "item.um.demonomicon.page.contributors_icon": "\uf305",
   "item.um.demonomicon.page.contributors_icon.hover_event": "Contributors\n%s",
-  "item.um.demonomicon.page.more_info_icon": "\ud006",
+  "item.um.demonomicon.page.more_info_icon": "\uf306",
   "item.um.demonomicon.page.more_info_icon.hover_event": "More Info\n%s",
-  "item.um.demonomicon.page.crafting_icon": "\ud007",
+  "item.um.demonomicon.page.crafting_icon": "\uf307",
   "item.um.demonomicon.page.crafting_icon.hover_event": "Recipe\n%s",
-  "item.um.demonomicon.page.location_icon": "\ud008",
+  "item.um.demonomicon.page.location_icon": "\uf308",
   "item.um.demonomicon.page.location_icon.hover_event": "Whereabouts\n%s",
-  "item.um.demonomicon.page.give_command_icon": "\ud009",
+  "item.um.demonomicon.page.give_command_icon": "\uf309",
   "item.um.demonomicon.page.give_command.hover_event": "Click to give item",
-  "item.um.demonomicon.page.empty_icon": "\ud010",
+  "item.um.demonomicon.page.empty_icon": "\uf310",
 
-  "item.um.demonomicon.index_page": "%s\n\ud012\n\ud013%s%s%s%s%s%s\n\ud014%s%s%s%s%s%s\n\ud013%s%s%s%s%s%s\n\ud014%s%s%s%s%s%s\n\ud013%s%s%s%s%s%s\n\ud014%s%s%s%s%s%s\n\ud013%s%s%s%s%s%s\n\ud014%s%s%s%s%s%s\n\ud013%s%s%s%s%s%s\n\ud014%s%s%s%s%s%s\n\ud013%s%s%s%s%s%s\n\ud014%s%s%s%s%s%s",
+  "item.um.demonomicon.index_page": "%s\n\uf312\n\uf313%s%s%s%s%s%s\n\uf314%s%s%s%s%s%s\n\uf313%s%s%s%s%s%s\n\uf314%s%s%s%s%s%s\n\uf313%s%s%s%s%s%s\n\uf314%s%s%s%s%s%s\n\uf313%s%s%s%s%s%s\n\uf314%s%s%s%s%s%s\n\uf313%s%s%s%s%s%s\n\uf314%s%s%s%s%s%s\n\uf313%s%s%s%s%s%s\n\uf314%s%s%s%s%s%s",
   "item.um.demonomicon.index_page.title": "    Index Page (%s/%s)",
-  "item.um.demonomicon.index_page.spacer": "\ud015",
+  "item.um.demonomicon.index_page.spacer": "\uf315",
   "item.um.demonomicon.index_page.empty_icon": "\uf000",
 
 
-  "item.um.demonomicon.cover_page": "\n\ud000\n\n\n         %s\n\n\ud020%s%s%s%s\n\n%s",
+  "item.um.demonomicon.cover_page": "\n\uf300\n\n\n         %s\n\n\uf320%s%s%s%s\n\n%s",
   "item.um.demonomicon.cover_page.content": "\n\nA comprehensive guide to all the content in Undermagic.",
-  "item.um.demonomicon.cover_page.pmc": "   \ud016",
+  "item.um.demonomicon.cover_page.pmc": "   \uf316",
   "item.um.demonomicon.cover_page.pmc.hover_event": "Planet Minecraft Link",
-  "item.um.demonomicon.cover_page.discord": "\ud017   ",
+  "item.um.demonomicon.cover_page.discord": "\uf317   ",
   "item.um.demonomicon.cover_page.discord.hover_event": "Discord Link",
 
-  "item.um.demonomicon.credits": "This is where credits go\n\n\n\n\n\n\n\n\n\n\n\n\n\ue020\ud011\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003%1$s\n\ue020\ud011\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003%1$s",
+  "item.um.demonomicon.credits": "This is where credits go\n\n\n\n\n\n\n\n\n\n\n\n\n\ue020\uf311\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303%1$s\n\ue020\uf311\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303%1$s",
 
   "item.um.demonomicon.entry.zealot_tome.title": "Difficulties",
   "item.um.demonomicon.entry.zealot_tome.icon": "\uf002",
@@ -114,7 +114,7 @@
   "item.um.demonomicon.entry.undercrafter.icon": "\uf003",
   "item.um.demonomicon.entry.undercrafter.contributors": "Hashs: Created\nImCoolYeah105: Reworked\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.undercrafter.history": "%1$s: Added.\n%34$s: Reworked.\n%35$s: Changed obtaining method.",
-  "item.um.demonomicon.entry.undercrafter.recipe": "Place a crafting table in an item frame above a netherrack-lit fire.\n\n\n\n\n\n\uc001\n",
+  "item.um.demonomicon.entry.undercrafter.recipe": "Place a crafting table in an item frame above a netherrack-lit fire.\n\n\n\n\n\n\uf101\n",
   "item.um.demonomicon.entry.undercrafter.description": "The Undercrafter is a special crafting table used to create almost everything in Undermagic.\n\nIf a recipe in this book uses a crafting grid, use the Undercrafter to craft it.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.demons.title": "Demons",
@@ -130,7 +130,7 @@
   "item.um.demonomicon.entry.blood_chalice.contributors": "Hashs: Created\nImCoolYeah105: Reworked\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.blood_chalice.more_info": "Boss drops yield far more blood than other drops. For example, Nether Stars yield 100 blood each.",
   "item.um.demonomicon.entry.blood_chalice.history": "%6$s: Added.\n%17$s: Added new burnable items.\n%35$s: Changed obtaining method.",
-  "item.um.demonomicon.entry.blood_chalice.recipe": "Place a cauldron in an item frame above a netherrack-lit fire.\n\n\n\n\n\n\uc002\n",
+  "item.um.demonomicon.entry.blood_chalice.recipe": "Place a cauldron in an item frame above a netherrack-lit fire.\n\n\n\n\n\n\uf102\n",
   "item.um.demonomicon.entry.blood_chalice.description": "The Blood Chalice is a cauldron infused with dark magic, allowing it to convert mob drops tossed in into blood, typically at a rate of 1 blood per item. That blood can then be used for %s.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.blood_chalice.reference.0": "Blood Infusion",
 
@@ -139,7 +139,7 @@
   "item.um.demonomicon.entry.blood_infusion.contributors": "Hashs: Created\nImCoolYeah105: Reworked",
   "item.um.demonomicon.entry.blood_infusion.more_info": "There used to be seperate blocks to hold the items for Blood Infusion, called Pedestals.",
   "item.um.demonomicon.entry.blood_infusion.history": "%6$s: Added.\n%34$s: Reworked.",
-  "item.um.demonomicon.entry.blood_infusion.recipe": "Set up the Blood Altar like such.\n\n\n\n\n\n\uc005\n\n\n",
+  "item.um.demonomicon.entry.blood_infusion.recipe": "Set up the Blood Altar like such.\n\n\n\n\n\n\uf105\n\n\n",
   "item.um.demonomicon.entry.blood_infusion.description": "Using the blood in a Chalice, you can perform rituals. Construct a Blood Altar as shown in the recipe section above. The corner blocks (in this case Radiant Monoliths) serve as Boosters. %s\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.blood_infusion.reference.0": "(cont)",
 
@@ -164,7 +164,7 @@
   "item.um.demonomicon.entry.nether_shards.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.nether_shards.more_info": "Nether Shards are typically used to upgrade class-specific gear.",
   "item.um.demonomicon.entry.nether_shards.history": "%34$s: Added.",
-  "item.um.demonomicon.entry.nether_shards.recipe": "\n\n\n\n\n\n\uc029\n\n\n\n\n\n\n\uc030\n",
+  "item.um.demonomicon.entry.nether_shards.recipe": "\n\n\n\n\n\n\uf129\n\n\n\n\n\n\n\uf130\n",
   "item.um.demonomicon.entry.nether_shards.description": "Fragmented pieces of the core of power animating the Wither, Nether Shards are used in many things.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.demonic_steel.title": "Demonic Steel",
@@ -172,7 +172,7 @@
   "item.um.demonomicon.entry.demonic_steel.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.demonic_steel.more_info": "Demon parts can also be found in various nether-related chests.",
   "item.um.demonomicon.entry.demonic_steel.history": "%1$s: Added.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.demonic_steel.recipe": "\n\n\n\n\n\n\uc004\n\n\n\n\n\n\n\uc006\n",
+  "item.um.demonomicon.entry.demonic_steel.recipe": "\n\n\n\n\n\n\uf104\n\n\n\n\n\n\n\uf106\n",
   "item.um.demonomicon.entry.demonic_steel.description": "Demonic Steel, a tough alloy laced with dark energy, can be made from iron ingots and the various items dropped by %s\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.demonic_steel.reference.0": "demons.",
 
@@ -181,7 +181,7 @@
   "item.um.demonomicon.entry.demonic_steel_plate.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.demonic_steel_plate.more_info": "Demonic Steel ingots and plates can be found in some bastion chests.",
   "item.um.demonomicon.entry.demonic_steel_plate.history": "%1$s: Added.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.demonic_steel_plate.recipe": "\n\n\n\n\n\n\uc007\n",
+  "item.um.demonomicon.entry.demonic_steel_plate.recipe": "\n\n\n\n\n\n\uf107\n",
   "item.um.demonomicon.entry.demonic_steel_plate.description": "%s must be formed into plates in order to be forged into armor and weaponry, unlike other materials.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.demonic_steel_plate.reference.0": "Demonic Steel",
 
@@ -190,7 +190,7 @@
   "item.um.demonomicon.entry.demonic_steel_longsword.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.demonic_steel_longsword.more_info": "This longsword cannot be enchanted, but has higher attack power than \nan unenchanted netherite sword or Bloody Edge.",
   "item.um.demonomicon.entry.demonic_steel_longsword.history": "%1$s: Added.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.demonic_steel_longsword.recipe": "\n\n\n\n\n\n\uc008\n",
+  "item.um.demonomicon.entry.demonic_steel_longsword.recipe": "\n\n\n\n\n\n\uf108\n",
   "item.um.demonomicon.entry.demonic_steel_longsword.description": "%s can be used to make a special sword. This sword cannot sweep and is slower, but can be sheathed and wielded to perform a Quick Draw attack.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.demonic_steel_longsword.reference.0": "Demonic Steel Plates",
 
@@ -199,7 +199,7 @@
   "item.um.demonomicon.entry.demonic_steel_armor.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.demonic_steel_armor.more_info": "This armor used to provide up to 40% flat damage reduction instead of extra toughness.",
   "item.um.demonomicon.entry.demonic_steel_armor.history": "%2$s: Added.\n%12$s: Nerfed.\n%34$s: Reworked.\n%38$s: Retextured.",
-  "item.um.demonomicon.entry.demonic_steel_armor.recipe": "\n\n\n\n\n\n\uc009\n\n\n\n\n\n\n\uc010\n\n\n\n\n\n\n\uc011\n\n\n\n\n\n\n\uc012\n",
+  "item.um.demonomicon.entry.demonic_steel_armor.recipe": "\n\n\n\n\n\n\uf109\n\n\n\n\n\n\n\uf110\n\n\n\n\n\n\n\uf111\n\n\n\n\n\n\n\uf112\n",
   "item.um.demonomicon.entry.demonic_steel_armor.description": "%s can be used to make a suit of armor. It produces a field of dark energy which provides up to 5 toughness per piece but decays as you get hit.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.demonic_steel_armor.reference.0": "Demonic Steel Plates",
 
@@ -208,7 +208,7 @@
   "item.um.demonomicon.entry.demonic_steel_bow.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.demonic_steel_bow.more_info": "The explosions do not work inside the Shadesull Dungeon. They have a 100% block drop rate and the power of TNT.",
   "item.um.demonomicon.entry.demonic_steel_bow.history": "%3$s: Added.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.demonic_steel_bow.recipe": "\n\n\n\n\n\n\uc013\n",
+  "item.um.demonomicon.entry.demonic_steel_bow.recipe": "\n\n\n\n\n\n\uf113\n",
   "item.um.demonomicon.entry.demonic_steel_bow.description": "%s can be used to make a powerful bow. The bow shoots higher velocity shots. If you have gunpowder, it consumes it to fire explosive shots.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.demonic_steel_bow.reference.0": "Demonic Steel Plates",
 
@@ -217,7 +217,7 @@
   "item.um.demonomicon.entry.bow_of_niflheim.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.bow_of_niflheim.more_info": "The Bow of Niflheim does not need to be charged, and its bolts pierce blocks and inflict slowness.",
   "item.um.demonomicon.entry.bow_of_niflheim.history": "%4$s: Added.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.bow_of_niflheim.recipe": "\n\n\n\n\n\n\uc014\n",
+  "item.um.demonomicon.entry.bow_of_niflheim.recipe": "\n\n\n\n\n\n\uf114\n",
   "item.um.demonomicon.entry.bow_of_niflheim.description": "The Bow of Niflheim is an ancient weapon made by the Ice Demons that fires icy bolts. The bolts deal massive damage to demons.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.demon_portal_stabilizer.title": "Demon Portal Stabilizer",
@@ -225,7 +225,7 @@
   "item.um.demonomicon.entry.demon_portal_stabilizer.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.demon_portal_stabilizer.more_info": "The Demon Portals made by the Stabilizer are the same as the ones found at the top of Demon Towers.",
   "item.um.demonomicon.entry.demon_portal_stabilizer.history": "%4$s: Added.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.demon_portal_stabilizer.recipe": "\n\n\n\n\n\n\uc015\n\n\n\n\n\n\n\uc016\n",
+  "item.um.demonomicon.entry.demon_portal_stabilizer.recipe": "\n\n\n\n\n\n\uf115\n\n\n\n\n\n\n\uf116\n",
   "item.um.demonomicon.entry.demon_portal_stabilizer.description": "Throw this on top of obsidian to place a Demon Portal, which spews out demons at a fairly fast rate.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.demon_flame_scepter.title": "Demon Flame Scepter",
@@ -233,7 +233,7 @@
   "item.um.demonomicon.entry.demon_flame_scepter.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.demon_flame_scepter.more_info": "The Dragon Staff is identical to this weapon in attacking style, minus the fire-setting element.",
   "item.um.demonomicon.entry.demon_flame_scepter.history": "%23$s: Added.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.demon_flame_scepter.recipe": "\n\n\n\n\n\n\uc017\n",
+  "item.um.demonomicon.entry.demon_flame_scepter.recipe": "\n\n\n\n\n\n\uf117\n",
   "item.um.demonomicon.entry.demon_flame_scepter.description": "A magic weapon, this scepter spews demon flames inflicting minor damage and setting wide swaths of ground aflame.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.demon_army.title": "Demon Army",
@@ -250,7 +250,7 @@
   "item.um.demonomicon.entry.pit_lord.contributors": "Hashs: Created\nRagtime Gal: Textured/Modeled",
   "item.um.demonomicon.entry.pit_lord.more_info": "Don't get too far away from him or too close. Do your best to avoid getting meleed.\nYou will want to have fully enchanted netherite armor,\nor a similarly built armor set added by Undermagic.",
   "item.um.demonomicon.entry.pit_lord.history": "%5$s: Added.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.pit_lord.recipe": "Can be fought with the Infernal Summons (by throwing into a demon portal), \nor at the end of the Demon Army.\nRecipe for the Summons shown below.\n\n\n\n\n\n\uc018\n",
+  "item.um.demonomicon.entry.pit_lord.recipe": "Can be fought with the Infernal Summons (by throwing into a demon portal), \nor at the end of the Demon Army.\nRecipe for the Summons shown below.\n\n\n\n\n\n\uf118\n",
   "item.um.demonomicon.entry.pit_lord.description": "After defeating %s, the Demon King himself may seek you out. The Pit Lord is a challenging boss who always appears at the end of the Demon Army.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.pit_lord.reference.0": "his finest generals",
 
@@ -259,7 +259,7 @@
   "item.um.demonomicon.entry.pit_lord_chestplate.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.pit_lord_chestplate.more_info": "This chestplate used to be viable against the final boss before it was reworked.\nIt counts as three pieces of Demonic Steel armor for toughness.",
   "item.um.demonomicon.entry.pit_lord_chestplate.history": "%5$s: Added.\n%12$s: Nerfed.\n%34$s: Reworked.\n%38$s: Retextured.",
-  "item.um.demonomicon.entry.pit_lord_chestplate.recipe": "\n\n\n\n\n\n\uc019\n",
+  "item.um.demonomicon.entry.pit_lord_chestplate.recipe": "\n\n\n\n\n\n\uf119\n",
   "item.um.demonomicon.entry.pit_lord_chestplate.description": "Made from the heart of the Pit Lord, this chestplate provides supreme protection, granting incredible toughness, immunity to natural fire, and 25% fire damage reduction.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.sanguis_inspectorum.title": "Sanguis Inspectorum",
@@ -267,7 +267,7 @@
   "item.um.demonomicon.entry.sanguis_inspectorum.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.sanguis_inspectorum.more_info": "One mob drop is usually equal to one unit of blood.",
   "item.um.demonomicon.entry.sanguis_inspectorum.history": "%6$s: Added.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.sanguis_inspectorum.recipe": "Blood Cost: 10\nBooster Tier: I\n\n\n\n\n\n\uc021\n\n\n\n\n\n",
+  "item.um.demonomicon.entry.sanguis_inspectorum.recipe": "Blood Cost: 10\nBooster Tier: I\n\n\n\n\n\n\uf121\n\n\n\n\n\n",
   "item.um.demonomicon.entry.sanguis_inspectorum.description": "Right click with this mystical tome to accurately read off the blood amount in a nearby chalice.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.bloody_edge.title": "Bloody Edge",
@@ -275,7 +275,7 @@
   "item.um.demonomicon.entry.bloody_edge.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.bloody_edge.more_info": "The tier III version used to heal you instantly on a hit.",
   "item.um.demonomicon.entry.bloody_edge.history": "%5$s: Added.\n%34$s: Retextured.\n%39$s: Nerfed and added tier IV version.",
-  "item.um.demonomicon.entry.bloody_edge.recipe": "Blood Cost: 10\nBooster Tier: I\n\n\n\n\uc022\n\n\n\n\n\nBlood Cost: 50\nBooster Tier: II\n\n\n\n\uc023\n\n\n\n\n\nBlood Cost: 250\nBooster Tier: III\n\n\n\n\uc024\n\n\n\n\nBlood Cost: 500\nBooster Tier: IV\n\n\n\n\uc129\n\n\n\n\n",
+  "item.um.demonomicon.entry.bloody_edge.recipe": "Blood Cost: 10\nBooster Tier: I\n\n\n\n\uf122\n\n\n\n\n\nBlood Cost: 50\nBooster Tier: II\n\n\n\n\uf123\n\n\n\n\n\nBlood Cost: 250\nBooster Tier: III\n\n\n\n\uf124\n\n\n\n\nBlood Cost: 500\nBooster Tier: IV\n\n\n\n\uf229\n\n\n\n\n",
   "item.um.demonomicon.entry.bloody_edge.description": "This sword comes in four tiers, each with better attack damage and speed. The tier III and IV versions also grants regeneration on dealing damage.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.blood_rain_staff.title": "Blood Rain Staff",
@@ -283,7 +283,7 @@
   "item.um.demonomicon.entry.blood_rain_staff.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.blood_rain_staff.more_info": "The clouds persist for quite some time and drip blood straight down.",
   "item.um.demonomicon.entry.blood_rain_staff.history": "%23$s: Added.\n%34$s: Retextured.\n%39$s: Buffed and added tier IV version.",
-  "item.um.demonomicon.entry.blood_rain_staff.recipe": "Blood Cost: 10\nBooster Tier: I\n\n\n\n\uc025\n\n\n\n\n\nBlood Cost: 50\nBooster Tier: II\n\n\n\n\uc026\n\n\n\n\n\nBlood Cost: 250\nBooster Tier: III\n\n\n\n\uc027\n\n\n\n\nBlood Cost: 500\nBooster Tier: IV\n\n\n\n\uc130\n\n\n\n\n",
+  "item.um.demonomicon.entry.blood_rain_staff.recipe": "Blood Cost: 10\nBooster Tier: I\n\n\n\n\uf125\n\n\n\n\n\nBlood Cost: 50\nBooster Tier: II\n\n\n\n\uf126\n\n\n\n\n\nBlood Cost: 250\nBooster Tier: III\n\n\n\n\uf127\n\n\n\n\nBlood Cost: 500\nBooster Tier: IV\n\n\n\n\uf230\n\n\n\n\n",
   "item.um.demonomicon.entry.blood_rain_staff.description": "This magic staff targets enemies and drips harmful blood from above. It comes in four tiers, each with better damage.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.bloodstone.title": "Bloodstone",
@@ -291,7 +291,7 @@
   "item.um.demonomicon.entry.bloodstone.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.bloodstone.more_info": "The Bloodstone Elemental can drop a fireball on you from above.",
   "item.um.demonomicon.entry.bloodstone.history": "%7$s: Added.\n%8$s: Retextured.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.bloodstone.recipe": "Obtained from the Bloodstone Elemental, a miniboss\nsummoned with the following ritual:\n\nBlood Cost: 100\nBooster Tier: II\n\n\n\n\n\n\uc028\n\n\n\n\n\n\n",
+  "item.um.demonomicon.entry.bloodstone.recipe": "Obtained from the Bloodstone Elemental, a miniboss\nsummoned with the following ritual:\n\nBlood Cost: 100\nBooster Tier: II\n\n\n\n\n\n\uf128\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.bloodstone.description": "Blood infused stones obtained by slaying the Bloodstone Elemental, a miniboss summoned using Blood Infusion, Bloodstone can be used in many sanguine creations.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.animal_creation.title": "Animal Creation",
@@ -299,7 +299,7 @@
   "item.um.demonomicon.entry.animal_creation.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.animal_creation.more_info": "Pigs cannot be created because they don't have secondary drops. Shame.\nAlso, rabbit hide is the secondary drop for rabbits, not feet.",
   "item.um.demonomicon.entry.animal_creation.history": "%7$s: Added.",
-  "item.um.demonomicon.entry.animal_creation.recipe": "For common animals with two drops, the beef indicates a meat\nand the leather indicates a secondary drop like leather\nor feathers.\n\nBlood Cost: 5\nBooster Tier: I\n\n\n\n\n\n\uc031\n\n\n\n\n\n\nFor horse-like animals, use a golden carrot\ninstead of a golden apple for donkeys.\n\nBlood Cost: 25\nBooster Tier: II\n\n\n\n\n\n\uc032\n\n\n\n\n\n\n",
+  "item.um.demonomicon.entry.animal_creation.recipe": "For common animals with two drops, the beef indicates a meat\nand the leather indicates a secondary drop like leather\nor feathers.\n\nBlood Cost: 5\nBooster Tier: I\n\n\n\n\n\n\uf131\n\n\n\n\n\n\nFor horse-like animals, use a golden carrot\ninstead of a golden apple for donkeys.\n\nBlood Cost: 25\nBooster Tier: II\n\n\n\n\n\n\uf132\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.animal_creation.description": "Learning the secrets of life, you can mix blood and organic matter to create animals. These infusion recipes create animals such as cows, rabbits, or horses.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.carnage.title": "Carnage",
@@ -307,7 +307,7 @@
   "item.um.demonomicon.entry.carnage.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.carnage.more_info": "With Efficiency V, the tier II version can instantly mine stone.",
   "item.um.demonomicon.entry.carnage.history": "%8$s: Added.\n%34$s: Retextured.\n%39$s: Added tier IV version.",
-  "item.um.demonomicon.entry.carnage.recipe": "Blood Cost: 50\nBooster Tier: I\n\n\n\n\uc033\n\n\n\n\n\nBlood Cost: 150\nBooster Tier: II\n\n\n\n\uc034\n\n\n\n\n\nBlood Cost: 500\nBooster Tier: III\n\n\n\n\uc035\n\n\n\n\nBlood Cost: 1000\nBooster Tier: IV\n\n\n\n\uc131\n\n\n\n\n",
+  "item.um.demonomicon.entry.carnage.recipe": "Blood Cost: 50\nBooster Tier: I\n\n\n\n\uf133\n\n\n\n\n\nBlood Cost: 150\nBooster Tier: II\n\n\n\n\uf134\n\n\n\n\n\nBlood Cost: 500\nBooster Tier: III\n\n\n\n\uf135\n\n\n\n\nBlood Cost: 1000\nBooster Tier: IV\n\n\n\n\uf231\n\n\n\n\n",
   "item.um.demonomicon.entry.carnage.description": "This hammer, made from %s, comes in four tiers. It is not only an effective mining tool but also a slow and powerful melee weapon.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.carnage.reference.0": "Bloodstone",
 
@@ -316,7 +316,7 @@
   "item.um.demonomicon.entry.bloodstained_armor.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.bloodstained_armor.more_info": "The armor cannot recharge in the presence of bosses.\nIf your armor's blood count drops to 10 or lower, you will\nbe starved and rapidly take damage.\nThe armor holds a maximum of 200 blood.",
   "item.um.demonomicon.entry.bloodstained_armor.history": "%8$s: Added.\n%38$s: Retextured.",
-  "item.um.demonomicon.entry.bloodstained_armor.recipe": "Blood Cost: 250\nBooster Tier: III\nAny piece of chain armor works.\nThe whole set is made in one go.\n\n\n\n\n\uc036\n\n\n\n\n\n\nThe chestplate can be upgraded with the Bloodstained Heart:\n\nBlood Cost: 250\nBooster Tier: IV\n\n\n\n\n\uc037\n\n\n\n\n\n",
+  "item.um.demonomicon.entry.bloodstained_armor.recipe": "Blood Cost: 250\nBooster Tier: III\nAny piece of chain armor works.\nThe whole set is made in one go.\n\n\n\n\n\uf136\n\n\n\n\n\n\nThe chestplate can be upgraded with the Bloodstained Heart:\n\nBlood Cost: 250\nBooster Tier: IV\n\n\n\n\n\uf137\n\n\n\n\n\n",
   "item.um.demonomicon.entry.bloodstained_armor.description": "This armor, reinforced with %s absorbs blood from a nearby Chalice when the set is worn. When you take damage, it then uses that blood to heal you for about 2 hearts.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.bloodstained_armor.reference.0": "Bloodstone,",
 
@@ -325,7 +325,7 @@
   "item.um.demonomicon.entry.blood_amalgam.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.blood_amalgam.more_info": "The Amalgam itself is invulnerable. You must kill its minions to damage it.\nStay away when it cries out to avoid\nits devastating blood shotgun.",
   "item.um.demonomicon.entry.blood_amalgam.history": "%9$s: Added.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.blood_amalgam.recipe": "Throw the Sanguine Eye into a Blood Chalice to fight the boss.\nThe Eye is made as such:\n\nBlood Cost: 500\nBooster Tier: III\n\n\n\n\n\n\uc038\n\n\n\n\n\n\n",
+  "item.um.demonomicon.entry.blood_amalgam.recipe": "Throw the Sanguine Eye into a Blood Chalice to fight the boss.\nThe Eye is made as such:\n\nBlood Cost: 500\nBooster Tier: III\n\n\n\n\n\n\uf138\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.blood_amalgam.description": "A powerful amalgam of flesh and blood, the Blood Amalgam is a boss that can be summoned with a large sacrifice of blood and precious items.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.radiant_monolith.title": "Radiant Monolith",
@@ -333,7 +333,7 @@
   "item.um.demonomicon.entry.radiant_monolith.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.radiant_monolith.more_info": "Beacons used to be used in place of this item.",
   "item.um.demonomicon.entry.radiant_monolith.history": "%34$s: Added.",
-  "item.um.demonomicon.entry.radiant_monolith.recipe": "\n\n\n\n\n\n\uc039\n",
+  "item.um.demonomicon.entry.radiant_monolith.recipe": "\n\n\n\n\n\n\uf139\n",
   "item.um.demonomicon.entry.radiant_monolith.description": "Radiant Monoliths are the %s for the %s made using %s\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.radiant_monolith.reference.0": "Tier III Boosters",
   "item.um.demonomicon.entry.radiant_monolith.reference.1": "Blood Altar,",
@@ -344,7 +344,7 @@
   "item.um.demonomicon.entry.blood_monolith.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.blood_monolith.more_info": "The Tier IV Blood Altar was added after the other tiers.",
   "item.um.demonomicon.entry.blood_monolith.history": "%13$s: Added.",
-  "item.um.demonomicon.entry.blood_monolith.recipe": "\n\n\n\n\n\n\uc040\n",
+  "item.um.demonomicon.entry.blood_monolith.recipe": "\n\n\n\n\n\n\uf140\n",
   "item.um.demonomicon.entry.blood_monolith.description": "Blood Monoliths are the %s for the %s made using Crystallized Blood Essence dropped from the %s\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.blood_monolith.reference.0": "Tier IV Boosters",
   "item.um.demonomicon.entry.blood_monolith.reference.1": "Blood Altar,",
@@ -369,7 +369,7 @@
   "item.um.demonomicon.entry.ele_limbs.icon": "\uf028",
   "item.um.demonomicon.entry.ele_limbs.contributors": "Hashs: Created",
   "item.um.demonomicon.entry.ele_limbs.more_info": "This infusion formerly granted several potion effects.",
-  "item.um.demonomicon.entry.ele_limbs.recipe": "Tolerance Cost: 3\nBlood Cost: 100\nBooster Tier: IV\n\n\n\n\n\n\uc041\n\n\n\n\n\n\n",
+  "item.um.demonomicon.entry.ele_limbs.recipe": "Tolerance Cost: 3\nBlood Cost: 100\nBooster Tier: IV\n\n\n\n\n\n\uf141\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.ele_limbs.history": "%16$s: Added.\n%35$s: Reworked.",
   "item.um.demonomicon.entry.ele_limbs.description": "Your most basic %s is an obvious start. By infusing your limbs with elemental materials, you can gain slightly increased strength and speed.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.ele_limbs.reference.0": "Self-Infusion",
@@ -378,7 +378,7 @@
   "item.um.demonomicon.entry.iron_skin.icon": "\uf029",
   "item.um.demonomicon.entry.iron_skin.contributors": "Hashs: Created",
   "item.um.demonomicon.entry.iron_skin.more_info": "This infusion formerly granted Resistance II.",
-  "item.um.demonomicon.entry.iron_skin.recipe": "Tolerance Cost: 2\nBlood Cost: 150\nBooster Tier: IV\n\n\n\n\n\n\uc042\n\n\n\n\n\n\n",
+  "item.um.demonomicon.entry.iron_skin.recipe": "Tolerance Cost: 2\nBlood Cost: 150\nBooster Tier: IV\n\n\n\n\n\n\uf142\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.iron_skin.history": "%16$s: Added.\n%35$s: Reworked.",
   "item.um.demonomicon.entry.iron_skin.description": "By infusing iron into your skin, you can become highly resistant to damage. Iron Skin grants additional armor points and toughness; combine it with upgraded Bloodstained armor and you can obtain full armor points.\n\n\n\n\n\n\n\n\n",
 
@@ -386,7 +386,7 @@
   "item.um.demonomicon.entry.flame_body.icon": "\uf030",
   "item.um.demonomicon.entry.flame_body.contributors": "Hashs: Created",
   "item.um.demonomicon.entry.flame_body.more_info": "Very useful against the Pit Lord.",
-  "item.um.demonomicon.entry.flame_body.recipe": "Tolerance Cost: 4\nBlood Cost: 200\nBooster Tier: IV\n\n\n\n\n\n\uc043\n\n\n\n\n\n\n",
+  "item.um.demonomicon.entry.flame_body.recipe": "Tolerance Cost: 4\nBlood Cost: 200\nBooster Tier: IV\n\n\n\n\n\n\uf143\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.flame_body.history": "%16$s: Added.\n%38$s: Buffed.",
   "item.um.demonomicon.entry.flame_body.description": "You have figured out how to become resistant to the dangers of the Nether. By infusing your body with various hot materials, you can become immune to natural fire, as well as gain 25% fire damage reduction.\n\n\n\n\n\n\n\n\n",
 
@@ -394,7 +394,7 @@
   "item.um.demonomicon.entry.tolerance.icon": "\uf031",
   "item.um.demonomicon.entry.tolerance.contributors": "Hashs: Created",
   "item.um.demonomicon.entry.tolerance.more_info": "This infusion is not lost if you die by overload.",
-  "item.um.demonomicon.entry.tolerance.recipe": "Tolerance Cost: 0\nBlood Cost: 300\nBooster Tier: IV\n\n\n\n\n\n\uc044\n\n\n\n\n\n\n",
+  "item.um.demonomicon.entry.tolerance.recipe": "Tolerance Cost: 0\nBlood Cost: 300\nBooster Tier: IV\n\n\n\n\n\n\uf144\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.tolerance.history": "%16$s: Added.",
   "item.um.demonomicon.entry.tolerance.description": "By embedding Nether Shards within your body and infusing your bones with gold, you can become able to tolerate much greater levels of magical enhancement. The Tolerant infusion adds +5 to your tolerance cap.\n\n\n\n\n\n\n\n\n",
 
@@ -402,7 +402,7 @@
   "item.um.demonomicon.entry.enderlord.icon": "\uf032",
   "item.um.demonomicon.entry.enderlord.contributors": "Hashs: Created",
   "item.um.demonomicon.entry.enderlord.more_info": "There used to be a charm with an identical effect to this infusion.",
-  "item.um.demonomicon.entry.enderlord.recipe": "Tolerance Cost: 6\nBlood Cost: 400\nBooster Tier: IV\n\n\n\n\n\n\uc045\n\n\n\n\n\n\n",
+  "item.um.demonomicon.entry.enderlord.recipe": "Tolerance Cost: 6\nBlood Cost: 400\nBooster Tier: IV\n\n\n\n\n\n\uf145\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.enderlord.history": "%16$s: Added.",
   "item.um.demonomicon.entry.enderlord.description": "While you have this infusion, sneak-jump to warp forward. Due to the limitations of your teleportation organs, this only works if nothing, not even tall grass, is at your destination.\n\n\n\n\n\n\n\n\n",
 
@@ -426,7 +426,7 @@
   "item.um.demonomicon.entry.shadow_metals.icon": "\uf035",
   "item.um.demonomicon.entry.shadow_metals.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.shadow_metals.more_info": "The bases can also be obtained from Shadebeasts.",
-  "item.um.demonomicon.entry.shadow_metals.recipe": "\n\n\n\n\n\n\uc046\n\n\n\n\n\n\n\uc047\n",
+  "item.um.demonomicon.entry.shadow_metals.recipe": "\n\n\n\n\n\n\uf146\n\n\n\n\n\n\n\uf147\n",
   "item.um.demonomicon.entry.shadow_metals.history": "%18$s: Added.\n%34$s: Retextured.",
   "item.um.demonomicon.entry.shadow_metals.description": "%s can respectively be made into Shadow Steel and Tenebrous Metal, two useful crafting materials.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.shadow_metals.reference.0": "Shadow and Tenebrous Base",
@@ -435,7 +435,7 @@
   "item.um.demonomicon.entry.shadow_plate.icon": "\uf036",
   "item.um.demonomicon.entry.shadow_plate.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.shadow_plate.more_info": "I have gone insane due to people in my Discord server\nnot knowing what the word \"mundane\" means.",
-  "item.um.demonomicon.entry.shadow_plate.recipe": "\n\n\n\n\n\n\uc048\n",
+  "item.um.demonomicon.entry.shadow_plate.recipe": "\n\n\n\n\n\n\uf148\n",
   "item.um.demonomicon.entry.shadow_plate.history": "%18$s: Added.\n%34$s: Retextured.",
   "item.um.demonomicon.entry.shadow_plate.description": "%s can be made into plates, along with mundane gold. These strong plates can be used in powerful gear.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.shadow_plate.reference.0": "The two refined shadow metals",
@@ -452,7 +452,7 @@
   "item.um.demonomicon.entry.shadecloth.icon": "\uf037",
   "item.um.demonomicon.entry.shadecloth.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.shadecloth.more_info": "Shadecloth is cheaper than Shadow Plates, making it better for cheap gear.",
-  "item.um.demonomicon.entry.shadecloth.recipe": "\n\n\n\n\n\n\uc049\n",
+  "item.um.demonomicon.entry.shadecloth.recipe": "\n\n\n\n\n\n\uf149\n",
   "item.um.demonomicon.entry.shadecloth.history": "%18$s: Added.\n%34$s: Retextured.",
   "item.um.demonomicon.entry.shadecloth.description": "A dark fabric made by weaving dark alloys into it, Shadecloth is made from string, shadow steel, and tenebrous metal.\n\n\n\n\n\n\n\n\n",
 
@@ -460,7 +460,7 @@
   "item.um.demonomicon.entry.shadow_armor.icon": "\uf038",
   "item.um.demonomicon.entry.shadow_armor.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.shadow_armor.more_info": "This armor does not have any effects beyond additional toughness.",
-  "item.um.demonomicon.entry.shadow_armor.recipe": "\n\n\n\n\n\n\uc050\n\n\n\n\n\n\n\uc051\n\n\n\n\n\n\n\uc052\n\n\n\n\n\n\n\uc053\n",
+  "item.um.demonomicon.entry.shadow_armor.recipe": "\n\n\n\n\n\n\uf150\n\n\n\n\n\n\n\uf151\n\n\n\n\n\n\n\uf152\n\n\n\n\n\n\n\uf153\n",
   "item.um.demonomicon.entry.shadow_armor.history": "%18$s: Added.\n%38$s: Retextured.",
   "item.um.demonomicon.entry.shadow_armor.description": "%s can be used to make a suit of armor with toughness surpassing netherite.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.shadow_armor.reference.0": "Shadow Plates",
@@ -469,7 +469,7 @@
   "item.um.demonomicon.entry.shade_armor.icon": "\uf039",
   "item.um.demonomicon.entry.shade_armor.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.shade_armor.more_info": "This armor used to make you lose stealth after attacking with melee.",
-  "item.um.demonomicon.entry.shade_armor.recipe": "\n\n\n\n\n\n\uc054\n\n\n\n\n\n\n\uc055\n\n\n\n\n\n\n\uc056\n\n\n\n\n\n\n\uc057\n",
+  "item.um.demonomicon.entry.shade_armor.recipe": "\n\n\n\n\n\n\uf154\n\n\n\n\n\n\n\uf155\n\n\n\n\n\n\n\uf156\n\n\n\n\n\n\n\uf157\n",
   "item.um.demonomicon.entry.shade_armor.history": "%18$s: Added.\n%38$s: Retextured.",
   "item.um.demonomicon.entry.shade_armor.description": "%s can be used to make a dark suit of armor with minimal protection but grants invulnerability against one hit every few seconds.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.shade_armor.reference.0": "Shadecloth",
@@ -478,7 +478,7 @@
   "item.um.demonomicon.entry.phantasmal_dagger.icon": "\uf040",
   "item.um.demonomicon.entry.phantasmal_dagger.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.phantasmal_dagger.more_info": "Using this item with fully stealthed Shade Walker armor allows it to deal critical stealth strikes.",
-  "item.um.demonomicon.entry.phantasmal_dagger.recipe": "\n\n\n\n\n\n\uc058\n",
+  "item.um.demonomicon.entry.phantasmal_dagger.recipe": "\n\n\n\n\n\n\uf158\n",
   "item.um.demonomicon.entry.phantasmal_dagger.history": "%18$s: Added.\n%34$s: Retextured.",
   "item.um.demonomicon.entry.phantasmal_dagger.description": "You can make a dagger which can clone itself and shoot forth at your enemies. It can also be used as a workable melee weapon.\n\n\n\n\n\n\n\n\n",
 
@@ -486,7 +486,7 @@
   "item.um.demonomicon.entry.charms.icon": "\uf041",
   "item.um.demonomicon.entry.charms.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.charms.more_info": "Combo - Melee attacking grants small stacking boosts to damage and attack speed\nSprint - Sprinting increases your speed over time\nMana Regen - Increases mana regen\nSupercharge - Every few seconds a fully charged arrow gains bonus damage\nCure - Removes negative effects every few seconds\nPanic - Taking damage grants speed\n\nFrenzy - Being at low health boosts stats\nImmunity - Increases invincibility after taking damage\nGhost Step - Allows sprinting through walls\nMana Conduit - Taking damage restores mana\nSpectre Sight - Glows nearby entities\nCowardice - Increases melee damage at full health\n\nLast Stand - Grants significant regen at cost of max HP when at low HP\nKinetic Field - Sometimes absorbs projectiles\nSwirling - Sometimes launches foes hit by melee attacks\nBlaze - Burns away at nearby entities\nCounter Dash - Sneak jump to do a dash that can block an attack\nCritical Hit - Melee hits have a chance to do double damage",
-  "item.um.demonomicon.entry.charms.recipe": "To use the Charm Table, place an armor piece in the upper-middle slot and a charm to its left.\nFor armors that accept two charms, place another charm to the right of the armor.\n\n\n\n\n\n\uc059\n",
+  "item.um.demonomicon.entry.charms.recipe": "To use the Charm Table, place an armor piece in the upper-middle slot and a charm to its left.\nFor armors that accept two charms, place another charm to the right of the armor.\n\n\n\n\n\n\uf159\n",
   "item.um.demonomicon.entry.charms.history": "%18$s: Added.\n%34$s: Retextured and reworked.",
   "item.um.demonomicon.entry.charms.description": "Charms are bits of runic text that can be found in loot and obtained by slaying bosses. Apply them to armor in the Charm Table (recipe shown in the Recipe section) to gain certain buffs (listed in the More Info section).\n\n\n\n\n\n\n\n\n",
 
@@ -494,7 +494,7 @@
   "item.um.demonomicon.entry.shadow_guardian_bulwark.icon": "\uf042",
   "item.um.demonomicon.entry.shadow_guardian_bulwark.contributors": "Hashs: Created",
   "item.um.demonomicon.entry.shadow_guardian_bulwark.more_info": "This item cannot attack players who also wield it.",
-  "item.um.demonomicon.entry.shadow_guardian_bulwark.recipe": "\n\n\n\n\n\n\uc060\n",
+  "item.um.demonomicon.entry.shadow_guardian_bulwark.recipe": "\n\n\n\n\n\n\uf160\n",
   "item.um.demonomicon.entry.shadow_guardian_bulwark.history": "%18$s: Added.\n%34$s: Removed blueprint.",
   "item.um.demonomicon.entry.shadow_guardian_bulwark.description": "You have embedded a construct which binds a spirit from the Shadow Realm to a shield, forming an armament which summons an attack-countering shadow guardian.\n\n\n\n\n\n\n\n\n",
 
@@ -503,7 +503,7 @@
   "item.um.demonomicon.entry.shadow_longsword.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.shadow_longsword.more_info": "This longsword cannot be enchanted, but has higher attack power than \nan unenchanted netherite sword or Bloody Edge.",
   "item.um.demonomicon.entry.shadow_longsword.history": "%18$s: Added.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.shadow_longsword.recipe": "\n\n\n\n\n\n\uc061\n",
+  "item.um.demonomicon.entry.shadow_longsword.recipe": "\n\n\n\n\n\n\uf161\n",
   "item.um.demonomicon.entry.shadow_longsword.description": "Shadow Plates can be used to make a special sword. This sword cannot sweep and is slower, but can be sheathed and wielded to perform a Quick Draw attack.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.elder.title": "The Elder",
@@ -511,7 +511,7 @@
   "item.um.demonomicon.entry.elder.contributors": "Hashs: Created\nRagtime Gal: Textured/modeled",
   "item.um.demonomicon.entry.elder.more_info": "Listen for the loud echoing sound. Soon after, the boss will fire an extremely damaging deathray.\nGet as close as possible and circle under him to dodge it.",
   "item.um.demonomicon.entry.elder.history": "%18$s: Added.\n%34$s: Retextured/remodeled.",
-  "item.um.demonomicon.entry.elder.recipe": "Summon by tossing the Relic of Ruin on the ground, made as such:\n\n\n\n\n\n\uc062\n",
+  "item.um.demonomicon.entry.elder.recipe": "Summon by tossing the Relic of Ruin on the ground, made as such:\n\n\n\n\n\n\uf162\n",
   "item.um.demonomicon.entry.elder.description": "A great eldritch god, The Elder keeps numerous magical devices such as Omega Runes. He may be summoned to this world and slain in a boss battle.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.omega_plate.title": "Omega Plates",
@@ -519,7 +519,7 @@
   "item.um.demonomicon.entry.omega_plate.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.omega_plate.more_info": "Omega Plates are not used in anything other than Omega armor.",
   "item.um.demonomicon.entry.omega_plate.history": "%18$s: Added.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.omega_plate.recipe": "\n\n\n\n\n\n\uc063\n",
+  "item.um.demonomicon.entry.omega_plate.recipe": "\n\n\n\n\n\n\uf163\n",
   "item.um.demonomicon.entry.omega_plate.description": "Using the Omega Runes looted from %s one can make magic-infused plates with unparalleled strength.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.omega_plate.reference.0": "The Elder,",
 
@@ -528,7 +528,7 @@
   "item.um.demonomicon.entry.omega_armor.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.omega_armor.more_info": "Omega armor is viable against the final boss.",
   "item.um.demonomicon.entry.omega_armor.history": "%18$s: Added.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.omega_armor.recipe": "\n\n\n\n\n\n\uc064\n\n\n\n\n\n\n\uc065\n\n\n\n\n\n\n\uc066\n\n\n\n\n\n\n\uc067\n",
+  "item.um.demonomicon.entry.omega_armor.recipe": "\n\n\n\n\n\n\uf164\n\n\n\n\n\n\n\uf165\n\n\n\n\n\n\n\uf166\n\n\n\n\n\n\n\uf167\n",
   "item.um.demonomicon.entry.omega_armor.description": "%s can be used in a suit of armor with extraordinary toughness. However, its true strength is in its ability to accept two charms at once.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.omega_armor.reference.0": "Omega Plates",
 
@@ -537,7 +537,7 @@
   "item.um.demonomicon.entry.teleporters.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.teleporters.more_info": "Teleporters only work if the target chunk is loaded. See Chunk Loaders.",
   "item.um.demonomicon.entry.teleporters.history": "%19$s: Added.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.teleporters.recipe": "\n\n\n\n\n\n\uc068\n\n\n\n\n\n\n\uc069\n",
+  "item.um.demonomicon.entry.teleporters.recipe": "\n\n\n\n\n\n\uf168\n\n\n\n\n\n\n\uf169\n",
   "item.um.demonomicon.entry.teleporters.description": "Right click with a Locator Card near a teleporter to bind it to the teleporter. Then drop it on another teleporter to point the second to the first. Walk into a teleporter to go to its destination.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.recall_locator_card.title": "Recall Locator Card",
@@ -545,7 +545,7 @@
   "item.um.demonomicon.entry.recall_locator_card.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.recall_locator_card.more_info": "This card only works if the target chunk is loaded. See Chunk Loaders.",
   "item.um.demonomicon.entry.recall_locator_card.history": "%19$s: Added.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.recall_locator_card.recipe": "\n\n\n\n\n\n\uc070\n",
+  "item.um.demonomicon.entry.recall_locator_card.recipe": "\n\n\n\n\n\n\uf170\n",
   "item.um.demonomicon.entry.recall_locator_card.description": "Bound Locator Cards can be made into Recall Locator Cards. Right click with a Recall Locator Card to teleport to its target teleporter from anywhere.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.dragon_drops.title": "Dragon Drops",
@@ -561,7 +561,7 @@
   "item.um.demonomicon.entry.dragon_scale_armor.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.dragon_scale_armor.more_info": "With the wings, look up to go up, look down to go down, sneak to stay at the same height,\nand sprint to fly in the direction you look quickly.",
   "item.um.demonomicon.entry.dragon_scale_armor.history": "%20$s: Added.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.dragon_scale_armor.recipe": "\n\n\n\n\n\n\uc071\n\n\n\n\n\n\n\uc072\n\n\n\n\n\n\n\uc073\n\n\n\n\n\n\n\uc074\n",
+  "item.um.demonomicon.entry.dragon_scale_armor.recipe": "\n\n\n\n\n\n\uf171\n\n\n\n\n\n\n\uf172\n\n\n\n\n\n\n\uf173\n\n\n\n\n\n\n\uf174\n",
   "item.um.demonomicon.entry.dragon_scale_armor.description": "From Dragon Scales, an armor set can be crafted that grants functioning dragon wings with the full set.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.holy_alloy_plate.title": "Holy Alloy Plate",
@@ -569,7 +569,7 @@
   "item.um.demonomicon.entry.holy_alloy_plate.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.holy_alloy_plate.more_info": "This item is used in an armor set and a weapon.",
   "item.um.demonomicon.entry.holy_alloy_plate.history": "%35$s: Added.",
-  "item.um.demonomicon.entry.holy_alloy_plate.recipe": "\n\n\n\n\n\n\uc075\n",
+  "item.um.demonomicon.entry.holy_alloy_plate.recipe": "\n\n\n\n\n\n\uf175\n",
   "item.um.demonomicon.entry.holy_alloy_plate.description": "Blessed Fragments found in village and ruined portal chests can be used in Holy Alloy Plates, which are useful in melee gear.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.paladin_hammer.title": "Paladin Hammer",
@@ -577,7 +577,7 @@
   "item.um.demonomicon.entry.paladin_hammer.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.paladin_hammer.more_info": "Every 5th strike with this weapon deals double damage and heals you.",
   "item.um.demonomicon.entry.paladin_hammer.history": "%35$s: Added.",
-  "item.um.demonomicon.entry.paladin_hammer.recipe": "\n\n\n\n\n\n\uc083\n",
+  "item.um.demonomicon.entry.paladin_hammer.recipe": "\n\n\n\n\n\n\uf183\n",
   "item.um.demonomicon.entry.paladin_hammer.description": "Holy Alloy Plates can be used in a powerful melee weapon. It also acts as an axe.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.paladin_armor.title": "Paladin Armor",
@@ -585,7 +585,7 @@
   "item.um.demonomicon.entry.paladin_armor.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.paladin_armor.more_info": "Each helm grants a different potion effect to nearby players upon hitting with melee attacks.",
   "item.um.demonomicon.entry.paladin_armor.history": "%35$s: Added.",
-  "item.um.demonomicon.entry.paladin_armor.recipe": "The helms are in order: Avenger, Protector, Crusader.\n\n\n\n\n\n\uc076\n\n\n\n\n\n\n\uc077\n\n\n\n\n\n\n\uc078\n\n\n\n\n\n\n\uc079\n\n\n\n\n\n\n\uc080\n\n\n\n\n\n\n\uc081\n",
+  "item.um.demonomicon.entry.paladin_armor.recipe": "The helms are in order: Avenger, Protector, Crusader.\n\n\n\n\n\n\uf176\n\n\n\n\n\n\n\uf177\n\n\n\n\n\n\n\uf178\n\n\n\n\n\n\n\uf179\n\n\n\n\n\n\n\uf180\n\n\n\n\n\n\n\uf181\n",
   "item.um.demonomicon.entry.paladin_armor.description": "Holy Alloy Plates can be used in a melee-focused armor set. The protection of this armor set is similar to iron, but it has three helm options: Avenger, Protector, and Crusader, respectively buffing melee damage, defense, and speed.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.fallen_paladin_armor.title": "Fallen Paladin Armor",
@@ -593,7 +593,7 @@
   "item.um.demonomicon.entry.fallen_paladin_armor.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.fallen_paladin_armor.more_info": "Unlike its predecessor, every Fallen Paladin helm grants a damage boost\n(though the Avenger helm grants a much higher one).",
   "item.um.demonomicon.entry.fallen_paladin_armor.history": "%35$s: Added.",
-  "item.um.demonomicon.entry.fallen_paladin_armor.recipe": "This recipe applies to all pieces.\n\n\n\n\n\n\uc082\n",
+  "item.um.demonomicon.entry.fallen_paladin_armor.recipe": "This recipe applies to all pieces.\n\n\n\n\n\n\uf182\n",
   "item.um.demonomicon.entry.fallen_paladin_armor.description": "Enhancing your Paladin Armor with netherite and nether shards infuses it with evil power, granting it much higher defenses and much stronger buffs.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.primal_armor.title": "Primal Armor",
@@ -601,7 +601,7 @@
   "item.um.demonomicon.entry.primal_armor.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.primal_armor.more_info": "The leaves used in this armor's recipe are jungle leaves.\nThis armor also grants a small boost to arrow velocity at all times.",
   "item.um.demonomicon.entry.primal_armor.history": "%35$s: Added.",
-  "item.um.demonomicon.entry.primal_armor.recipe": "\n\n\n\n\n\n\uc084\n\n\n\n\n\n\n\uc085\n\n\n\n\n\n\n\uc086\n\n\n\n\n\n\n\uc087\n",
+  "item.um.demonomicon.entry.primal_armor.recipe": "\n\n\n\n\n\n\uf184\n\n\n\n\n\n\n\uf185\n\n\n\n\n\n\n\uf186\n\n\n\n\n\n\n\uf187\n",
   "item.um.demonomicon.entry.primal_armor.description": "Using Hearts of the Wild found in jungle temples, an armor set can be made that infuses you with primal instinct. By avoiding damage, you can gain up to 3 charges which are used to reduce incoming hits or empower bow shots.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.shortbows.title": "Shortbows",
@@ -609,7 +609,7 @@
   "item.um.demonomicon.entry.shortbows.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.shortbows.more_info": "Both Shortbows also inflict Slowness and a DoT effect (Poison or Wither).",
   "item.um.demonomicon.entry.shortbows.history": "%35$s: Added.",
-  "item.um.demonomicon.entry.shortbows.recipe": "\n\n\n\n\n\n\uc088\n\n\n\n\n\n\n\uc089\n",
+  "item.um.demonomicon.entry.shortbows.recipe": "\n\n\n\n\n\n\uf188\n\n\n\n\n\n\n\uf189\n",
   "item.um.demonomicon.entry.shortbows.description": "Hearts of the Wild found in jungle temples can be used in the Shortbow of the Wild, which shoots with shorter range but higher power than a bow. This can then be upgraded to the Shortbow of Decay, which is more powerful.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.quivers.title": "Quivers",
@@ -617,7 +617,7 @@
   "item.um.demonomicon.entry.quivers.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.quivers.more_info": "The Venom Quiver inflicts Poison, while the Acid Quiver gives arrows the Dragon's Wrath effect\nand the Shadow Quiver inflicts blindness and other weakening effects.",
   "item.um.demonomicon.entry.quivers.history": "%35$s: Added.",
-  "item.um.demonomicon.entry.quivers.recipe": "\n\n\n\n\n\n\uc090\n\n\n\n\n\n\n\uc091\n\n\n\n\n\n\n\n\uc092\n",
+  "item.um.demonomicon.entry.quivers.recipe": "\n\n\n\n\n\n\uf190\n\n\n\n\n\n\n\uf191\n\n\n\n\n\n\n\n\uf192\n",
   "item.um.demonomicon.entry.quivers.description": "Quivers are offhand items for rangers that will enhance a fired arrow every 4 seconds with improved damage and other bonuses. The Venom Quiver can be made from Hearts of the Wild and upgraded twice with later materials.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.staff_of_the_magi.title": "Staff of the Magi",
@@ -625,7 +625,7 @@
   "item.um.demonomicon.entry.staff_of_the_magi.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.staff_of_the_magi.more_info": "The Lucid Staff, after 15 star hits, causes a large burst which deals massive damage.",
   "item.um.demonomicon.entry.staff_of_the_magi.history": "%35$s: Added.",
-  "item.um.demonomicon.entry.staff_of_the_magi.recipe": "\n\n\n\n\n\n\uc093\n\n\n\n\n\n\n\uc094\n",
+  "item.um.demonomicon.entry.staff_of_the_magi.recipe": "\n\n\n\n\n\n\uf193\n\n\n\n\n\n\n\uf194\n",
   "item.um.demonomicon.entry.staff_of_the_magi.description": "The Staff of the Magi, made from Mysterious Crystals found in various loot, fires homing magic missiles. It can later be upgraded to the Lucid Staff which instead fires homing stars.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.magi_armor.title": "Armor of the Magi",
@@ -633,7 +633,7 @@
   "item.um.demonomicon.entry.magi_armor.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.magi_armor.more_info": "The ward regenerates 30 seconds after it is first damaged.",
   "item.um.demonomicon.entry.magi_armor.history": "%35$s: Added.",
-  "item.um.demonomicon.entry.magi_armor.recipe": "\n\n\n\n\n\n\uc095\n\n\n\n\n\n\n\uc096\n\n\n\n\n\n\n\uc097\n\n\n\n\n\n\n\uc098\n",
+  "item.um.demonomicon.entry.magi_armor.recipe": "\n\n\n\n\n\n\uf195\n\n\n\n\n\n\n\uf196\n\n\n\n\n\n\n\uf197\n\n\n\n\n\n\n\uf198\n",
   "item.um.demonomicon.entry.magi_armor.description": "This armor, made from Mysterious Crystals, has low defense but generates an absorption ward. If the ward is taken down, your mana regeneration is doubled until the ward is regenerated.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.astral_armor.title": "Armor of the Astral",
@@ -641,7 +641,7 @@
   "item.um.demonomicon.entry.astral_armor.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.astral_armor.more_info": "The stars return if none have been lost in 3 minutes.",
   "item.um.demonomicon.entry.astral_armor.history": "%35$s: Added.",
-  "item.um.demonomicon.entry.astral_armor.recipe": "The recipe works for any piece.\n\n\n\n\n\n\uc099\n",
+  "item.um.demonomicon.entry.astral_armor.recipe": "The recipe works for any piece.\n\n\n\n\n\n\uf199\n",
   "item.um.demonomicon.entry.astral_armor.description": "Magi armor can be upgraded using Nether Shards to the Armor of the Astral, which in place of a ward generates four protective stars, each blocking one hit and restoring all your mana in the process.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.orbs.title": "Orbs",
@@ -649,7 +649,7 @@
   "item.um.demonomicon.entry.orbs.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.orbs.more_info": "The Mysterious Orb increases mana regen by 10 per second, the Astral Orb by 15,\nand the Eldritch Orb by 20.",
   "item.um.demonomicon.entry.orbs.history": "%35$s: Added.",
-  "item.um.demonomicon.entry.orbs.recipe": "\n\n\n\n\n\n\uc100\n\n\n\n\n\n\n\uc101\n\n\n\n\n\n\n\n\uc102\n",
+  "item.um.demonomicon.entry.orbs.recipe": "\n\n\n\n\n\n\uf200\n\n\n\n\n\n\n\uf201\n\n\n\n\n\n\n\n\uf202\n",
   "item.um.demonomicon.entry.orbs.description": "Orbs are offhand items for mages that increase mana regeneration. The Mysterious Orb can be made with Mysterious Crystals and upgraded twice with later materials.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.early_magic_weps.title": "Early Magic Weapons",
@@ -657,7 +657,7 @@
   "item.um.demonomicon.entry.early_magic_weps.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.early_magic_weps.more_info": "The Prismatic Scepter used to use an entire nether star in its recipe. Yeesh.",
   "item.um.demonomicon.entry.early_magic_weps.history": "%22$s: Added.\n%34$s: Retextured and scepter recipe changed.",
-  "item.um.demonomicon.entry.early_magic_weps.recipe": "\n\n\n\n\n\n\uc103\n\n\n\n\n\n\n\uc104\n\n\n\n\n\n\n\uc105\n",
+  "item.um.demonomicon.entry.early_magic_weps.recipe": "\n\n\n\n\n\n\uf203\n\n\n\n\n\n\n\uf204\n\n\n\n\n\n\n\uf205\n",
   "item.um.demonomicon.entry.early_magic_weps.description": "The Iron Rod, Diamond Piercer, and Prismatic Scepter are magic weapons obtainable in the earlygame. They are respectively made from iron, diamond, and a Nether Shard.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.iron_whip.title": "Iron Whip",
@@ -665,7 +665,7 @@
   "item.um.demonomicon.entry.iron_whip.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.iron_whip.more_info": "Right click to extend the whip head. Hold it down to keep extending. If the head hits an enemy,\nit deals significant damage and retracts. The chain can also damage enemies.\nSneak click to retract the whip.",
   "item.um.demonomicon.entry.iron_whip.history": "%35$s: Added.",
-  "item.um.demonomicon.entry.iron_whip.recipe": "\n\n\n\n\n\n\uc106\n",
+  "item.um.demonomicon.entry.iron_whip.recipe": "\n\n\n\n\n\n\uf206\n",
   "item.um.demonomicon.entry.iron_whip.description": "The Iron Whip is a melee weapon forged from simple iron. Being the first available whip-class melee weapon, its functionality is unique; see \"More Info\" for usage details.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.abyssal_mirror.title": "Abyssal Mirror",
@@ -673,7 +673,7 @@
   "item.um.demonomicon.entry.abyssal_mirror.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.abyssal_mirror.more_info": "The mirror can also be crafted so long as you have received it normally.",
   "item.um.demonomicon.entry.abyssal_mirror.history": "%32$s: Added.",
-  "item.um.demonomicon.entry.abyssal_mirror.recipe": "Obtain for free when you have slain the first five bosses,\nor craft as such after said time:\n\n\n\n\n\n\uc107\n",
+  "item.um.demonomicon.entry.abyssal_mirror.recipe": "Obtain for free when you have slain the first five bosses,\nor craft as such after said time:\n\n\n\n\n\n\uf207\n",
   "item.um.demonomicon.entry.abyssal_mirror.description": "Slaying the five great evils has broken the seal on a dark realm known as the Abyss. This mirror you hold grants access to it when used within the Nether.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.abyss.title": "The Abyss",
@@ -697,7 +697,7 @@
   "item.um.demonomicon.entry.abyssal_longsword.contributors": "Hashs: Created\nRagtime Gal: Textured/modeled",
   "item.um.demonomicon.entry.abyssal_longsword.more_info": "The dark orb deals the same damage as the main attack without any buffs.",
   "item.um.demonomicon.entry.abyssal_longsword.history": "%24$s: Added.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.abyssal_longsword.recipe": "\n\n\n\n\n\n\uc108\n",
+  "item.um.demonomicon.entry.abyssal_longsword.recipe": "\n\n\n\n\n\n\uf208\n",
   "item.um.demonomicon.entry.abyssal_longsword.description": "%s can be used to make a special sword. This sword cannot sweep and is slower, but can be sheathed and wielded to perform a Quick Draw attack which fires a dark orb.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.abyssal_longsword.reference.0": "Abyss Shards",
 
@@ -706,7 +706,7 @@
   "item.um.demonomicon.entry.entropic_greatbow.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.entropic_greatbow.more_info": "The shots from this bow split in 5 after some time.",
   "item.um.demonomicon.entry.entropic_greatbow.history": "%24$s: Added.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.entropic_greatbow.recipe": "\n\n\n\n\n\n\uc109\n",
+  "item.um.demonomicon.entry.entropic_greatbow.recipe": "\n\n\n\n\n\n\uf209\n",
   "item.um.demonomicon.entry.entropic_greatbow.description": "%s can be used to make a powerful bow. It shoots with lower velocity than the likes of the Demonic Reinforced Bow but has very high damage and piercing.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.entropic_greatbow.reference.0": "Abyss Shards",
 
@@ -715,7 +715,7 @@
   "item.um.demonomicon.entry.oblivion_staff.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.oblivion_staff.more_info": "This weapon is affected by the Oblivion Matrix.",
   "item.um.demonomicon.entry.oblivion_staff.history": "%22$s: Added.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.oblivion_staff.recipe": "\n\n\n\n\n\n\uc110\n",
+  "item.um.demonomicon.entry.oblivion_staff.recipe": "\n\n\n\n\n\n\uf210\n",
   "item.um.demonomicon.entry.oblivion_staff.description": "%s can be used to make a powerful staff. Right click an enemy to summon a dark charge, which a second later will explode into a void pillar, dealing heavy damage.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.oblivion_staff.reference.0": "Abyss Shards",
 
@@ -724,7 +724,7 @@
   "item.um.demonomicon.entry.abyss_knight_armor.contributors": "Hashs: Created/textured",
   "item.um.demonomicon.entry.abyss_knight_armor.more_info": "This armor set used to not have a set bonus.\nThus, it worked quite well with the Pit Lord's Chestplate.",
   "item.um.demonomicon.entry.abyss_knight_armor.history": "%22$s: Added.\n%38$s: Retextured.",
-  "item.um.demonomicon.entry.abyss_knight_armor.recipe": "\n\n\n\n\n\n\uc111\n\n\n\n\n\n\n\uc112\n\n\n\n\n\n\n\uc113\n\n\n\n\n\n\n\uc114\n",
+  "item.um.demonomicon.entry.abyss_knight_armor.recipe": "\n\n\n\n\n\n\uf211\n\n\n\n\n\n\n\uf212\n\n\n\n\n\n\n\uf213\n\n\n\n\n\n\n\uf214\n",
   "item.um.demonomicon.entry.abyss_knight_armor.description": "%s can be used to make a suit of armor honing your melee skills. The armor, in addition to being the most protective in the game, grants flat buffs to melee damage and attack speed and doubles your damage every few seconds for one hit.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.abyss_knight_armor.reference.0": "Abyss Shards",
 
@@ -733,7 +733,7 @@
   "item.um.demonomicon.entry.abyss_ranger_armor.contributors": "Hashs: Created/textured",
   "item.um.demonomicon.entry.abyss_ranger_armor.more_info": "This armor also grants a small speed bonus.",
   "item.um.demonomicon.entry.abyss_ranger_armor.history": "%22$s: Added.\n%38$s: Retextured.",
-  "item.um.demonomicon.entry.abyss_ranger_armor.recipe": "\n\n\n\n\n\n\uc115\n\n\n\n\n\n\n\uc116\n\n\n\n\n\n\n\uc117\n\n\n\n\n\n\n\uc118\n",
+  "item.um.demonomicon.entry.abyss_ranger_armor.recipe": "\n\n\n\n\n\n\uf215\n\n\n\n\n\n\n\uf216\n\n\n\n\n\n\n\uf217\n\n\n\n\n\n\n\uf218\n",
   "item.um.demonomicon.entry.abyss_ranger_armor.description": "%s can be used to make a suit of armor honing your bow skills. The armor boosts arrow velocity and allows you to sneak to build stealth, which is converted into bonus bow damage.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.abyss_ranger_armor.reference.0": "Abyss Shards",
 
@@ -742,7 +742,7 @@
   "item.um.demonomicon.entry.abyss_warlock_armor.contributors": "Hashs: Created/textured",
   "item.um.demonomicon.entry.abyss_warlock_armor.more_info": "This armor summons cosmetic hands, which used to shoot orbs.",
   "item.um.demonomicon.entry.abyss_warlock_armor.history": "%24$s: Added.\n%38$s: Retextured.",
-  "item.um.demonomicon.entry.abyss_warlock_armor.recipe": "\n\n\n\n\n\n\uc119\n\n\n\n\n\n\n\uc120\n\n\n\n\n\n\n\uc121\n\n\n\n\n\n\n\uc122\n",
+  "item.um.demonomicon.entry.abyss_warlock_armor.recipe": "\n\n\n\n\n\n\uf219\n\n\n\n\n\n\n\uf220\n\n\n\n\n\n\n\uf221\n\n\n\n\n\n\n\uf222\n",
   "item.um.demonomicon.entry.abyss_warlock_armor.description": "%s can be used to make a suit of armor honing your magic capability. The armor doubles mana regeneration when the set is worn.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.abyss_warlock_armor.reference.0": "Abyss Shards",
 
@@ -759,7 +759,7 @@
   "item.um.demonomicon.entry.shadesull.contributors": "Hashs: Created/textured/modeled",
   "item.um.demonomicon.entry.shadesull.more_info": "Being the final boss of Undermagic, Shadesull is extremely challenging,\nbeyond anything else in the pack.\nShadesull has several \"bullet hell\" phases, where she\nturns invincible and rains extremely damaging bullets from above,\nincluding one at the start of the fight.\nDo not bother attacking her during this phase until she teleports to end the phase\nunless there are hands active.\nIf there are hands active, Shadesull is invincible until\nthey are killed.",
   "item.um.demonomicon.entry.shadesull.history": "%24$s: Added.\n%34$s: Retextured.",
-  "item.um.demonomicon.entry.shadesull.recipe": "Can be encountered in the Dungeon's boss room, \nor summoned using the Crown of Ruin after being encountered there,\nmade as such:\n\n\n\n\n\n\uc123\n",
+  "item.um.demonomicon.entry.shadesull.recipe": "Can be encountered in the Dungeon's boss room, \nor summoned using the Crown of Ruin after being encountered there,\nmade as such:\n\n\n\n\n\n\uf223\n",
   "item.um.demonomicon.entry.shadesull.description": "In the Dungeon's boss room one can encounter Shadesull, Queen of the Abyss and the final boss of Undermagic. She is a challenging boss with many phases and punishing attacks. See \"More Info\" for fight details.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.ultimate_offhands.title": "Ultimate Offhand Items",
@@ -767,7 +767,7 @@
   "item.um.demonomicon.entry.ultimate_offhands.contributors": "Hashs: Created/textured/modeled",
   "item.um.demonomicon.entry.ultimate_offhands.more_info": "The ultimate offhand items inherit enhanced versions of\nthe effects from both component items.",
   "item.um.demonomicon.entry.ultimate_offhands.history": "%36$s: Added.",
-  "item.um.demonomicon.entry.ultimate_offhands.recipe": "\n\n\n\n\n\n\uc124\n\n\n\n\n\n\n\uc125\n\n\n\n\n\n\n\uc126\n",
+  "item.um.demonomicon.entry.ultimate_offhands.recipe": "\n\n\n\n\n\n\uf224\n\n\n\n\n\n\n\uf225\n\n\n\n\n\n\n\uf226\n",
   "item.um.demonomicon.entry.ultimate_offhands.description": "By combining a Demon Army drop and a Dungeon drop with the Dark Crystal Heart looted from Shadesull, one can create one of three extremely powerful offhand items.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.chunk_loader.title": "Chunk Loaders",
@@ -775,7 +775,7 @@
   "item.um.demonomicon.entry.chunk_loader.contributors": "Hashs: Created\nRagtime Gal: Textured",
   "item.um.demonomicon.entry.chunk_loader.more_info": "Placing more than one chunk loader in a chunk may cause problems.",
   "item.um.demonomicon.entry.chunk_loader.history": "%36$s: Added.",
-  "item.um.demonomicon.entry.chunk_loader.recipe": "\n\n\n\n\n\n\uc127\n",
+  "item.um.demonomicon.entry.chunk_loader.recipe": "\n\n\n\n\n\n\uf227\n",
   "item.um.demonomicon.entry.chunk_loader.description": "By combining drops from both vanilla bosses with Crying Obsidian, you can make a block that loads the chunk it is placed in.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.puncture.title": "Puncture",
@@ -783,7 +783,7 @@
   "item.um.demonomicon.entry.puncture.contributors": "Hashs: Created/textured",
   "item.um.demonomicon.entry.puncture.more_info": "Use Quick Charge on this item for best results.",
   "item.um.demonomicon.entry.puncture.history": "%39$s: Added.",
-  "item.um.demonomicon.entry.puncture.recipe": "Blood Cost: 10\nBooster Tier: I\n\n\n\n\uc132\n\n\n\n\n\nBlood Cost: 50\nBooster Tier: II\n\n\n\n\uc133\n\n\n\n\n\nBlood Cost: 250\nBooster Tier: III\n\n\n\n\uc134\n\n\n\n\nBlood Cost: 500\nBooster Tier: IV\n\n\n\n\uc135\n\n\n\n\n",
+  "item.um.demonomicon.entry.puncture.recipe": "Blood Cost: 10\nBooster Tier: I\n\n\n\n\uf232\n\n\n\n\n\nBlood Cost: 50\nBooster Tier: II\n\n\n\n\uf233\n\n\n\n\n\nBlood Cost: 250\nBooster Tier: III\n\n\n\n\uf234\n\n\n\n\nBlood Cost: 500\nBooster Tier: IV\n\n\n\n\uf235\n\n\n\n\n",
   "item.um.demonomicon.entry.puncture.description": "A blood-infused crossbow with four tiers, the Puncture has high piercing and can sometimes shoot for critical damage.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.dark_pulsar.title": "Dark Pulsar",
@@ -791,7 +791,7 @@
   "item.um.demonomicon.entry.dark_pulsar.contributors": "Hashs: Created/textured",
   "item.um.demonomicon.entry.dark_pulsar.more_info": "This item pairs very well with the Power enchantment,\nSupercharge charm, and quivers.",
   "item.um.demonomicon.entry.dark_pulsar.history": "%39$s: Added.",
-  "item.um.demonomicon.entry.dark_pulsar.recipe": "\n\n\n\n\n\n\uc128\n",
+  "item.um.demonomicon.entry.dark_pulsar.recipe": "\n\n\n\n\n\n\uf228\n",
   "item.um.demonomicon.entry.dark_pulsar.description": "The Dark Pulsar's arrows start very slow, but quickly speed up to very high speeds. They also ignore gravity.\n\n\n\n\n\n\n\n\n",
 
   "item.um.abyss_knight_helmet": "Abyss Knight Helmet",
@@ -1011,7 +1011,7 @@
 
 
   "block.um.undercrafter": "Undercrafter",
-  "block.um.undercrafter.gui": "\uc000\uc001\uc002%s",
+  "block.um.undercrafter.gui": "\uf100\uf101\uf102%s",
 
   "subtitles.um.music.pit_lord": "Demon King's Revenge plays",
   "subtitles.um.music.shadesull_p1": "In the Chamber of Madness plays",

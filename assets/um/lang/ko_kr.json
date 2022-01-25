@@ -8,9 +8,9 @@
 
   "item.um.demonomicon": "악마의 서",
   "item.um.demonomicon.lore": "모든 심원마법에 관한 가이드 북",
-  "item.um.demonomicon.example_page": "\ud003%s\ud003\ud003%s%s%s%s%s\n\ud021\n%s",
+  "item.um.demonomicon.example_page": "\uf303%s\uf303\uf303%s%s%s%s%s\n\uf321\n%s",
   "item.um.demonomicon.example_page.title": "예시 페이지",
-  "item.um.demonomicon.example_page.icon": "\ud022",
+  "item.um.demonomicon.example_page.icon": "\uf322",
   "item.um.demonomicon.example_page.history": "여기에 아이템 기록이 나타납니다.",
   "item.um.demonomicon.example_page.contributors": "여기에 해당 기능을 만든 제작자가 나타납니다.",
   "item.um.demonomicon.example_page.more_info": "여기에 기술적인 정보들이 나타납니다.",
@@ -18,11 +18,11 @@
   "item.um.demonomicon.example_page.give_command": "클릭하여 아이템을 얻을 수 있습니다.",
   "item.um.demonomicon.example_page.description": "예시 설명입니다.\n\n아이콘 위에 커서를 올리면 아이콘에 대한 정보를 얻을 수 있습니다. 대체로 오른쪽 아래에 링크가 있지만, 예시이기 때문에 여긴 없습니다.\n\n이 다음 페이지는 기능 페이지 입니다.",
 
-  "item.um.demonomicon.page": "\ud003%s\ud003\ud003%s%s%s%s%s\n\ud002\n%s\n\ue020%8$s\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003%9$s\n\ue020%8$s\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003%9$s",
-  "item.um.demonomicon.page.arrow_button": "\ud011",
+  "item.um.demonomicon.page": "\uf303%s\uf303\uf303%s%s%s%s%s\n\uf302\n%s\n\ue020%8$s\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303%9$s\n\ue020%8$s\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303%9$s",
+  "item.um.demonomicon.page.arrow_button": "\uf311",
   "item.um.demonomicon.page.feature_hover_event": "기능 페이지 열기",
   "item.um.demonomicon.page.developers_hover_event": "개발자 페이지 열기",
-  "item.um.demonomicon.page.history_icon": "\ud004",
+  "item.um.demonomicon.page.history_icon": "\uf304",
   "item.um.demonomicon.page.history_icon.hover_event": "History\n%s",
   "item.um.demonomicon.version.beta_1": "Beta 1",
   "item.um.demonomicon.version.beta_2": "Beta 2",
@@ -66,32 +66,32 @@
   "item.um.demonomicon.version.1_0": "1.0",
   "item.um.demonomicon.version.1_1": "1.1",
 
-  "item.um.demonomicon.page.contributors_icon": "\ud005",
+  "item.um.demonomicon.page.contributors_icon": "\uf305",
   "item.um.demonomicon.page.contributors_icon.hover_event": "도움을 준 사람들\n%s",
-  "item.um.demonomicon.page.more_info_icon": "\ud006",
+  "item.um.demonomicon.page.more_info_icon": "\uf306",
   "item.um.demonomicon.page.more_info_icon.hover_event": "더보기\n%s",
-  "item.um.demonomicon.page.crafting_icon": "\ud007",
+  "item.um.demonomicon.page.crafting_icon": "\uf307",
   "item.um.demonomicon.page.crafting_icon.hover_event": "조합법\n%s",
-  "item.um.demonomicon.page.location_icon": "\ud008",
+  "item.um.demonomicon.page.location_icon": "\uf308",
   "item.um.demonomicon.page.location_icon.hover_event": "소재\n%s",
-  "item.um.demonomicon.page.give_command_icon": "\ud009",
+  "item.um.demonomicon.page.give_command_icon": "\uf309",
   "item.um.demonomicon.page.give_command.hover_event": "아이템 얻기",
-  "item.um.demonomicon.page.empty_icon": "\ud010",
+  "item.um.demonomicon.page.empty_icon": "\uf310",
 
-  "item.um.demonomicon.index_page": "%s\n\ud012\n\ud013%s%s%s%s%s%s\n\ud014%s%s%s%s%s%s\n\ud013%s%s%s%s%s%s\n\ud014%s%s%s%s%s%s\n\ud013%s%s%s%s%s%s\n\ud014%s%s%s%s%s%s\n\ud013%s%s%s%s%s%s\n\ud014%s%s%s%s%s%s\n\ud013%s%s%s%s%s%s\n\ud014%s%s%s%s%s%s\n\ud013%s%s%s%s%s%s\n\ud014%s%s%s%s%s%s",
+  "item.um.demonomicon.index_page": "%s\n\uf312\n\uf313%s%s%s%s%s%s\n\uf314%s%s%s%s%s%s\n\uf313%s%s%s%s%s%s\n\uf314%s%s%s%s%s%s\n\uf313%s%s%s%s%s%s\n\uf314%s%s%s%s%s%s\n\uf313%s%s%s%s%s%s\n\uf314%s%s%s%s%s%s\n\uf313%s%s%s%s%s%s\n\uf314%s%s%s%s%s%s\n\uf313%s%s%s%s%s%s\n\uf314%s%s%s%s%s%s",
   "item.um.demonomicon.index_page.title": "    목차 페이지 (%s/%s)",
-  "item.um.demonomicon.index_page.spacer": "\ud015",
+  "item.um.demonomicon.index_page.spacer": "\uf315",
   "item.um.demonomicon.index_page.empty_icon": "\uf000",
 
 
-  "item.um.demonomicon.cover_page": "\n\ud000\n\n\n         %s\n\n\ud020%s%s%s%s\n\n%s",
+  "item.um.demonomicon.cover_page": "\n\uf300\n\n\n         %s\n\n\uf320%s%s%s%s\n\n%s",
   "item.um.demonomicon.cover_page.content": "\n\nUndermagic의 모든 컨텐츠에 대한 종합 가이드북.",
-  "item.um.demonomicon.cover_page.pmc": "   \ud016",
+  "item.um.demonomicon.cover_page.pmc": "   \uf316",
   "item.um.demonomicon.cover_page.pmc.hover_event": "Planet Minecraft 링크",
-  "item.um.demonomicon.cover_page.discord": "\ud017   ",
+  "item.um.demonomicon.cover_page.discord": "\uf317   ",
   "item.um.demonomicon.cover_page.discord.hover_event": "디스코드 링크",
 
-  "item.um.demonomicon.credits": "여기에 크레딧이 나옵니다.\n\n\n\n\n\n\n\n\n\n\n\n\n\ue020\ud011\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003%1$s\n\ue020\ud011\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003\ud003%1$s",
+  "item.um.demonomicon.credits": "여기에 크레딧이 나옵니다.\n\n\n\n\n\n\n\n\n\n\n\n\n\ue020\uf311\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303%1$s\n\ue020\uf311\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303\uf303%1$s",
 
   "item.um.demonomicon.entry.zealot_tome.title": "난이도",
   "item.um.demonomicon.entry.zealot_tome.icon": "\uf002",
@@ -114,7 +114,7 @@
   "item.um.demonomicon.entry.undercrafter.icon": "\uf003",
   "item.um.demonomicon.entry.undercrafter.contributors": "Hashs: 제작\nImCoolYeah105: 재작업\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.undercrafter.history": "%1$s: 추가\n%34$s: 재작업\n%35$s: 획득방법 수정",
-  "item.um.demonomicon.entry.undercrafter.recipe": "네더랙 위에 불을 지피고 불 위에 아이템 액자를 설치한 뒤에 액자에 조합대를 넣으세요.\n\n\n\n\n\n\uc001\n",
+  "item.um.demonomicon.entry.undercrafter.recipe": "네더랙 위에 불을 지피고 불 위에 아이템 액자를 설치한 뒤에 액자에 조합대를 넣으세요.\n\n\n\n\n\n\uf101\n",
   "item.um.demonomicon.entry.undercrafter.description": "심원 조합대는 Undermagic의 모든 것을 조합할 때 사용되는 특별한 조합대입니다.\n\n이 책에서 등장하는 조합법이 조합대의 격자를 사용한다면 심원 조합대를 사용하여 조합하세요.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.demons.title": "악마",
@@ -130,7 +130,7 @@
   "item.um.demonomicon.entry.blood_chalice.contributors": "Hashs: 제작\nImCoolYeah105: 재작업\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.blood_chalice.more_info": "보스들에게서 떨어지는 아이템들은 다른 아이템들 보다 더 많은 양의 피를 생산합니다. 예를 들어, 네더의 별은 개당 피 100을 생산합니다.",
   "item.um.demonomicon.entry.blood_chalice.history": "%6$s: 추가\n%17$s: 가연성 아이템 추가\n%35$s: 획득 방법 바꿈",
-  "item.um.demonomicon.entry.blood_chalice.recipe": "네더랙 위에 불을 지피고 불 위에 아이템 액자를 설치한 뒤에 액자에 가마솥을 넣으세요.\n\n\n\n\n\n\uc002\n",
+  "item.um.demonomicon.entry.blood_chalice.recipe": "네더랙 위에 불을 지피고 불 위에 아이템 액자를 설치한 뒤에 액자에 가마솥을 넣으세요.\n\n\n\n\n\n\uf102\n",
   "item.um.demonomicon.entry.blood_chalice.description": "피의 성배는 흑마법과 융합된 가마솥이며 안에 던져진 몹 아이템을 피로 변환합니다. 주로 아이템 한개당 피 1로 변환됩니다. 이 피는 %s에 사용될 수 있습니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.blood_chalice.reference.0": "혈액 연성",
 
@@ -139,7 +139,7 @@
   "item.um.demonomicon.entry.blood_infusion.contributors": "Hashs: 제작\nImCoolYeah105: 재작업",
   "item.um.demonomicon.entry.blood_infusion.more_info": "받침대라고 혈액 연성에 쓰이는 아이템을 저장하는 별개의 블럭이 존재했었습니다.",
   "item.um.demonomicon.entry.blood_infusion.history": "%6$s: 추가\n%34$s: 재작업",
-  "item.um.demonomicon.entry.blood_infusion.recipe": "아래와 같이 제단을 지으세요.\n\n\n\n\n\n\uc005\n\n\n",
+  "item.um.demonomicon.entry.blood_infusion.recipe": "아래와 같이 제단을 지으세요.\n\n\n\n\n\n\uf105\n\n\n",
   "item.um.demonomicon.entry.blood_infusion.description": "성배에 든 피를 사용하여 의식을 수행할 수 있습니다. 조합법에 나온 대로 제단을 지을 수 있습니다. 모퉁이에 있는 블럭들은 (이 경우 빛나는 대석) 추진기로 작동합니다. %s\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.blood_infusion.reference.0": "계속..",
 
@@ -164,7 +164,7 @@
   "item.um.demonomicon.entry.nether_shards.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.nether_shards.more_info": "네더의 조각은 주로 클래스 전용 장비를 강화하는데 사용됩니다.",
   "item.um.demonomicon.entry.nether_shards.history": "%34$s: 추가",
-  "item.um.demonomicon.entry.nether_shards.recipe": "\n\n\n\n\n\n\uc029\n\n\n\n\n\n\n\uc030\n",
+  "item.um.demonomicon.entry.nether_shards.recipe": "\n\n\n\n\n\n\uf129\n\n\n\n\n\n\n\uf130\n",
   "item.um.demonomicon.entry.nether_shards.description": "위더를 살아 움직이게 하는, 힘의 원천의 조각인 네더의 조각은 여러 곳에서 사용됩니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.demonic_steel.title": "마강철",
@@ -172,7 +172,7 @@
   "item.um.demonomicon.entry.demonic_steel.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.demonic_steel.more_info": "악마의 조각들은 네더와 관련된 여러가지 상자에서 발견될 수 있습니다.",
   "item.um.demonomicon.entry.demonic_steel.history": "%1$s: 추가\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.demonic_steel.recipe": "\n\n\n\n\n\n\uc004\n\n\n\n\n\n\n\uc006\n",
+  "item.um.demonomicon.entry.demonic_steel.recipe": "\n\n\n\n\n\n\uf104\n\n\n\n\n\n\n\uf106\n",
   "item.um.demonomicon.entry.demonic_steel.description": "마강철은 암흑의 에너지가 묶여있는 튼튼한 합금입니다. 철괴와 %s들이 떨구는 여러가지 아이템으로 만들 수 있습니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.demonic_steel.reference.0": "악마",
 
@@ -181,7 +181,7 @@
   "item.um.demonomicon.entry.demonic_steel_plate.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.demonic_steel_plate.more_info": "마강철 주괴와 철판은 보루 상자에서 발견할 수 있습니다.",
   "item.um.demonomicon.entry.demonic_steel_plate.history": "%1$s: 추가\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.demonic_steel_plate.recipe": "\n\n\n\n\n\n\uc007\n",
+  "item.um.demonomicon.entry.demonic_steel_plate.recipe": "\n\n\n\n\n\n\uf107\n",
   "item.um.demonomicon.entry.demonic_steel_plate.description": "다른 재료와는 다르게 %s은 갑옷이나 무기로 만들어지기 위해서는 먼저 철판으로 형성되어야 합니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.demonic_steel_plate.reference.0": "마강철",
 
@@ -190,7 +190,7 @@
   "item.um.demonomicon.entry.demonic_steel_longsword.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.demonic_steel_longsword.more_info": "이 장검에는 마법을 부여할 수 없습니다. 하지만 마법이 부여되지 않은 \n네더라이트 검이나 피비린 날보단 공격력이 강합니다.",
   "item.um.demonomicon.entry.demonic_steel_longsword.history": "%1$s: 추가\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.demonic_steel_longsword.recipe": "\n\n\n\n\n\n\uc008\n",
+  "item.um.demonomicon.entry.demonic_steel_longsword.recipe": "\n\n\n\n\n\n\uf108\n",
   "item.um.demonomicon.entry.demonic_steel_longsword.description": "%s은 특별한 검을 만드는데 사용할 수 있습니다. 이 검은 단일공격만 가능하며 공격속도가 느립니다. 하지만 검집에 넣어 들고다니다가 빠르게 발도하여 공격할 수 있습니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.demonic_steel_longsword.reference.0": "마강철 철판",
 
@@ -199,7 +199,7 @@
   "item.um.demonomicon.entry.demonic_steel_armor.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.demonic_steel_armor.more_info": "이 갑옷은 추가적인 강도보단 최대 40%까지의 고정피해량을 감소시킵니다.",
   "item.um.demonomicon.entry.demonic_steel_armor.history": "%2$s: 추가\n%12$s: 너프\n%34$s: 재작업\n%38$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.demonic_steel_armor.recipe": "\n\n\n\n\n\n\uc009\n\n\n\n\n\n\n\uc010\n\n\n\n\n\n\n\uc011\n\n\n\n\n\n\n\uc012\n",
+  "item.um.demonomicon.entry.demonic_steel_armor.recipe": "\n\n\n\n\n\n\uf109\n\n\n\n\n\n\n\uf110\n\n\n\n\n\n\n\uf111\n\n\n\n\n\n\n\uf112\n",
   "item.um.demonomicon.entry.demonic_steel_armor.description": "%s은 갑옷을 만드는데 사용될 수 있습니다. 갑옷은 부위 당 최대 5 강도를 주는 암흑 에너지장을 생성하지만 데미지를 받을수록 부식됩니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.demonic_steel_armor.reference.0": "마강철 철판",
 
@@ -208,7 +208,7 @@
   "item.um.demonomicon.entry.demonic_steel_bow.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.demonic_steel_bow.more_info": "폭발은 Shadesull Dungeon 안에서는 작동하지 않습니다. TNT의 위력을 가지며 블럭을 100% 확률로 떨어뜨립니다.",
   "item.um.demonomicon.entry.demonic_steel_bow.history": "%3$s: 추가\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.demonic_steel_bow.recipe": "\n\n\n\n\n\n\uc013\n",
+  "item.um.demonomicon.entry.demonic_steel_bow.recipe": "\n\n\n\n\n\n\uf113\n",
   "item.um.demonomicon.entry.demonic_steel_bow.description": "%s은 강력한 활을 만드는데 사용될 수 있습니다. 이 활은 더 빠른 속도의 화살을 발사합니다. 화약을 소지하고 있다면 화약을 소모하여 폭발화살을 발사합니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.demonic_steel_bow.reference.0": "마강철 철판",
 
@@ -217,7 +217,7 @@
   "item.um.demonomicon.entry.bow_of_niflheim.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.bow_of_niflheim.more_info": "니플하임의 활은 활시위를 당길 필요가 없습니다. 화살들은 블럭을 관통하며 구속을 부여합니다.",
   "item.um.demonomicon.entry.bow_of_niflheim.history": "%4$s: 추가\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.bow_of_niflheim.recipe": "\n\n\n\n\n\n\uc014\n",
+  "item.um.demonomicon.entry.bow_of_niflheim.recipe": "\n\n\n\n\n\n\uf114\n",
   "item.um.demonomicon.entry.bow_of_niflheim.description": "니플하임의 활은 얼음 악마들이 만든 고대의 무기입니다. 얼음 화살을 발사합니다. 화살은 악마들에게 더 많은 데미지를 줍니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.demon_portal_stabilizer.title": "악마의 포탈 안정기",
@@ -225,7 +225,7 @@
   "item.um.demonomicon.entry.demon_portal_stabilizer.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.demon_portal_stabilizer.more_info": "안정기로 만들어진 악마의 포탈은 악마의 탑 꼭대기에 있는 포탈과 동일합니다.",
   "item.um.demonomicon.entry.demon_portal_stabilizer.history": "%4$s: 추가\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.demon_portal_stabilizer.recipe": "\n\n\n\n\n\n\uc015\n\n\n\n\n\n\n\uc016\n",
+  "item.um.demonomicon.entry.demon_portal_stabilizer.recipe": "\n\n\n\n\n\n\uf115\n\n\n\n\n\n\n\uf116\n",
   "item.um.demonomicon.entry.demon_portal_stabilizer.description": "안정기를 흑요석 위에 던져 악마의 포탈을 생성하세요. 포탈은 꽤 빠른 속도로 악마들을 뱉어냅니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.demon_flame_scepter.title": "악마의 화염 홀",
@@ -233,7 +233,7 @@
   "item.um.demonomicon.entry.demon_flame_scepter.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.demon_flame_scepter.more_info": "드래곤의 지팡이는 이 무기와 공격스타일이 발화를 제외하여 동일합니다.",
   "item.um.demonomicon.entry.demon_flame_scepter.history": "%23$s: 추가\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.demon_flame_scepter.recipe": "\n\n\n\n\n\n\uc017\n",
+  "item.um.demonomicon.entry.demon_flame_scepter.recipe": "\n\n\n\n\n\n\uf117\n",
   "item.um.demonomicon.entry.demon_flame_scepter.description": "마법을 다루는 무기입니다. 이 홀은 약간의 데미지를 주며 넓은 영역을 불붙이는 악마의 불길을 토해냅니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.demon_army.title": "악마군단",
@@ -250,7 +250,7 @@
   "item.um.demonomicon.entry.pit_lord.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐/모델 제작",
   "item.um.demonomicon.entry.pit_lord.more_info": "너무 멀리 도망치거나 너무 가까이 다가가진 마세요. 근거리에서 맞아죽지 않게 조심하세요.\n완전히 마법이 부여된 네더라이트 아머나 비슷한 급의\nUndermagic 갑옷을 입는게 좋을겁니다.",
   "item.um.demonomicon.entry.pit_lord.history": "%5$s: 추가\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.pit_lord.recipe": "지옥의 소환장으로 싸울 수 있습니다 (악마의 포탈에 던지세요). \n또는 악마군단 전투 마지막에 싸울 수도 있습니다.\n소환장 조합법은 아래와 같습니다.\n\n\n\n\n\n\uc018\n",
+  "item.um.demonomicon.entry.pit_lord.recipe": "지옥의 소환장으로 싸울 수 있습니다 (악마의 포탈에 던지세요). \n또는 악마군단 전투 마지막에 싸울 수도 있습니다.\n소환장 조합법은 아래와 같습니다.\n\n\n\n\n\n\uf118\n",
   "item.um.demonomicon.entry.pit_lord.description": "%s을 물리치고 나면 마왕께선 친히 여러분을 찾으러 나타납니다. 구덩이 군주는 악마군단 전투 마지막에 항상 등장하는 상당한 보스입니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.pit_lord.reference.0": "군주의 훌륭한 장군들",
 
@@ -259,7 +259,7 @@
   "item.um.demonomicon.entry.pit_lord_chestplate.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.pit_lord_chestplate.more_info": "이 흉갑은 재작업 되기 전에 최종 보스로부터 생존할 수 있었습니다.\n마강철 갑옷 3부위에 달하는 강도를 가집니다.",
   "item.um.demonomicon.entry.pit_lord_chestplate.history": "%5$s: 추가\n%12$s: 너프\n%34$s: 재작업\n%38$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.pit_lord_chestplate.recipe": "\n\n\n\n\n\n\uc019\n",
+  "item.um.demonomicon.entry.pit_lord_chestplate.recipe": "\n\n\n\n\n\n\uf119\n",
   "item.um.demonomicon.entry.pit_lord_chestplate.description": "구덩이 군주의 심장으로 만들어졌으며, 흉갑은 훌륭한 보호를 제공하며, 엄청난 강도, 자연적인 불에 대한 면역, 화염으로 인한 데미지 25% 감소를 부여합니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.sanguis_inspectorum.title": "Sanguis Inspectorum",
@@ -267,7 +267,7 @@
   "item.um.demonomicon.entry.sanguis_inspectorum.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.sanguis_inspectorum.more_info": "한 개의 몹 아이템은 주로 피 수치 1과 동등합니다.",
   "item.um.demonomicon.entry.sanguis_inspectorum.history": "%6$s: 추가\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.sanguis_inspectorum.recipe": "피 소모량: 10\n추진기 티어: I\n\n\n\n\n\n\uc021\n\n\n\n\n\n",
+  "item.um.demonomicon.entry.sanguis_inspectorum.recipe": "피 소모량: 10\n추진기 티어: I\n\n\n\n\n\n\uf121\n\n\n\n\n\n",
   "item.um.demonomicon.entry.sanguis_inspectorum.description": "이 마법의 서책을 우클릭하여 주변에 있는 피의 성배에 담긴 피의 양을 정확하게 확인하세요.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.bloody_edge.title": "피비린 날",
@@ -275,7 +275,7 @@
   "item.um.demonomicon.entry.bloody_edge.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.bloody_edge.more_info": "티어 III인 날은 공격시 당신을 즉시 회복합니다.",
   "item.um.demonomicon.entry.bloody_edge.history": "%5$s: 추가\n%34$s: 텍스쳐 수정\n%39$s: 너프하고 티어 IV 버전 추가",
-  "item.um.demonomicon.entry.bloody_edge.recipe": "피 소모량: 10\n추진기 티어: I\n\n\n\n\uc022\n\n\n\n\n\n피 소모량: 50\n추진기 티어: II\n\n\n\n\uc023\n\n\n\n\n\n피 소모량: 250\n추긴기 티어: III\n\n\n\n\uc024\n\n\n\n\n피 소모량: 500\n추진기 티어: IV\n\n\n\n\uc129\n\n\n\n\n",
+  "item.um.demonomicon.entry.bloody_edge.recipe": "피 소모량: 10\n추진기 티어: I\n\n\n\n\uf122\n\n\n\n\n\n피 소모량: 50\n추진기 티어: II\n\n\n\n\uf123\n\n\n\n\n\n피 소모량: 250\n추긴기 티어: III\n\n\n\n\uf124\n\n\n\n\n피 소모량: 500\n추진기 티어: IV\n\n\n\n\uf229\n\n\n\n\n",
   "item.um.demonomicon.entry.bloody_edge.description": "이 검은 티어의 종류가 4가지 입니다. 티어가 오를 수록 더 강한 공격력과 공격 속도를 가집니다. 티어 III과 IV는 공격시 회복을 추가로 부여합니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.blood_rain_staff.title": "핏물 비 지팡이",
@@ -283,7 +283,7 @@
   "item.um.demonomicon.entry.blood_rain_staff.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.blood_rain_staff.more_info": "구름은 꽤 오래 지속되며 바로 아래에 피를 떨어뜨립니다.",
   "item.um.demonomicon.entry.blood_rain_staff.history": "%23$s: 추가\n%34$s: 텍스쳐 수정\n%39$s: 버프 및 티어 IV 추가",
-  "item.um.demonomicon.entry.blood_rain_staff.recipe": "피 소모량: 10\n추진기 티어: I\n\n\n\n\uc025\n\n\n\n\n\n피 소모량: 50\n추진기 티어: II\n\n\n\n\uc026\n\n\n\n\n\n피 소모량: 250\n추진기 티어: III\n\n\n\n\uc027\n\n\n\n\n피 소모량: 500\n추진기 티어: IV\n\n\n\n\uc130\n\n\n\n\n",
+  "item.um.demonomicon.entry.blood_rain_staff.recipe": "피 소모량: 10\n추진기 티어: I\n\n\n\n\uf125\n\n\n\n\n\n피 소모량: 50\n추진기 티어: II\n\n\n\n\uf126\n\n\n\n\n\n피 소모량: 250\n추진기 티어: III\n\n\n\n\uf127\n\n\n\n\n피 소모량: 500\n추진기 티어: IV\n\n\n\n\uf230\n\n\n\n\n",
   "item.um.demonomicon.entry.blood_rain_staff.description": "이 마법의 지팡이는 적들을 겨냥하며 해로운 피를 위에서부터 떨어뜨립니다. 4개 티어를 가지고 있으며 오를수록 더 강한 공격력을 가집니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.bloodstone.title": "혈석",
@@ -291,7 +291,7 @@
   "item.um.demonomicon.entry.bloodstone.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.bloodstone.more_info": "혈석 원소의 정령은 당신의 머리 위에서 화염구를 떨어뜨릴 수 있습니다.",
   "item.um.demonomicon.entry.bloodstone.history": "%7$s: 추가\n%8$s: 텍스쳐 수정\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.bloodstone.recipe": "혈석 원소의 정령에게서 얻을 수 있습니다. 정령은 아래와 같은\n의식을 통해 소환할 수 있는 미니보스 입니다:\n\n피 소모량: 100\n추진기 티어: II\n\n\n\n\n\n\uc028\n\n\n\n\n\n\n",
+  "item.um.demonomicon.entry.bloodstone.recipe": "혈석 원소의 정령에게서 얻을 수 있습니다. 정령은 아래와 같은\n의식을 통해 소환할 수 있는 미니보스 입니다:\n\n피 소모량: 100\n추진기 티어: II\n\n\n\n\n\n\uf128\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.bloodstone.description": "피와 융합된 돌들은 혈액 연성을 통해 소환되는 미니보스, 혈석 원소의 정령을 물리쳐서 얻을 수 있습니다. 혈석들은 여러가지 Sanguis 산물을 만드는데 사용될 수 있습니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.animal_creation.title": "동물 창조",
@@ -299,7 +299,7 @@
   "item.um.demonomicon.entry.animal_creation.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.animal_creation.more_info": "돼지들은 떨어뜨리는 아이템의 종류가 하나뿐이라 창조될 수 없습니다. 안타깝군요.\n그리고 토끼 창조에 사용되는 부산물은 토끼 발이 아니라 토끼 가죽입니다.",
   "item.um.demonomicon.entry.animal_creation.history": "%7$s: 추가",
-  "item.um.demonomicon.entry.animal_creation.recipe": "떨어뜨리는 아이템의 종류가 두가지 이상인 흔한 몹들\n소고기는 고기를, 가죽은 깃털이나 양털과 같은 부산물 아이템을\n뜻합니다.\n\n피 소모량: 5\n추진기 티어: I\n\n\n\n\n\n\uc031\n\n\n\n\n\n\n말류의 동물들에 관한 레시피입니다. 당나귀를 창조하려면\n황금사과 대신 황금 당근을 사용하세요.\n\n피 소모량: 25\n추진기 티어: II\n\n\n\n\n\n\uc032\n\n\n\n\n\n\n",
+  "item.um.demonomicon.entry.animal_creation.recipe": "떨어뜨리는 아이템의 종류가 두가지 이상인 흔한 몹들\n소고기는 고기를, 가죽은 깃털이나 양털과 같은 부산물 아이템을\n뜻합니다.\n\n피 소모량: 5\n추진기 티어: I\n\n\n\n\n\n\uf131\n\n\n\n\n\n\n말류의 동물들에 관한 레시피입니다. 당나귀를 창조하려면\n황금사과 대신 황금 당근을 사용하세요.\n\n피 소모량: 25\n추진기 티어: II\n\n\n\n\n\n\uf132\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.animal_creation.description": "생명의 비밀을 배우고 나면 피와 유기물을 섞어 동물들을 창조할 수 있습니다. 이런 연성법들은 소나 토끼, 말 등의 동물들을 창조해냅니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.carnage.title": "학살",
@@ -307,7 +307,7 @@
   "item.um.demonomicon.entry.carnage.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.carnage.more_info": "효율 V가 부여된 티어 II 학살은 즉시 돌을 캘 수 있습니다.",
   "item.um.demonomicon.entry.carnage.history": "%8$s: 추가\n%34$s: 텍스쳐 수정\n%39$s: 티어 IV 추가.",
-  "item.um.demonomicon.entry.carnage.recipe": "피 소모량: 50\n추진기 티어: I\n\n\n\n\uc033\n\n\n\n\n\n피 소모량: 150\n추진기 티어: II\n\n\n\n\uc034\n\n\n\n\n\n피 소모량: 500\n추진기 티어: III\n\n\n\n\uc035\n\n\n\n\n피 소모량: 1000\n추진기 티어: IV\n\n\n\n\uc131\n\n\n\n\n",
+  "item.um.demonomicon.entry.carnage.recipe": "피 소모량: 50\n추진기 티어: I\n\n\n\n\uf133\n\n\n\n\n\n피 소모량: 150\n추진기 티어: II\n\n\n\n\uf134\n\n\n\n\n\n피 소모량: 500\n추진기 티어: III\n\n\n\n\uf135\n\n\n\n\n피 소모량: 1000\n추진기 티어: IV\n\n\n\n\uf231\n\n\n\n\n",
   "item.um.demonomicon.entry.carnage.description": "%s으로 만들어진 이 망치는 네 종류의 티어가 존재합니다. 효율적인 채굴도구일 뿐만 아니라 느리지만 강력한 근거리 무기이기도 합니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.carnage.reference.0": "혈석",
 
@@ -316,7 +316,7 @@
   "item.um.demonomicon.entry.bloodstained_armor.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.bloodstained_armor.more_info": "The armor cannot recharge in the presence of bosses.\nIf your armor's blood count drops to 10 or lower, you will\nbe starved and rapidly take damage.\nThe armor holds a maximum of 200 blood.",
   "item.um.demonomicon.entry.bloodstained_armor.history": "%8$s: 추가\n%38$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.bloodstained_armor.recipe": "피 소모량: 250\n추진기 티어: III\nAny piece of chain armor works.\nThe whole set is made in one go.\n\n\n\n\n\uc036\n\n\n\n\n\n\nThe chestplate can be upgraded with the Bloodstained Heart:\n\n피 소모량: 250\n추진기 티어: IV\n\n\n\n\n\uc037\n\n\n\n\n\n",
+  "item.um.demonomicon.entry.bloodstained_armor.recipe": "피 소모량: 250\n추진기 티어: III\nAny piece of chain armor works.\nThe whole set is made in one go.\n\n\n\n\n\uf136\n\n\n\n\n\n\nThe chestplate can be upgraded with the Bloodstained Heart:\n\n피 소모량: 250\n추진기 티어: IV\n\n\n\n\n\uf137\n\n\n\n\n\n",
   "item.um.demonomicon.entry.bloodstained_armor.description": "%s으로 강화된 이 갑주는 착용시 주변에 있는 성배로부터 피를 흡수합니다. 피해를 입으면 갑주는 흡수한 피를 사용하여 착용자의 하트를 2칸 회복합니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.bloodstained_armor.reference.0": "혈석",
 
@@ -325,7 +325,7 @@
   "item.um.demonomicon.entry.blood_amalgam.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.blood_amalgam.more_info": "융합체 자체는 무적입니다. 미니언들을 처치해야 융합체에게 피해를 입힐 수 있습니다.\n융합체가 울부짖으면 물러서세요.\n매우 강력한 블러드 샷건을 피할 수 있습니다.",
   "item.um.demonomicon.entry.blood_amalgam.history": "%9$s: 추가\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.blood_amalgam.recipe": "피의 성배에 Sanguine Eye를 던져 보스와 전투합니다.\n눈은 다음과 같이 제작됩니다:\n\n피 소모량: 500\n추진기 티어: III\n\n\n\n\n\n\uc038\n\n\n\n\n\n\n",
+  "item.um.demonomicon.entry.blood_amalgam.recipe": "피의 성배에 Sanguine Eye를 던져 보스와 전투합니다.\n눈은 다음과 같이 제작됩니다:\n\n피 소모량: 500\n추진기 티어: III\n\n\n\n\n\n\uf138\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.blood_amalgam.description": "살점과 피의 강력한 융합체인 혈액 융합체는 많은 양의 피와 값진 아이템을 대가로 소환할 수 있는 보스입니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.radiant_monolith.title": "빛나는 대석",
@@ -333,7 +333,7 @@
   "item.um.demonomicon.entry.radiant_monolith.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.radiant_monolith.more_info": "이 블럭 대신 신호기가 사용되었었습니다.",
   "item.um.demonomicon.entry.radiant_monolith.history": "%34$s: 추가",
-  "item.um.demonomicon.entry.radiant_monolith.recipe": "\n\n\n\n\n\n\uc039\n",
+  "item.um.demonomicon.entry.radiant_monolith.recipe": "\n\n\n\n\n\n\uf139\n",
   "item.um.demonomicon.entry.radiant_monolith.description": "빛나는 대석은 %2$s를 위한 %1$s 입니다. %3$s를 사용하여 조합할 수 있습니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.radiant_monolith.reference.0": "티어 III 추진기",
   "item.um.demonomicon.entry.radiant_monolith.reference.1": "피의 제단",
@@ -344,7 +344,7 @@
   "item.um.demonomicon.entry.blood_monolith.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.blood_monolith.more_info": "피의 제단 티어 IV는 다른 모든 티어들이 추가된 뒤에 추가되었습니다s.",
   "item.um.demonomicon.entry.blood_monolith.history": "%13$s: 추가",
-  "item.um.demonomicon.entry.blood_monolith.recipe": "\n\n\n\n\n\n\uc040\n",
+  "item.um.demonomicon.entry.blood_monolith.recipe": "\n\n\n\n\n\n\uf140\n",
   "item.um.demonomicon.entry.blood_monolith.description": "피의 대석은 %2$s를 위한 %1$s 입니다. %3$s에게서 떨어지는 결정화된 피의 정수를 사용하여 조합할 수 있습니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.blood_monolith.reference.0": "티어 IV 추진기",
   "item.um.demonomicon.entry.blood_monolith.reference.1": "피의 제단",
@@ -369,7 +369,7 @@
   "item.um.demonomicon.entry.ele_limbs.icon": "\uf028",
   "item.um.demonomicon.entry.ele_limbs.contributors": "Hashs: 제작",
   "item.um.demonomicon.entry.ele_limbs.more_info": "해당 연성은 여러가지 물약 효과를 부여했었습니다.",
-  "item.um.demonomicon.entry.ele_limbs.recipe": "내성 소모량: 3\n피 소모량: 100\n추진기 티어: IV\n\n\n\n\n\n\uc041\n\n\n\n\n\n\n",
+  "item.um.demonomicon.entry.ele_limbs.recipe": "내성 소모량: 3\n피 소모량: 100\n추진기 티어: IV\n\n\n\n\n\n\uf141\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.ele_limbs.history": "%16$s: 추가\n%35$s: 재작업",
   "item.um.demonomicon.entry.ele_limbs.description": "가장 기본적인 %s은 명백한 첫 단추 입니다. 당신의 사지에 원소 재료들을 연성하여, 약간의 힘과 속력이 증가합니다\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.ele_limbs.reference.0": "자가 연성",
@@ -378,7 +378,7 @@
   "item.um.demonomicon.entry.iron_skin.icon": "\uf029",
   "item.um.demonomicon.entry.iron_skin.contributors": "Hashs: 제작",
   "item.um.demonomicon.entry.iron_skin.more_info": "이 연성은 저항 II 효과를 부여했었습니다.",
-  "item.um.demonomicon.entry.iron_skin.recipe": "내성 소모량: 2\n피 소모량: 150\n추진기 티어: IV\n\n\n\n\n\n\uc042\n\n\n\n\n\n\n",
+  "item.um.demonomicon.entry.iron_skin.recipe": "내성 소모량: 2\n피 소모량: 150\n추진기 티어: IV\n\n\n\n\n\n\uf142\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.iron_skin.history": "%16$s: 추가\n%35$s: 재작업",
   "item.um.demonomicon.entry.iron_skin.description": "당신의 피부에 철을 연성하여, 피해에 강한 저항력을 갖게 됩니다. 강철 피부는 추가적인 방어 수치와 강도를 줍니다. 강화된 피 묻은 갑주와 같이 사용하면 최대 방어 수치에 도달할 수 있습니다.\n\n\n\n\n\n\n\n\n",
 
@@ -386,7 +386,7 @@
   "item.um.demonomicon.entry.flame_body.icon": "\uf030",
   "item.um.demonomicon.entry.flame_body.contributors": "Hashs: 제작",
   "item.um.demonomicon.entry.flame_body.more_info": "구덩이 군주와 싸울 때 매우 유용합니다.",
-  "item.um.demonomicon.entry.flame_body.recipe": "내성 소모량: 4\n피 소모량: 200\n추진기 티어: IV\n\n\n\n\n\n\uc043\n\n\n\n\n\n\n",
+  "item.um.demonomicon.entry.flame_body.recipe": "내성 소모량: 4\n피 소모량: 200\n추진기 티어: IV\n\n\n\n\n\n\uf143\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.flame_body.history": "%16$s: 추가\n%38$s: 버프",
   "item.um.demonomicon.entry.flame_body.description": "당신은 네더의 위험으로부터 저항하는 방법을 깨달았습니다. 당신의 몸을 여러가지 뜨거운 재료와 연성하면 당신은 자연적인 불에 면역을 갖게 되며 또한 받는 화상 피해가 25% 감소하게 됩니다.\n\n\n\n\n\n\n\n\n",
 
@@ -394,7 +394,7 @@
   "item.um.demonomicon.entry.tolerance.icon": "\uf031",
   "item.um.demonomicon.entry.tolerance.contributors": "Hashs: 제작",
   "item.um.demonomicon.entry.tolerance.more_info": "이 연성은 과한 자가 연성으로 인한 죽음에도 사라지지 않습니다.",
-  "item.um.demonomicon.entry.tolerance.recipe": "내성 소모량: 0\n피 소모량: 300\n추진기 티어: IV\n\n\n\n\n\n\uc044\n\n\n\n\n\n\n",
+  "item.um.demonomicon.entry.tolerance.recipe": "내성 소모량: 0\n피 소모량: 300\n추진기 티어: IV\n\n\n\n\n\n\uf144\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.tolerance.history": "%16$s: 추가",
   "item.um.demonomicon.entry.tolerance.description": "네더의 조각을 당신의 몸에 박아넣고 당신의 뼈를 금과 연성하면 더 높은 수준의 마법을 받아들일 수 있게 됩니다. 내성 연성은 당신의 최대 내성을 5 증가시킵니다.\n\n\n\n\n\n\n\n\n",
 
@@ -402,7 +402,7 @@
   "item.um.demonomicon.entry.enderlord.icon": "\uf032",
   "item.um.demonomicon.entry.enderlord.contributors": "Hashs: 제작",
   "item.um.demonomicon.entry.enderlord.more_info": "이 연성과 동일한 효과를 가진 부적이 존재했었습니다.",
-  "item.um.demonomicon.entry.enderlord.recipe": "내성 소모량: 6\n피 소모량: 400\n추진기 티어: IV\n\n\n\n\n\n\uc045\n\n\n\n\n\n\n",
+  "item.um.demonomicon.entry.enderlord.recipe": "내성 소모량: 6\n피 소모량: 400\n추진기 티어: IV\n\n\n\n\n\n\uf145\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.enderlord.history": "%16$s: 추가",
   "item.um.demonomicon.entry.enderlord.description": "이 연성을 가지고 있는 채로 웅크리기와 점프를 동시에 누르면 앞으로 순간합니다. 당신의 순간이동 기관의 한계로 인하여 순간을 하기 위해서는 목적지에 아무것도 존재해서는 안됩니다. 키 큰 잔디도 허용되지 않습니다.\n\n\n\n\n\n\n\n\n",
 
@@ -426,7 +426,7 @@
   "item.um.demonomicon.entry.shadow_metals.icon": "\uf035",
   "item.um.demonomicon.entry.shadow_metals.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.shadow_metals.more_info": "원료들은 그늘짐승에게서도 얻을 수 있습니다.",
-  "item.um.demonomicon.entry.shadow_metals.recipe": "\n\n\n\n\n\n\uc046\n\n\n\n\n\n\n\uc047\n",
+  "item.um.demonomicon.entry.shadow_metals.recipe": "\n\n\n\n\n\n\uf146\n\n\n\n\n\n\n\uf147\n",
   "item.um.demonomicon.entry.shadow_metals.history": "%18$s: 추가\n%34$s: 텍스쳐 수정",
   "item.um.demonomicon.entry.shadow_metals.description": "%s는 그림자 강철과 어두운 금속으로 가공될수 있습니다. 두 가지의 유용한 재료들이죠.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.shadow_metals.reference.0": "그림자와 어두운 원료",
@@ -435,7 +435,7 @@
   "item.um.demonomicon.entry.shadow_plate.icon": "\uf036",
   "item.um.demonomicon.entry.shadow_plate.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.shadow_plate.more_info": "저는 제 디스코드 서버에있는 사람들이 \"mundane\"이란 단어의 의미를 몰라서 미쳐버렸습니다.",
-  "item.um.demonomicon.entry.shadow_plate.recipe": "\n\n\n\n\n\n\uc048\n",
+  "item.um.demonomicon.entry.shadow_plate.recipe": "\n\n\n\n\n\n\uf148\n",
   "item.um.demonomicon.entry.shadow_plate.history": "%18$s: 추가\n%34$s: 텍스쳐 수정",
   "item.um.demonomicon.entry.shadow_plate.description": "%s들은 일반 금과 함께 철판으로 만들어질 수 있습니다. 이 강한 철판들은 강력한 장비를 만드는데 쓰일 수 있습니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.shadow_plate.reference.0": "두개의 정제된 그림자 금속",
@@ -452,7 +452,7 @@
   "item.um.demonomicon.entry.shadecloth.icon": "\uf037",
   "item.um.demonomicon.entry.shadecloth.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.shadecloth.more_info": "그늘 직물은 그림자 철판보다 저렴합니다. 저렴한 장비를 만들기에 더 좋습니다.",
-  "item.um.demonomicon.entry.shadecloth.recipe": "\n\n\n\n\n\n\uc049\n",
+  "item.um.demonomicon.entry.shadecloth.recipe": "\n\n\n\n\n\n\uf149\n",
   "item.um.demonomicon.entry.shadecloth.history": "%18$s: 추가\n%34$s: 텍스쳐 수정",
   "item.um.demonomicon.entry.shadecloth.description": "어둠의 합금을 짜서 만든 어둠의 천입니다. 그늘 직물은 실, 그림자 강철, 어두운 금속으로부터 만들어집니다.\n\n\n\n\n\n\n\n\n",
 
@@ -460,7 +460,7 @@
   "item.um.demonomicon.entry.shadow_armor.icon": "\uf038",
   "item.um.demonomicon.entry.shadow_armor.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.shadow_armor.more_info": "이 갑주는 추가적인 강도를 제외하곤 특발한 효과가 없습니다.",
-  "item.um.demonomicon.entry.shadow_armor.recipe": "\n\n\n\n\n\n\uc050\n\n\n\n\n\n\n\uc051\n\n\n\n\n\n\n\uc052\n\n\n\n\n\n\n\uc053\n",
+  "item.um.demonomicon.entry.shadow_armor.recipe": "\n\n\n\n\n\n\uf150\n\n\n\n\n\n\n\uf151\n\n\n\n\n\n\n\uf152\n\n\n\n\n\n\n\uf153\n",
   "item.um.demonomicon.entry.shadow_armor.history": "%18$s: 추가\n%38$s: 텍스쳐 수정",
   "item.um.demonomicon.entry.shadow_armor.description": "%s은 네더라이트의 강도를 뛰어넘는 강도를 가진 갑옷을 만드는데 사용될 수 있습니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.shadow_armor.reference.0": "그림자 철판",
@@ -469,7 +469,7 @@
   "item.um.demonomicon.entry.shade_armor.icon": "\uf039",
   "item.um.demonomicon.entry.shade_armor.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.shade_armor.more_info": "이 갑주는 근거리 공격하면 은신이 사라졌었습니다.",
-  "item.um.demonomicon.entry.shade_armor.recipe": "\n\n\n\n\n\n\uc054\n\n\n\n\n\n\n\uc055\n\n\n\n\n\n\n\uc056\n\n\n\n\n\n\n\uc057\n",
+  "item.um.demonomicon.entry.shade_armor.recipe": "\n\n\n\n\n\n\uf154\n\n\n\n\n\n\n\uf155\n\n\n\n\n\n\n\uf156\n\n\n\n\n\n\n\uf157\n",
   "item.um.demonomicon.entry.shade_armor.history": "%18$s: 추가\n%38$s: 텍스쳐 수정",
   "item.um.demonomicon.entry.shade_armor.description": "%s은 몇초마다 한대의 피해에 면역을 주는 어둠의 갑옷을 만드는데 사용될 수 있습니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.shade_armor.reference.0": "그늘 직물",
@@ -477,7 +477,7 @@
   "item.um.demonomicon.entry.phantasmal_dagger.title": "허깨비 단검",
   "item.um.demonomicon.entry.phantasmal_dagger.icon": "\uf040",
   "item.um.demonomicon.entry.phantasmal_dagger.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
-  "item.um.demonomicon.entry.phantasmal_dagger.recipe": "\n\n\n\n\n\n\uc058\n",
+  "item.um.demonomicon.entry.phantasmal_dagger.recipe": "\n\n\n\n\n\n\uf158\n",
   "item.um.demonomicon.entry.phantasmal_dagger.more_info": "이 아이템과 그늘 걸이 갑옷 풀셋을 함께 사용하면 은신 치명타를 줄 수 있습니다.",
   "item.um.demonomicon.entry.phantasmal_dagger.history": "%18$s: 추가\n%34$s: 텍스쳐 수정",
   "item.um.demonomicon.entry.phantasmal_dagger.description": "스스로를 복제하는 단도를 만들어 적에게 날릴 수 있습니다. 그리고 쓸만한 근거리 무기로도 사용할 수 있습니다.\n\n\n\n\n\n\n\n\n",
@@ -486,7 +486,7 @@
   "item.um.demonomicon.entry.charms.icon": "\uf041",
   "item.um.demonomicon.entry.charms.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.charms.more_info": "콤보 - 근거리 공격은 공격력과 공격속도를 약간씩 올리는 스택을 쌓습니다\n달리기 - 달리기는 시간이 갈수록 당신의 속도를 높입니다.\n마나 회복 - 마나 회복력을 높입니다.\n과충전 - 몇 초마다 완전히 당겨진 화살은 추가 피해량을 갖게 됩니다.\n치료 - 몇 초마다 부정적인 물약 효과들을 제거합니다.\n공황 - 피해를 입으면 속도가 올라갑니다\n\n광분 - 체력이 낮으면 스탯을 강화합니다.\n면역 - 피해를 입고 난 뒤에 무적시간을 연장합니다.\n유령 발걸음 - 벽을 달려서 통과할 수 있게합니다.\n마나 전달 - 피해를 입으면 마나를 회복합니다.\n유령의 시야 - 주변의 엔티티에게 발광 효과를 부여합니다.\n겁쟁이 - 체력이 조금도 닳지 않았을 때 근거리 공격력이 증가합니다.\n\n최후의 보루 - 체력이 낮을때 최대 체력을 대가로 상당한 양의 회복 효과를 부여합니다.\n운동에너지 장 - 가끔 발사체를 흡수합니다.\n회오리 - 근거리 공격에 맞은 적을 가끔 위로 날립니다.\n화염 - 가까이 있는 적을 불태웁니다.\n반격의 질주 - 웅크리기와 점프 키를 눌러 공격을 막는 질주를 할 수 있습니다.\n치명타 - 특정확률로 근거리 공격의 공격력이 2배가 됩니다.",
-  "item.um.demonomicon.entry.charms.recipe": "부적 작업대를 사용하려면 윗줄의 가운데 칸에 갑옷을 넣고 윗줄의 왼쪽칸에 부적을 넣으면 됩니다.\n부적 2개를 부착할 수 있는 갑옷들은 두번째 부적을 갑옷 오른쪽에 놓으면 됩니다.\n\n\n\n\n\n\uc059\n",
+  "item.um.demonomicon.entry.charms.recipe": "부적 작업대를 사용하려면 윗줄의 가운데 칸에 갑옷을 넣고 윗줄의 왼쪽칸에 부적을 넣으면 됩니다.\n부적 2개를 부착할 수 있는 갑옷들은 두번째 부적을 갑옷 오른쪽에 놓으면 됩니다.\n\n\n\n\n\n\uf159\n",
   "item.um.demonomicon.entry.charms.history": "%18$s: 추가\n%34$s: 텍스쳐 수정 및 재작업",
   "item.um.demonomicon.entry.charms.description": "부적은 룬이 쓰여진 글귀들 입니다. 노획물으로 획득할 수도 있고 보스를 무찔러 얻을 수도 있습니다. 부적 작업대(조합법 칸에 조합법이 나와 있습니다)를 통해 갑옷에 부착해 특정 버프(더보기 란에 버프가 설명되어 있습니다)를 받으세요.\n\n\n\n\n\n\n\n\n",
 
@@ -494,7 +494,7 @@
   "item.um.demonomicon.entry.shadow_guardian_bulwark.icon": "\uf042",
   "item.um.demonomicon.entry.shadow_guardian_bulwark.contributors": "Hashs: 제작",
   "item.um.demonomicon.entry.shadow_guardian_bulwark.more_info": "이 아이템은 동일한 아이템을 들고 있는 다른 플레이어를 공격할 수 없습니다.",
-  "item.um.demonomicon.entry.shadow_guardian_bulwark.recipe": "\n\n\n\n\n\n\uc060\n",
+  "item.um.demonomicon.entry.shadow_guardian_bulwark.recipe": "\n\n\n\n\n\n\uf160\n",
   "item.um.demonomicon.entry.shadow_guardian_bulwark.history": "%18$s: 추가\n%34$s: 청사진 제거",
   "item.um.demonomicon.entry.shadow_guardian_bulwark.description": "당신은 방패에 그림자 세계의 영혼을 속박하는 구성체를 박아 넣었습니다. 이를 통해 공격에 반격하는 그림자 수호자를 소환하는 무기를 만들게 되었습니다.\n\n\n\n\n\n\n\n\n",
 
@@ -503,7 +503,7 @@
   "item.um.demonomicon.entry.shadow_longsword.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.shadow_longsword.more_info": "이 장검은 마법이 부여될 수 없습니다. 하지만 마법이 부여되지 않은\n네더라이트 검이나 피비린 날보단 공격력이 강합니다.",
   "item.um.demonomicon.entry.shadow_longsword.history": "%18$s: 추가\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.shadow_longsword.recipe": "\n\n\n\n\n\n\uc061\n",
+  "item.um.demonomicon.entry.shadow_longsword.recipe": "\n\n\n\n\n\n\uf161\n",
   "item.um.demonomicon.entry.shadow_longsword.description": "그림자 철판은 특별한 검을 만드는데 사용될 수 있습니다. 이 검은 단일공격만 가능하며 공격속도가 느립니다. 하지만 검집에 넣어 들고다니다가 빠르게 발도하여 공격할 수 있습니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.elder.title": "장로",
@@ -511,7 +511,7 @@
   "item.um.demonomicon.entry.elder.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐/모델 제작",
   "item.um.demonomicon.entry.elder.more_info": "크고 울리는 소리에 주의하세요. 소리가 들린 뒤에 보스는 강한 피해를 주는 죽음의 광선을 쏩니다.\n가능한 가까이 다가가서 밑에서 빙글빙글 돌면서 피하세요.",
   "item.um.demonomicon.entry.elder.history": "%18$s: 추가\n%34$s: 텍스쳐/모델 재작업",
-  "item.um.demonomicon.entry.elder.recipe": "몰락의 유물을 땅에 던져서 소환할 수 있습니다. 몰락의 유물은 다음과 같이 조합합니다:\n\n\n\n\n\n\uc062\n",
+  "item.um.demonomicon.entry.elder.recipe": "몰락의 유물을 땅에 던져서 소환할 수 있습니다. 몰락의 유물은 다음과 같이 조합합니다:\n\n\n\n\n\n\uf162\n",
   "item.um.demonomicon.entry.elder.description": "위대한 이계의 신, 장로는 수많은 오메가 룬을 비롯한 마법 장치들을 소유하고 있습니다. 이 세계로 소환되고 무찔러질 수 있습니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.omega_plate.title": "오메가 철판",
@@ -519,7 +519,7 @@
   "item.um.demonomicon.entry.omega_plate.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.omega_plate.more_info": "오메가 철판들은 오메가 갑주를 제외하고는 사용되는 일이 없습니다.",
   "item.um.demonomicon.entry.omega_plate.history": "%18$s: 추가\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.omega_plate.recipe": "\n\n\n\n\n\n\uc063\n",
+  "item.um.demonomicon.entry.omega_plate.recipe": "\n\n\n\n\n\n\uf163\n",
   "item.um.demonomicon.entry.omega_plate.description": "%s로부터 떨어지는 오메가 룬을 사용하여 비교불가한 힘을 가진 마법의 철판을 제작할 수 있습니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.omega_plate.reference.0": "장로",
 
@@ -528,7 +528,7 @@
   "item.um.demonomicon.entry.omega_armor.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.omega_armor.more_info": "오메가 갑주는 최종보스전에서 사용할만한 갑옷입니다.",
   "item.um.demonomicon.entry.omega_armor.history": "%18$s: 추가\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.omega_armor.recipe": "\n\n\n\n\n\n\uc064\n\n\n\n\n\n\n\uc065\n\n\n\n\n\n\n\uc066\n\n\n\n\n\n\n\uc067\n",
+  "item.um.demonomicon.entry.omega_armor.recipe": "\n\n\n\n\n\n\uf164\n\n\n\n\n\n\n\uf165\n\n\n\n\n\n\n\uf166\n\n\n\n\n\n\n\uf167\n",
   "item.um.demonomicon.entry.omega_armor.description": "%s은 엄청난 강도를 가지고 있는 갑옷으로 조합될 수 있습니다. 이 갑옷의 진정한 힘은 부적을 동시에 2개 장착할 수 있다는 겁니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.omega_armor.reference.0": "오메가 철판",
 
@@ -537,7 +537,7 @@
   "item.um.demonomicon.entry.teleporters.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.teleporters.more_info": "순간이동기는 해당 청크가 로딩되어있어야 작동합니다. 청크로더를 확인하세요.",
   "item.um.demonomicon.entry.teleporters.history": "%19$s: 추가\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.teleporters.recipe": "\n\n\n\n\n\n\uc068\n\n\n\n\n\n\n\uc069\n",
+  "item.um.demonomicon.entry.teleporters.recipe": "\n\n\n\n\n\n\uf168\n\n\n\n\n\n\n\uf169\n",
   "item.um.demonomicon.entry.teleporters.description": "순간이동기 주변에서 위치 카드를 우클릭해 순간이동기와 연결하세요. 그 뒤 해당 카드를 다른 순간이동기에 떨어뜨려 후자를 전자에 연결하세요. 순간이동기 위에 서서 목적지로 순간이동할 수 있습니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.recall_locator_card.title": "귀환 위치 카드",
@@ -545,7 +545,7 @@
   "item.um.demonomicon.entry.recall_locator_card.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.recall_locator_card.more_info": "이 카드는 해당 청크가 로딩되어있어야 작동합니다. 청크로더를 확인하세요.",
   "item.um.demonomicon.entry.recall_locator_card.history": "%19$s: 추가\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.recall_locator_card.recipe": "\n\n\n\n\n\n\uc070\n",
+  "item.um.demonomicon.entry.recall_locator_card.recipe": "\n\n\n\n\n\n\uf170\n",
   "item.um.demonomicon.entry.recall_locator_card.description": "순간이동기와 연결된 위치 카드는 귀환 위치 카드로 만들어질 수 있습니다. 귀환 위치 카드를 우클릭하여 어디서나 연결된 순간이동기로 순간이동할 수 있습니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.dragon_drops.title": "드래곤 전리품",
@@ -561,7 +561,7 @@
   "item.um.demonomicon.entry.dragon_scale_armor.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.dragon_scale_armor.more_info": "날개가 있는 상태에서 위를 보면 상승, 아래를 보면 하강, 웅크리기를 누르면 고도 유지,\n달리기로 더 빠르게 바라보는 방향으로 비행할 수 있습니다.",
   "item.um.demonomicon.entry.dragon_scale_armor.history": "%20$s: 추가\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.dragon_scale_armor.recipe": "\n\n\n\n\n\n\uc071\n\n\n\n\n\n\n\uc072\n\n\n\n\n\n\n\uc073\n\n\n\n\n\n\n\uc074\n",
+  "item.um.demonomicon.entry.dragon_scale_armor.recipe": "\n\n\n\n\n\n\uf171\n\n\n\n\n\n\n\uf172\n\n\n\n\n\n\n\uf173\n\n\n\n\n\n\n\uf174\n",
   "item.um.demonomicon.entry.dragon_scale_armor.description": "용의 비늘로부터 풀셋을 착용하면 드래곤의 날개를 주는 갑주를 조합할 수 있습니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.holy_alloy_plate.title": "신성 합금 철판",
@@ -569,7 +569,7 @@
   "item.um.demonomicon.entry.holy_alloy_plate.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.holy_alloy_plate.more_info": "이 아이템은 갑옷으로 조합할 수도 있고 무기로도 조합할 수 있습니다.",
   "item.um.demonomicon.entry.holy_alloy_plate.history": "%35$s: 추가",
-  "item.um.demonomicon.entry.holy_alloy_plate.recipe": "\n\n\n\n\n\n\uc075\n",
+  "item.um.demonomicon.entry.holy_alloy_plate.recipe": "\n\n\n\n\n\n\uf175\n",
   "item.um.demonomicon.entry.holy_alloy_plate.description": "마을이나 무너진 포탈 상자에서 축복받은 조각을 발견할 수 있습니다. 이 조각들은 근거리 전투에 유리한 신성 합금 철판을 만드는데 사용될 수 있습니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.paladin_hammer.title": "팔라딘 망치",
@@ -577,7 +577,7 @@
   "item.um.demonomicon.entry.paladin_hammer.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.paladin_hammer.more_info": "5번째 공격마다 공격력이 2배가 되며 체력을 회복합니다.",
   "item.um.demonomicon.entry.paladin_hammer.history": "%35$s: 추가",
-  "item.um.demonomicon.entry.paladin_hammer.recipe": "\n\n\n\n\n\n\uc083\n",
+  "item.um.demonomicon.entry.paladin_hammer.recipe": "\n\n\n\n\n\n\uf183\n",
   "item.um.demonomicon.entry.paladin_hammer.description": "신성 합금 철판은 강력한 근거리 무기를 만드는데 사용될 수 있습니다. 도끼로도 사용될 수 있습니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.paladin_armor.title": "팔라딘 갑주",
@@ -585,7 +585,7 @@
   "item.um.demonomicon.entry.paladin_armor.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.paladin_armor.more_info": "각각의 투구는 다른 물약효과를 근거리 공격시 주변 플레이어들에게 부여합니다.",
   "item.um.demonomicon.entry.paladin_armor.history": "%35$s: 추가",
-  "item.um.demonomicon.entry.paladin_armor.recipe": "조합법 순서는 다음과 같습니다: 보복자, 수호자, 원정자\n\n\n\n\n\n\uc076\n\n\n\n\n\n\n\uc077\n\n\n\n\n\n\n\uc078\n\n\n\n\n\n\n\uc079\n\n\n\n\n\n\n\uc080\n\n\n\n\n\n\n\uc081\n",
+  "item.um.demonomicon.entry.paladin_armor.recipe": "조합법 순서는 다음과 같습니다: 보복자, 수호자, 원정자\n\n\n\n\n\n\uf176\n\n\n\n\n\n\n\uf177\n\n\n\n\n\n\n\uf178\n\n\n\n\n\n\n\uf179\n\n\n\n\n\n\n\uf180\n\n\n\n\n\n\n\uf181\n",
   "item.um.demonomicon.entry.paladin_armor.description": "신성 합금 철판은 근거리 전투에 치중된 갑옷을 만드는데 사용 될 수 있습니다. 갑옷의 방어도는 철 갑옷과 비슷하고 투구를 셋 중 하나 골라서 사용할 수 있습니다: 보복자, 수호자, 원정자. 세 투구는 순서대로 근거리 공격력, 방어력, 속력을 강화합니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.fallen_paladin_armor.title": "타락한 팔라딘 갑주",
@@ -593,7 +593,7 @@
   "item.um.demonomicon.entry.fallen_paladin_armor.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.fallen_paladin_armor.more_info": "일반 팔라딘 갑주와는 다르게 모든 타락한 팔라딘 갑주는 공격력을 강화합니다.\n(대신 보복자 투구는 더 강화합니다).",
   "item.um.demonomicon.entry.fallen_paladin_armor.history": "%35$s: 추가",
-  "item.um.demonomicon.entry.fallen_paladin_armor.recipe": "이 조합법은 모든 부위가 동일합니다.\n\n\n\n\n\n\uc082\n",
+  "item.um.demonomicon.entry.fallen_paladin_armor.recipe": "이 조합법은 모든 부위가 동일합니다.\n\n\n\n\n\n\uf182\n",
   "item.um.demonomicon.entry.fallen_paladin_armor.description": "팔라딘 갑주를 네더라이트와 네더의 조각으로 강화하면, 갑주에 악한 힘을 융합시켜 더 높은 방어력과 높은 강화력을 부여합니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.primal_armor.title": "원초의 갑주",
@@ -601,7 +601,7 @@
   "item.um.demonomicon.entry.primal_armor.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.primal_armor.more_info": "이 갑옷 조합법에 사용되는 잎은 정글 나무 잎입니다.\n또 이 갑옷은 항시 화살 속도 증가를 부여합니다.",
   "item.um.demonomicon.entry.primal_armor.history": "%35$s: 추가",
-  "item.um.demonomicon.entry.primal_armor.recipe": "\n\n\n\n\n\n\uc084\n\n\n\n\n\n\n\uc085\n\n\n\n\n\n\n\uc086\n\n\n\n\n\n\n\uc087\n",
+  "item.um.demonomicon.entry.primal_armor.recipe": "\n\n\n\n\n\n\uf184\n\n\n\n\n\n\n\uf185\n\n\n\n\n\n\n\uf186\n\n\n\n\n\n\n\uf187\n",
   "item.um.demonomicon.entry.primal_armor.description": "정글 사원에서 발견되는 야생의 심장을 사용하여 당신에게 원초의 본능을 융합하는 갑옷을 만들 수 있습니다. 몇초간 피해를 받지 않으면 최대 3스택까지 스택이 쌓입니다. 스택은 받는 데미지를 약화하거나 활을 강화하는데 사용됩니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.shortbows.title": "단궁",
@@ -609,7 +609,7 @@
   "item.um.demonomicon.entry.shortbows.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.shortbows.more_info": "두개의 단궁은 구속 효과와 DoT 효과(독 또는 시듦)를 부여합니다.",
   "item.um.demonomicon.entry.shortbows.history": "%35$s: 추가",
-  "item.um.demonomicon.entry.shortbows.recipe": "\n\n\n\n\n\n\uc088\n\n\n\n\n\n\n\uc089\n",
+  "item.um.demonomicon.entry.shortbows.recipe": "\n\n\n\n\n\n\uf188\n\n\n\n\n\n\n\uf189\n",
   "item.um.demonomicon.entry.shortbows.description": "정글 사원에서 발견되는 야생의 심장을 사용하여, 사거리는 짧지만 활보다는 강한 야생의 단궁을 조합할 수 있습니다. 이 단궁은 더욱 강한 부패의 단궁으로 강화될 수 있습니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.quivers.title": "화살통",
@@ -617,7 +617,7 @@
   "item.um.demonomicon.entry.quivers.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.quivers.more_info": "맹독 화살통은 독 효과를 부여하며, 염산 화살통은 드래곤의 진노 효과를,\n그림자 화살통은 실명 효과와 다른 약화 효과들을 부여합니다.",
   "item.um.demonomicon.entry.quivers.history": "%35$s: 추가",
-  "item.um.demonomicon.entry.quivers.recipe": "\n\n\n\n\n\n\uc090\n\n\n\n\n\n\n\uc091\n\n\n\n\n\n\n\n\uc092\n",
+  "item.um.demonomicon.entry.quivers.recipe": "\n\n\n\n\n\n\uf190\n\n\n\n\n\n\n\uf191\n\n\n\n\n\n\n\n\uf192\n",
   "item.um.demonomicon.entry.quivers.description": "화살통은 레인저들을 위한 반대쪽 손 아이템입니다. 4초마다 발사된 화살을 공격력을 비롯헤 여러가지로 강화합니다. 맹독 화살통은 야생의 심장으로 조합할 수 있으며 다른 재료들로 2회 강화될 수 있습니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.staff_of_the_magi.title": "메이자이의 지팡이",
@@ -625,7 +625,7 @@
   "item.um.demonomicon.entry.staff_of_the_magi.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.staff_of_the_magi.more_info": "루시드 지팡이는 투사체가 15번 부딪힌 뒤 강력한 데미지를 주는 거대한 폭발을 일으킵니다.",
   "item.um.demonomicon.entry.staff_of_the_magi.history": "%35$s: 추가",
-  "item.um.demonomicon.entry.staff_of_the_magi.recipe": "\n\n\n\n\n\n\uc093\n\n\n\n\n\n\n\uc094\n",
+  "item.um.demonomicon.entry.staff_of_the_magi.recipe": "\n\n\n\n\n\n\uf193\n\n\n\n\n\n\n\uf194\n",
   "item.um.demonomicon.entry.staff_of_the_magi.description": "메이자이의 지팡이는 여러 노획물에서 발견할수 있는 신비한 결정으로 만들어집니다. 지팡이는 유도 마법 미사일을 발사합니다. 후에 유도 별을 발사하는 루시드 지팡이로 강화될 수 있습니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.magi_armor.title": "메이자의 갑주",
@@ -633,7 +633,7 @@
   "item.um.demonomicon.entry.magi_armor.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.magi_armor.more_info": "와드는 가장 처음 데미지를 입은 시점에서 30초 뒤에 재생됩니다.",
   "item.um.demonomicon.entry.magi_armor.history": "%35$s: 추가",
-  "item.um.demonomicon.entry.magi_armor.recipe": "\n\n\n\n\n\n\uc095\n\n\n\n\n\n\n\uc096\n\n\n\n\n\n\n\uc097\n\n\n\n\n\n\n\uc098\n",
+  "item.um.demonomicon.entry.magi_armor.recipe": "\n\n\n\n\n\n\uf195\n\n\n\n\n\n\n\uf196\n\n\n\n\n\n\n\uf197\n\n\n\n\n\n\n\uf198\n",
   "item.um.demonomicon.entry.magi_armor.description": "신비한 결정으로 만들어진 이 갑옷은 낮은 방어력을 가졌지만 흡수효과를 가진 와드를 생성합니다. 와드가 완전히 파괴되었으면 와드가 재생될 때까지 마나 회복력이 두배로 증가됩니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.astral_armor.title": "아스트랄의 갑주",
@@ -641,7 +641,7 @@
   "item.um.demonomicon.entry.astral_armor.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.astral_armor.more_info": "수호별은 3분간 잃은 별이 없으면 재생됩니다.",
   "item.um.demonomicon.entry.astral_armor.history": "%35$s: 추가",
-  "item.um.demonomicon.entry.astral_armor.recipe": "이 조합법은 모든 부위가 동일합니다.\n\n\n\n\n\n\uc099\n",
+  "item.um.demonomicon.entry.astral_armor.recipe": "이 조합법은 모든 부위가 동일합니다.\n\n\n\n\n\n\uf199\n",
   "item.um.demonomicon.entry.astral_armor.description": "메이자이의 갑주는 네더의 조각을 사용해 아스트랄의 갑옷으로 강화될 수 있습니다. 갑옷은 와드 대신 4개의 수호별을 생성하며 각각의 별은 공격 한번을 막는 동시에 마나를 완정히 회복합니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.orbs.title": "구체",
@@ -649,7 +649,7 @@
   "item.um.demonomicon.entry.orbs.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.orbs.more_info": "신비의 구체는 마나 회복력을 초당 10으로, 아스트랄 구체는 초당 15,\n이계의 구체는 초당 20으로 증가시킵니다.",
   "item.um.demonomicon.entry.orbs.history": "%35$s: 추가",
-  "item.um.demonomicon.entry.orbs.recipe": "\n\n\n\n\n\n\uc100\n\n\n\n\n\n\n\uc101\n\n\n\n\n\n\n\n\uc102\n",
+  "item.um.demonomicon.entry.orbs.recipe": "\n\n\n\n\n\n\uf200\n\n\n\n\n\n\n\uf201\n\n\n\n\n\n\n\n\uf202\n",
   "item.um.demonomicon.entry.orbs.description": "구채는 마법사들을 위한 반대쪽 손 아이템입니다. 마나 회복력을 증가시팁니다. 신비의 구체는 신비한 결정으로 제작할 수 있고 후에 다른 재료들로 2회 강화될 수 있습니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.early_magic_weps.title": "초반 마법 무기",
@@ -657,7 +657,7 @@
   "item.um.demonomicon.entry.early_magic_weps.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.early_magic_weps.more_info": "전엔 프리즘 홀 조합법에 네더의 별이 통채로 들어갔습니다. 으으.",
   "item.um.demonomicon.entry.early_magic_weps.history": "%22$s: 추가\n%34$s: 텍스쳐 재작업 및 홀 조합법 수정",
-  "item.um.demonomicon.entry.early_magic_weps.recipe": "\n\n\n\n\n\n\uc103\n\n\n\n\n\n\n\uc104\n\n\n\n\n\n\n\uc105\n",
+  "item.um.demonomicon.entry.early_magic_weps.recipe": "\n\n\n\n\n\n\uf203\n\n\n\n\n\n\n\uf204\n\n\n\n\n\n\n\uf205\n",
   "item.um.demonomicon.entry.early_magic_weps.description": "철 막대기와 다이아몬드 관통기, 프리즘 홀은 게임 초반에 얻을 수 있는 마법 무기들 입니다. 무기들은 각각 철, 다이아몬드, 네더의 조각으로 만들어집니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.iron_whip.title": "철 채찍",
@@ -665,7 +665,7 @@
   "item.um.demonomicon.entry.iron_whip.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.iron_whip.more_info": "우클릭하여 채찍의 끝을 연장하세요. 우클릭을 유지하면 계속 연장됩니다. 채찍 끝이 적을 치면\n많은 양의 피해를 입히며 원래 길이로 돌아옵니다. 채찍 중간 사슬부분도 적에게 피해를 입힐 수 있습니다.\n웅크린 채로 우클릭하여 채찍을 원래 길이로 줄일 수 있습니다.",
   "item.um.demonomicon.entry.iron_whip.history": "%35$s: 추가",
-  "item.um.demonomicon.entry.iron_whip.recipe": "\n\n\n\n\n\n\uc106\n",
+  "item.um.demonomicon.entry.iron_whip.recipe": "\n\n\n\n\n\n\uf206\n",
   "item.um.demonomicon.entry.iron_whip.description": "철 채찍은 일반 철로 만든 근거리 무기입니다. 가장 먼저 만들 수 있는 채찍계열 근거리 무기로써, 독특한 기능을 가지고 있습니다. \"더보기\"란에서 사용방법을 확인하세요.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.abyssal_mirror.title": "심연의 거울",
@@ -673,7 +673,7 @@
   "item.um.demonomicon.entry.abyssal_mirror.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.abyssal_mirror.more_info": "일반적인 방법으로 거울을 획득한 경우 조합할 수 있습니다.",
   "item.um.demonomicon.entry.abyssal_mirror.history": "%32$s: 추가",
-  "item.um.demonomicon.entry.abyssal_mirror.recipe": "다섯 종류의 보스를 처음 잡았을 때나 특정한 시간이 지난 뒤\n다음과 같은 조합법으로 조합할 수 있습니다:\n\n\n\n\n\n\uc107\n",
+  "item.um.demonomicon.entry.abyssal_mirror.recipe": "다섯 종류의 보스를 처음 잡았을 때나 특정한 시간이 지난 뒤\n다음과 같은 조합법으로 조합할 수 있습니다:\n\n\n\n\n\n\uf207\n",
   "item.um.demonomicon.entry.abyssal_mirror.description": "다섯마리의 악의 무리를 처치하여 심연이라는 세계의 봉인이 풀렸습니다. 당신이 들고 있는 이 거울을 네더에서 사용하면 그 세계로 당신을 이끌겁니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.abyss.title": "심연",
@@ -697,7 +697,7 @@
   "item.um.demonomicon.entry.abyssal_longsword.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐/모델 제작",
   "item.um.demonomicon.entry.abyssal_longsword.more_info": "어둠의 구체는 기본공격과 같은 양의 피해를 줍니다.",
   "item.um.demonomicon.entry.abyssal_longsword.history": "%24$s: 추가\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.abyssal_longsword.recipe": "\n\n\n\n\n\n\uc108\n",
+  "item.um.demonomicon.entry.abyssal_longsword.recipe": "\n\n\n\n\n\n\uf208\n",
   "item.um.demonomicon.entry.abyssal_longsword.description": "%s은 특별한 검을 만드는데 사용될 수 있습니다. 이 검은 단일공격만 가능하며 공격속도가 느립니다. 하지만 검집에 넣어 들고다니다가 빠르게 발도하여 공격할 수 있습니다. 발도는 어둠의 구체를 발사합니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.abyssal_longsword.reference.0": "심연의 조각",
 
@@ -706,7 +706,7 @@
   "item.um.demonomicon.entry.entropic_greatbow.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.entropic_greatbow.more_info": "이 활에서 발사된 화살은 몇 초 뒤 5갈래로 나뉘어집니다.",
   "item.um.demonomicon.entry.entropic_greatbow.history": "%24$s: 추가\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.entropic_greatbow.recipe": "\n\n\n\n\n\n\uc109\n",
+  "item.um.demonomicon.entry.entropic_greatbow.recipe": "\n\n\n\n\n\n\uf209\n",
   "item.um.demonomicon.entry.entropic_greatbow.description": "%s은 강력한 활을 만드는데 사용될 수 있습니다. 이 활은 악마의 강화된 활과 같은 활보다는 느린 화살을 발사합니다. 그렇지만 매우 강력한 공격력과 관통력을 가지고 있습니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.entropic_greatbow.reference.0": "심연의 조각",
 
@@ -715,7 +715,7 @@
   "item.um.demonomicon.entry.oblivion_staff.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.oblivion_staff.more_info": "이 무기는 멸망의 매트릭스에 영항을 받습니다.",
   "item.um.demonomicon.entry.oblivion_staff.history": "%22$s: 추가\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.oblivion_staff.recipe": "\n\n\n\n\n\n\uc110\n",
+  "item.um.demonomicon.entry.oblivion_staff.recipe": "\n\n\n\n\n\n\uf210\n",
   "item.um.demonomicon.entry.oblivion_staff.description": "%s은 강력한 지팡이를 만드는데 사용될 수 있습니다. 적을 우클릭하면 어둠의 형체를 소환합니다. 형체는 1초 뒤 공허 기둥으로 폭발하며 강한 피해를 입힙니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.oblivion_staff.reference.0": "심연의 조각",
 
@@ -724,7 +724,7 @@
   "item.um.demonomicon.entry.abyss_knight_armor.contributors": "Hashs: 제작/텍스쳐 제작",
   "item.um.demonomicon.entry.abyss_knight_armor.more_info": "이 갑옷은 세트 보너스가 없었습니다.\n그래서 구덩이 군주의 흉갑과 잘 어울렸었죠.",
   "item.um.demonomicon.entry.abyss_knight_armor.history": "%22$s: 추가\n%38$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.abyss_knight_armor.recipe": "\n\n\n\n\n\n\uc111\n\n\n\n\n\n\n\uc112\n\n\n\n\n\n\n\uc113\n\n\n\n\n\n\n\uc114\n",
+  "item.um.demonomicon.entry.abyss_knight_armor.recipe": "\n\n\n\n\n\n\uf211\n\n\n\n\n\n\n\uf212\n\n\n\n\n\n\n\uf213\n\n\n\n\n\n\n\uf214\n",
   "item.um.demonomicon.entry.abyss_knight_armor.description": "%s들은 당신의 근거리 기술들을 연마하는 갑옷을 만드는데 사용될 수 있습니다. 이 갑옷은 게임 내에서 가장 방어도가 높으며, 근거리 공격력 고정량 강화와 공격속도 강화를 부여하며 매 초마다 공격력을 2배로 증가시킵니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.abyss_knight_armor.reference.0": "심연의 조각",
 
@@ -733,7 +733,7 @@
   "item.um.demonomicon.entry.abyss_ranger_armor.contributors": "Hashs: 제작/텍스쳐 제작",
   "item.um.demonomicon.entry.abyss_ranger_armor.more_info": "이 갑옷은 약간의 속도 강화도 부여합니다.",
   "item.um.demonomicon.entry.abyss_ranger_armor.history": "%22$s: 추가\n%38$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.abyss_ranger_armor.recipe": "\n\n\n\n\n\n\uc115\n\n\n\n\n\n\n\uc116\n\n\n\n\n\n\n\uc117\n\n\n\n\n\n\n\uc118\n",
+  "item.um.demonomicon.entry.abyss_ranger_armor.recipe": "\n\n\n\n\n\n\uf215\n\n\n\n\n\n\n\uf216\n\n\n\n\n\n\n\uf217\n\n\n\n\n\n\n\uf218\n",
   "item.um.demonomicon.entry.abyss_ranger_armor.description": "%s들은 당신의 활 기술을 연마하는 갑옷을 만드는데 사용될 수 있습니다. 이 갑옷은 화살 속도를 증가시킵니다. 웅크리기로 은신을 쌓아 활 추가 데미지로 변환 시킬 수 있습니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.abyss_ranger_armor.reference.0": "심연의 조각",
 
@@ -742,7 +742,7 @@
   "item.um.demonomicon.entry.abyss_warlock_armor.contributors": "Hashs: 제작/텍스쳐 제작",
   "item.um.demonomicon.entry.abyss_warlock_armor.more_info": "이 갑옷은 손들을 소환하며, 손들은 구체를 발사할 수 있습니다.",
   "item.um.demonomicon.entry.abyss_warlock_armor.history": "%24$s: 추가\n%38$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.abyss_warlock_armor.recipe": "\n\n\n\n\n\n\uc119\n\n\n\n\n\n\n\uc120\n\n\n\n\n\n\n\uc121\n\n\n\n\n\n\n\uc122\n",
+  "item.um.demonomicon.entry.abyss_warlock_armor.recipe": "\n\n\n\n\n\n\uf219\n\n\n\n\n\n\n\uf220\n\n\n\n\n\n\n\uf221\n\n\n\n\n\n\n\uf222\n",
   "item.um.demonomicon.entry.abyss_warlock_armor.description": "%s들은 당신의 마법력을 연마하는 갑옷을 만드는데 사용될 수 있습니다. 이 갑옷은 세트를 착용했을때 마나 회복력을 2배로 증가시킵니다.\n\n\n\n\n\n\n\n\n",
   "item.um.demonomicon.entry.abyss_warlock_armor.reference.0": "심연의 조각",
 
@@ -759,7 +759,7 @@
   "item.um.demonomicon.entry.shadesull.contributors": "Hashs: 제작/텍스쳐/모델 제작",
   "item.um.demonomicon.entry.shadesull.more_info": "Undermagic의 최종보스로써 데이터 팩 내에 있는 다른 모든 것들 보다\n높은 난이도를 가지고 있습니다.\n셰이드설은 몇 개의 \"탄막 피하기\" 페이즈를 가지고 있습니다. 해당 페이즈에서 보스는\n투명하게 변하며 공중에서 매우 강력한 탄막들을 빗발치게합니다.\n보스전 초반에도 이런 페이즈가 있습니다.\n이 페이즈에서는 셰이드설을 공격하려고 하지마세요. 그녀가 텔레포트하여 페이즈를 마무리할 때까지 기다리면 됩니다.\n손이 있다면 또 다른 이야기이긴 합니다.\n손들이 있다면 셰이드 설은 손들이 죽을때까지 무적입니다.",
   "item.um.demonomicon.entry.shadesull.history": "%24$s: 추가\n%34$s: 텍스쳐 수정",
-  "item.um.demonomicon.entry.shadesull.recipe": "던전의 보스방에서 만날 수 있고\n해당 방에서 만난 뒤 몰락의 왕관을 사용하여 소환될 수 있습니다.\n왕관은 다음과 같이 조합됩니다:\n\n\n\n\n\n\uc123\n",
+  "item.um.demonomicon.entry.shadesull.recipe": "던전의 보스방에서 만날 수 있고\n해당 방에서 만난 뒤 몰락의 왕관을 사용하여 소환될 수 있습니다.\n왕관은 다음과 같이 조합됩니다:\n\n\n\n\n\n\uf223\n",
   "item.um.demonomicon.entry.shadesull.description": "던전의 보스방에서 심연의 여왕이자 Undermagic의 최종 보스인 셰이드설과 만날 수 있습니다. 셰이드설은 다양한 페이즈와 골로가는 공격 패턴을 가진 고난이도의 보스입니다. \"더보기\"란을 확인해 보스전에 대한 더 자세한 정보를 얻으세요.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.ultimate_offhands.title": "궁극의 반대쪽 손 아이템",
@@ -767,7 +767,7 @@
   "item.um.demonomicon.entry.ultimate_offhands.contributors": "Hashs: 제작/텍스쳐/모델 제작",
   "item.um.demonomicon.entry.ultimate_offhands.more_info": "궁극의 반대쪽 손 아이템들은 두개의 재료가 되는 아이템들의\n강화된 효과를 가집니다.",
   "item.um.demonomicon.entry.ultimate_offhands.history": "%36$s: 추가",
-  "item.um.demonomicon.entry.ultimate_offhands.recipe": "\n\n\n\n\n\n\uc124\n\n\n\n\n\n\n\uc125\n\n\n\n\n\n\n\uc126\n",
+  "item.um.demonomicon.entry.ultimate_offhands.recipe": "\n\n\n\n\n\n\uf224\n\n\n\n\n\n\n\uf225\n\n\n\n\n\n\n\uf226\n",
   "item.um.demonomicon.entry.ultimate_offhands.description": "악마군단의 전리품과 던전의 전리품을 셰이드설이 떨어뜨리는 암흑의 수정 심장과 조합하여, 매우 강력한 반대쪽 손 아이템 세가지 중 하나를 만들 수 있습니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.chunk_loader.title": "청크로더",
@@ -775,7 +775,7 @@
   "item.um.demonomicon.entry.chunk_loader.contributors": "Hashs: 제작\nRagtime Gal: 텍스쳐 제작",
   "item.um.demonomicon.entry.chunk_loader.more_info": "하나의 청크에 한개 이상의 청크로더를 설치하면 문제가 발생할 수도 있습니다.",
   "item.um.demonomicon.entry.chunk_loader.history": "%36$s: 추가",
-  "item.um.demonomicon.entry.chunk_loader.recipe": "\n\n\n\n\n\n\uc127\n",
+  "item.um.demonomicon.entry.chunk_loader.recipe": "\n\n\n\n\n\n\uf227\n",
   "item.um.demonomicon.entry.chunk_loader.description": "두 기본 게임 보스의 전리품과 우는 흑요석을 조합하여, 설치된 청크를 로딩하는 블럭을 만들 수 있습니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.puncture.title": "천공",
@@ -783,7 +783,7 @@
   "item.um.demonomicon.entry.puncture.contributors": "Hashs: 제작/텍스쳐 제작",
   "item.um.demonomicon.entry.puncture.more_info": "이 아이템에 빠른 장전을 사용하면 최고의 효과를 얻을 수 있습니다.",
   "item.um.demonomicon.entry.puncture.history": "%39$s: 추가",
-  "item.um.demonomicon.entry.puncture.recipe": "피 소모량: 10\n추진기 티어: I\n\n\n\n\uc132\n\n\n\n\n\n피 소모량: 50\n추진기 티어: II\n\n\n\n\uc133\n\n\n\n\n\n피 소모량: 250\n추진기 티어: III\n\n\n\n\uc134\n\n\n\n\n피 소모량: 500\n추진기 티어: IV\n\n\n\n\uc135\n\n\n\n\n",
+  "item.um.demonomicon.entry.puncture.recipe": "피 소모량: 10\n추진기 티어: I\n\n\n\n\uf232\n\n\n\n\n\n피 소모량: 50\n추진기 티어: II\n\n\n\n\uf233\n\n\n\n\n\n피 소모량: 250\n추진기 티어: III\n\n\n\n\uf234\n\n\n\n\n피 소모량: 500\n추진기 티어: IV\n\n\n\n\uf235\n\n\n\n\n",
   "item.um.demonomicon.entry.puncture.description": "피와 융합된 쇠뇌입니다. 4가지의 티어를 가집니다. 천공은 매우 높은 곤통력을 가지고 있으며 가끔 치명타 화살을 발사할 수 있습니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.demonomicon.entry.dark_pulsar.title": "암흑 펄사",
@@ -791,7 +791,7 @@
   "item.um.demonomicon.entry.dark_pulsar.contributors": "Hashs: 제작/텍스쳐 제작",
   "item.um.demonomicon.entry.dark_pulsar.more_info": "이 아이템은 힘 마법과 과충전 부적,\n화살통과 매우 잘 어울립니다.",
   "item.um.demonomicon.entry.dark_pulsar.history": "%39$s: 추가",
-  "item.um.demonomicon.entry.dark_pulsar.recipe": "\n\n\n\n\n\n\uc128\n",
+  "item.um.demonomicon.entry.dark_pulsar.recipe": "\n\n\n\n\n\n\uf228\n",
   "item.um.demonomicon.entry.dark_pulsar.description": "암흑 펄사의 화살은 초반에는 느리게 나가다가 매우 빠른 속도로 증가합니다. 중력도 무시합니다.\n\n\n\n\n\n\n\n\n",
 
   "item.um.abyss_knight_helmet": "심연의 기사 투구",
@@ -1011,7 +1011,7 @@
 
 
   "block.um.undercrafter": "심원 조합대",
-  "block.um.undercrafter.gui": "\uc000\uc001\uc002%s",
+  "block.um.undercrafter.gui": "\uf100\uf101\uf102%s",
 
   "subtitles.um.music.pit_lord": "Demon King's Revenge 연주중",
   "subtitles.um.music.shadesull_p1": "In the Chamber of Madness 연주중",
