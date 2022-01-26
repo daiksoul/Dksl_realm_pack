@@ -1,0 +1,8 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/g_axe",
+		"layer1": "mcr_better_handles:item/bamboo_axe",
+		"particle": "minecraft:item/g_axe"
+	}
+}

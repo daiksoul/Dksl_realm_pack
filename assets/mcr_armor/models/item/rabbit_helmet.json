@@ -1,0 +1,8 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "mcr_armor:item/rabbit_helmet",
+        "layer1": "mcr_armor:item/rabbit_helmet_overlay",
+        "particle": "mcr_armor:item/rabbit_helmet"
+    }
+}

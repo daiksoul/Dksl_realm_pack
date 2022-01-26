@@ -1,0 +1,8 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "mcr_netherite:item/to_netherite/scrap/golden_chestplate",
+        "particle": "mcr_netherite:item/to_netherite/scrap/golden_chestplate",
+        "layer1": "mcr_netherite:item/to_netherite/scrap/golden_chestplate"
+    }
+}

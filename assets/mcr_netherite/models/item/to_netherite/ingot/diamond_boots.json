@@ -1,0 +1,8 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "mcr_netherite:item/to_netherite/ingot/diamond_boots",
+        "particle": "mcr_netherite:item/to_netherite/ingot/diamond_boots",
+        "layer1": "mcr_netherite:item/to_netherite/ingot/diamond_boots"
+    }
+}

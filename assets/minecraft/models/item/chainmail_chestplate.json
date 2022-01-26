@@ -7,6 +7,7 @@
 		{ "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/gear/chainmail/radiant_chestplate"},
 		{ "predicate": {"custom_model_data": 1130002}, "model": "item/asphodel/gear/chainmail/fleeting_chestplate"},
 		{ "predicate": {"custom_model_data": 1130003}, "model": "item/asphodel/gear/chainmail/brutal_chestplate"},
-		{ "predicate": {"custom_model_data": 1130004}, "model": "item/asphodel/gear/chainmail/tough_chestplate"}
+		{ "predicate": {"custom_model_data": 1130004}, "model": "item/asphodel/gear/chainmail/tough_chestplate"},
+		{"predicate": {"custom_model_data": 13574002}, "model": "minecraft:item/chainmail_chestplate"}
 	]
 }

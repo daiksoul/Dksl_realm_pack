@@ -1,0 +1,8 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/w_sword",
+		"layer1": "mcr_better_handles:item/bamboo_sword",
+		"particle": "minecraft:item/w_sword"
+	}
+}

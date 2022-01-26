@@ -1,0 +1,8 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "mcr_netherite:item/netherite_plus/scrap/iron_leggings",
+        "particle": "mcr_netherite:item/netherite_plus/scrap/iron_leggings",
+        "layer1": "mcr_netherite:item/netherite_plus/scrap/iron_leggings"
+    }
+}

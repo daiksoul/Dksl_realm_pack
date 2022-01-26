@@ -9,6 +9,10 @@
 		{"predicate": {"custom_model_data": 423000}, "model": "florcraft:item/bountiful_earth_hoe"},
 		{ "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/tools/activated_hoe"},
 		{ "predicate": {"custom_model_data": 1130002}, "model": "item/asphodel/tools/phoenix_hoe"},
-		{ "predicate": {"custom_model_data": 1130003}, "model": "item/asphodel/tools/sunken_hoe"}
+		{ "predicate": {"custom_model_data": 1130003}, "model": "item/asphodel/tools/sunken_hoe"},
+		{"predicate": {"custom_model_data": 13574101}, "model": "mcr_better_handles:item/bnhoe"},
+		{"predicate": {"custom_model_data": 13574201}, "model": "mcr_better_handles:item/banhoe"},
+		{"predicate": {"custom_model_data": 13574301}, "model": "mcr_better_handles:item/blnhoe"},
+		{"predicate": {"custom_model_data": 13574401}, "model": "mcr_better_handles:item/ennhoe"}
 	]
 }

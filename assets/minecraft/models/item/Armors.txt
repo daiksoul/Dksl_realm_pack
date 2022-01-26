@@ -1,0 +1,60 @@
+13574001	Leather
+13574002	Chainmail
+13574003	Iron
+13574004	Gold
+13574005	Diamond
+13574006	Netherite
+13574007	Scrap
+13574008	Lapis
+13574009	Redstone
+13574010	Emerald
+13574011	Rabbit
+13574012	Flesh
+13574013	Scute
+13574014	Obsidian
+13574015	Crying Obsidian
+13574016	Brute
+13574017	Phantom
+13574018	String
+13574019	Quartz
+13574020	Coal
+
+13574099	Bedrock
+
+
+13574100	Leather to Scrap
+13574101	Chainmail to Scrap
+13574102	Iron to Scrap
+13574103	Gold to Scrap
+13574104	Lapis to Scrap
+13574105	Redstone to Scrap
+13574106	Diamond to Scrap
+13574107	Emerald to Scrap
+
+
+13574200	Leather to Netherite
+13574201	Chainmail to Netherite
+13574202	Iron to Netherite
+13574203	Gold to Netherite
+13574204	Lapis to Netherite
+13574205	Redstone to Netherite
+13574206	Diamond to Netherite
+13574207	Emerald to Netherite
+
+
+13574300	Scrap Iron
+13574301	Scrap Gold
+13574302	Scrap Lapis
+13574303	Scrap Redstone
+13574304	Scrap Diamond
+13574305	Scrap Emerald
+13574306	Scrap Netherite
+
+
+13574400	Netherite Iron
+13574401	Netherite Gold
+13574402	Netherite Lapis
+13574403	Netherite Redstone
+13574404	Netherite Diamond
+13574405	Netherite Emerald
+13574406	Netherite Netherite

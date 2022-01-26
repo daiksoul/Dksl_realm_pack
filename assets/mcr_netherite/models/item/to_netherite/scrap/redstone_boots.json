@@ -1,0 +1,8 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "mcr_netherite:item/to_netherite/scrap/redstone_boots",
+        "particle": "mcr_netherite:item/to_netherite/scrap/redstone_boots",
+        "layer1": "mcr_netherite:item/to_netherite/scrap/redstone_boots"
+    }
+}

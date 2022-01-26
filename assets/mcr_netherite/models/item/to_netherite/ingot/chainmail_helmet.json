@@ -1,0 +1,8 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "mcr_netherite:item/to_netherite/ingot/chainmail_helmet",
+        "particle": "mcr_netherite:item/to_netherite/ingot/chainmail_helmet",
+        "layer1": "mcr_netherite:item/to_netherite/ingot/chainmail_helmet"
+    }
+}

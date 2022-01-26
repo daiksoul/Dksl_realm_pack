@@ -1,0 +1,8 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "mcr_netherite:item/netherite_plus/scrap/golden_boots",
+        "particle": "mcr_netherite:item/netherite_plus/scrap/golden_boots",
+        "layer1": "mcr_netherite:item/netherite_plus/scrap/golden_boots"
+    }
+}

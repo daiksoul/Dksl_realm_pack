@@ -1,0 +1,8 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/net_pickaxe",
+		"layer1": "mcr_better_handles:item/bone_pickaxe",
+		"particle": "minecraft:item/net_pickaxe"
+	}
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "mcr_armor:item/crying_obsidian_chestplate",
+        "particle": "mcr_armor:item/crying_obsidian_chestplate",
+        "layer1": "mcr_armor:item/crying_obsidian_chestplate"
+    }
+}

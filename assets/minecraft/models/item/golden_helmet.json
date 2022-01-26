@@ -13,6 +13,7 @@
 		{ "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/gear/golden/radiant_helmet"},
 		{ "predicate": {"custom_model_data": 1130002}, "model": "item/asphodel/gear/golden/fleeting_helmet"},
 		{ "predicate": {"custom_model_data": 1130003}, "model": "item/asphodel/gear/golden/brutal_helmet"},
-		{ "predicate": {"custom_model_data": 1130004}, "model": "item/asphodel/gear/golden/tough_helmet"}
+		{ "predicate": {"custom_model_data": 1130004}, "model": "item/asphodel/gear/golden/tough_helmet"},
+		{"predicate": {"custom_model_data": 13574004}, "model": "minecraft:item/golden_helmet"}
   ]
 }

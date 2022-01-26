@@ -13,6 +13,7 @@
 		{ "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/gear/iron/radiant_boots"},
 		{ "predicate": {"custom_model_data": 1130002}, "model": "item/asphodel/gear/iron/fleeting_boots"},
 		{ "predicate": {"custom_model_data": 1130003}, "model": "item/asphodel/gear/iron/brutal_boots"},
-		{ "predicate": {"custom_model_data": 1130004}, "model": "item/asphodel/gear/iron/tough_boots"}
+		{ "predicate": {"custom_model_data": 1130004}, "model": "item/asphodel/gear/iron/tough_boots"},
+		{"predicate": {"custom_model_data": 13574003}, "model": "minecraft:item/iron_boots"}
 	]
 }

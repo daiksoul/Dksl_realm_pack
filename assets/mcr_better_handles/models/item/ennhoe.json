@@ -1,0 +1,8 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/n_hoe",
+		"layer1": "mcr_better_handles:item/end_hoe",
+		"particle": "minecraft:item/n_hoe"
+	}
+}
