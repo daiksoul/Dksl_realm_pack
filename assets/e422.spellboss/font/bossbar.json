@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "e422.spellboss:frozen_wisp.png",
+            "ascent": 10,
+            "height": 80,
+            "chars": [
+                "\uFFF1"
+            ]
+        }
+    ]
+}

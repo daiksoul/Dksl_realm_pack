@@ -1,0 +1,336 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/warped_fungus_on_a_stick"
+    },
+    "overrides": [
+
+        {"predicate": {
+
+            "custom_model_data": 3401
+
+            }, 
+        
+            "model": "item/e422.tpstones/e422_tpstone_black"},
+
+        {"predicate": {
+
+            "custom_model_data": 3402
+
+            }, 
+        
+            "model": "item/e422.tpstones/e422_tpstone_blue"},
+
+        {"predicate": {
+
+            "custom_model_data": 3403
+
+            }, 
+        
+            "model": "item/e422.tpstones/e422_tpstone_brown"},
+
+        {"predicate": {
+
+            "custom_model_data": 3404
+
+            }, 
+        
+            "model": "item/e422.tpstones/e422_tpstone_cyan"},
+
+        {"predicate": {
+
+            "custom_model_data": 3405
+
+            }, 
+        
+            "model": "item/e422.tpstones/e422_tpstone_gray"},
+
+        {"predicate": {
+
+            "custom_model_data": 3406
+
+            }, 
+        
+            "model": "item/e422.tpstones/e422_tpstone_green"},
+
+        {"predicate": {
+
+            "custom_model_data": 3407
+
+            }, 
+        
+            "model": "item/e422.tpstones/e422_tpstone_light_blue"},
+
+        {"predicate": {
+
+            "custom_model_data": 3408
+
+            }, 
+        
+            "model": "item/e422.tpstones/e422_tpstone_light_gray"},
+
+        {"predicate": {
+    
+            "custom_model_data": 3409
+    
+            }, 
+            
+            "model": "item/e422.tpstones/e422_tpstone_lime"},
+
+        {"predicate": {
+        
+            "custom_model_data": 3410
+        
+            }, 
+                
+            "model": "item/e422.tpstones/e422_tpstone_magenta"},
+
+        {"predicate": {
+            
+            "custom_model_data": 3411
+            
+            }, 
+                    
+            "model": "item/e422.tpstones/e422_tpstone_orange"},
+
+        {"predicate": {
+                
+            "custom_model_data": 3412
+                
+            }, 
+                        
+            "model": "item/e422.tpstones/e422_tpstone_pink"},
+
+        {"predicate": {
+                    
+            "custom_model_data": 3413
+                    
+            }, 
+                            
+            "model": "item/e422.tpstones/e422_tpstone_purple"},
+
+        {"predicate": {
+                        
+            "custom_model_data": 3414
+                        
+            }, 
+                                
+            "model": "item/e422.tpstones/e422_tpstone_red"},
+
+        {"predicate": {
+                            
+            "custom_model_data": 3415
+                            
+            }, 
+                                    
+            "model": "item/e422.tpstones/e422_tpstone_yellow"},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {"predicate": {
+
+            "custom_model_data": 4201
+
+            }, 
+        
+            "model": "item/e422.spells/e422_bonemeal"},
+
+        {"predicate": {
+
+            "custom_model_data": 4202
+
+            }, 
+        
+            "model": "item/e422.spells/e422_bloodcurse"},
+
+        {"predicate": {
+
+            "custom_model_data": 4203
+
+            }, 
+        
+            "model": "item/e422.spells/e422_fireball"},
+
+        {"predicate": {
+
+            "custom_model_data": 4204
+
+            }, 
+        
+            "model": "item/e422.spells/e422_healring"},
+
+        {"predicate": {
+
+            "custom_model_data": 4205
+
+            }, 
+        
+            "model": "item/e422.spells/e422_iceshard"},
+
+        {"predicate": {
+
+            "custom_model_data": 4206
+
+            }, 
+        
+            "model": "item/e422.spells/e422_lightning"},
+
+        {"predicate": {
+
+            "custom_model_data": 4207
+
+            }, 
+        
+            "model": "item/e422.spells/e422_smash"},
+
+        {"predicate": {
+
+            "custom_model_data": 4208
+
+            }, 
+        
+            "model": "item/e422.spells/e422_xray"},
+
+        {"predicate": {
+    
+            "custom_model_data": 4209
+    
+            }, 
+            
+            "model": "item/e422.spells/e422_teleport"},
+
+        {"predicate": {
+        
+            "custom_model_data": 4210
+        
+            }, 
+                
+            "model": "item/e422.spells/e422_kineticshield"},
+
+        {"predicate": {
+            
+            "custom_model_data": 4211
+            
+            }, 
+                    
+            "model": "item/e422.spells/e422_invis"},
+
+        {"predicate": {
+                
+            "custom_model_data": 4212
+                
+            }, 
+                        
+            "model": "item/e422.spells/e422_treefell"},
+
+        {"predicate": {
+                    
+            "custom_model_data": 4213
+                    
+            }, 
+                            
+            "model": "item/e422.spells/e422_knockback"},
+
+        {"predicate": {
+                        
+            "custom_model_data": 4214
+                        
+            }, 
+                                
+            "model": "item/e422.spells/e422_lux"},
+
+        {"predicate": {
+                            
+            "custom_model_data": 4215
+                            
+            }, 
+                                    
+            "model": "item/e422.spells/e422_fangs"},
+
+        {"predicate": {
+                                
+            "custom_model_data": 4216
+                                
+            }, 
+                                        
+            "model": "item/e422.spells/e422_inferno"},
+
+        {"predicate": {
+                                    
+            "custom_model_data": 4217
+                                    
+            }, 
+                                            
+            "model": "item/e422.spells/e422_earthwave"},
+
+        {"predicate": {
+                                        
+            "custom_model_data": 4218
+                                        
+            }, 
+                                                
+            "model": "item/e422.spells/e422_shadow"},
+
+        {"predicate": {
+                                            
+            "custom_model_data": 4219
+                                            
+            }, 
+                                                    
+            "model": "item/e422.spells/e422_earthwall"},
+        
+        {"predicate": {
+                                            
+            "custom_model_data": 4220
+                                                
+            }, 
+                                                        
+            "model": "item/e422.spells/e422_guardian"},
+        
+        {"predicate": {
+                                                
+            "custom_model_data": 4221
+                                                    
+            }, 
+                                                            
+            "model": "item/e422.spells/e422_elder_guardian"},
+        
+        {"predicate": {
+                                                    
+            "custom_model_data": 4222
+                                                        
+            }, 
+                                                                
+            "model": "item/e422.spells/e422_waterbeam"},
+        
+        {"predicate": {
+                                                        
+            "custom_model_data": 4223
+                                                            
+            }, 
+                                                                    
+            "model": "item/e422.spells/e422_lavabridge"},
+        
+        {"predicate": {
+                                                        
+            "custom_model_data": 4224
+                                                            
+            }, 
+                                                                    
+            "model": "item/e422.spells/e422_resistring"}
+    ]
+}

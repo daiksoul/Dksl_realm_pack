@@ -1,0 +1,98 @@
+{
+  "music.pit_lord": {
+    "subtitle": "subtitles.um.music.pit_lord",
+    "sounds": [
+      "um:music/demon_kings_revenge"
+    ],
+    "stream": "true",
+    "preload": "true"
+  },
+  "music.shadesull_p1": {
+    "subtitle": "subtitles.um.music.shadesull_p1",
+    "sounds": [
+      "um:music/in_the_chamber_of_madness"
+    ],
+    "stream": "true",
+    "preload": "true"
+  },
+  "music.shadesull_p2": {
+    "subtitle": "subtitles.um.music.shadesull_p2",
+    "sounds": [
+      "um:music/reign_of_the_corrupt"
+    ],
+    "stream": "true",
+    "preload": "true"
+  },
+  "music.blood_amalgam": {
+    "subtitle": "subtitles.um.music.blood_amalgam",
+    "sounds": [
+      "um:music/blood_amalgam"
+    ],
+    "stream": "true",
+    "preload": "true"
+  },
+  "music.elder": {
+    "subtitle": "subtitles.um.music.elder",
+    "sounds": [
+      "um:music/eye_on_you"
+    ],
+    "stream": "true",
+    "preload": "true"
+  },
+  "music.herald_p1": {
+    "subtitle": "subtitles.um.music.herald_p1",
+    "sounds": [
+      "um:music/conflict_of_the_ages"
+    ],
+    "stream": "true",
+    "preload": "true"
+  },
+  "music.herald_p2": {
+    "subtitle": "subtitles.um.music.herald_p2",
+    "sounds": [
+      "um:music/echoes_of_the_apocalypse"
+    ],
+    "stream": "true",
+    "preload": "true"
+  },
+  "music.dungeon": {
+    "subtitle": "subtitles.um.music.dungeon",
+    "sounds": [
+      "um:music/halls_of_shadow"
+    ],
+    "stream": "true",
+    "preload": "true"
+  },
+  
+  "entity.lesser_demon.idle": {
+    "subtitle": "subtitles.um.entity.lesser_demon.idle",
+    "sounds": [
+      "um:entity/lesser_demon/idle1",
+	    "um:entity/lesser_demon/idle2",
+	    "um:entity/lesser_demon/idle3"
+    ]
+  },
+  "entity.lesser_demon.hurt": {
+    "subtitle": "subtitles.um.entity.lesser_demon.hurt",
+    "sounds": [
+      "um:entity/lesser_demon/hurt1",
+	    "um:entity/lesser_demon/hurt2",
+	    "um:entity/lesser_demon/hurt3"
+    ]
+  },
+  "entity.lesser_demon.death": {
+    "subtitle": "subtitles.um.entity.lesser_demon.death",
+    "sounds": [
+      "um:entity/lesser_demon/death1",
+	    "um:entity/lesser_demon/death2",
+	    "um:entity/lesser_demon/death3"
+    ]
+  },
+
+  "block.undercrafter.craft": {
+    "subtitle": "subtitles.um.block.undercrafter.craft",
+    "sounds": [
+      "um:block/undercrafter_craft"
+    ]
+  }
+}

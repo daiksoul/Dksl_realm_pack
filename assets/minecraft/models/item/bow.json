@@ -47,6 +47,203 @@
             },
             "model": "item/bow_pulling_2"
         },
+	{
+      "predicate": {
+        "custom_model_data": 420015
+      },
+      "model": "um:item/demonic_reinforced_bow/pulling_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "custom_model_data": 420015
+      },
+      "model": "um:item/demonic_reinforced_bow/pulling_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.9,
+        "custom_model_data": 420015
+      },
+      "model": "um:item/demonic_reinforced_bow/pulling_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 420016
+      },
+      "model": "um:item/niflheim_bow/pulling_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "custom_model_data": 420016
+      },
+      "model": "um:item/niflheim_bow/pulling_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.2,
+        "custom_model_data": 420016
+      },
+      "model": "um:item/niflheim_bow/pulling_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 420050
+      },
+      "model": "um:item/dragons_wrath/pulling_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "custom_model_data": 420050
+      },
+      "model": "um:item/dragons_wrath/pulling_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.9,
+        "custom_model_data": 420050
+      },
+      "model": "um:item/dragons_wrath/pulling_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 420124
+      },
+      "model": "um:item/entropic_greatbow/pulling_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "custom_model_data": 420124
+      },
+      "model": "um:item/entropic_greatbow/pulling_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.9,
+        "custom_model_data": 420124
+      },
+      "model": "um:item/entropic_greatbow/pulling_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 420127
+      },
+      "model": "um:item/forbidden_oathbow/pulling_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "custom_model_data": 420127
+      },
+      "model": "um:item/forbidden_oathbow/pulling_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.9,
+        "custom_model_data": 420127
+      },
+      "model": "um:item/forbidden_oathbow/pulling_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 420128
+      },
+      "model": "um:item/shortbow_of_the_wild/pulling_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "custom_model_data": 420128
+      },
+      "model": "um:item/shortbow_of_the_wild/pulling_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.9,
+        "custom_model_data": 420128
+      },
+      "model": "um:item/shortbow_of_the_wild/pulling_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 420129
+      },
+      "model": "um:item/shortbow_of_decay/pulling_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "custom_model_data": 420129
+      },
+      "model": "um:item/shortbow_of_decay/pulling_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.9,
+        "custom_model_data": 420129
+      },
+      "model": "um:item/shortbow_of_decay/pulling_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 420130
+      },
+      "model": "um:item/dark_pulsar/pulling_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "custom_model_data": 420130
+      },
+      "model": "um:item/dark_pulsar/pulling_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.9,
+        "custom_model_data": 420130
+      },
+      "model": "um:item/dark_pulsar/pulling_2"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 423000
+      },
+      "model": "florcraft:item/thundering_tempest_bow"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "custom_model_data": 423000
+      },
+      "model": "florcraft:item/thundering_tempest_bow_pulling_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.65,
+        "custom_model_data": 423000
+      },
+      "model": "florcraft:item/thundering_tempest_bow_pulling_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.9,
+        "custom_model_data": 423000
+      },
+      "model": "florcraft:item/thundering_tempest_bow_pulling_2"
+    },
         { "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/tools/activated_bow"},
         { "predicate": {"custom_model_data": 1130001, "pulling": 1}, "model": "item/asphodel/tools/activated_bow_pulling_0"},
         { "predicate": {"custom_model_data": 1130001, "pulling": 1, "pull": 0.65}, "model": "item/asphodel/tools/activated_bow_pulling_1"},

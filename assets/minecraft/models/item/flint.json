@@ -4,6 +4,12 @@
 		"layer0": "item/flint"
 	},
 	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 3422
+            },
+            "model": "item/e422.spells/e422_stoneshard"
+		},
 		{ "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/item/rune_fragment"}
 	]
 }

@@ -5,6 +5,20 @@
  },
 
  "overrides": [
+	{
+      "predicate": {
+        "custom_model_data": 420001
+      },
+      "model": "um:item/greatblade_of_destruction"
+    },{
+      "predicate": {
+        "custom_model_data": 420002
+      },
+      "model": "um:item/paladin_hammer"
+    },
+    {"predicate": {"custom_model_data": 423001}, "model": "florcraft:item/arid_axe"},
+    {"predicate": {"custom_model_data": 423002}, "model": "florcraft:item/aqueous_axe"},
+    {"predicate": {"custom_model_data": 423003}, "model": "florcraft:item/verdant_axe"},
   { "predicate": {"custom_model_data": 800031}, "model": "sipilus:shamanism/primalaxe"}
  
 

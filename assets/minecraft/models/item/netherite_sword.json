@@ -11,6 +11,7 @@
 			},
 			"model": "tcc:item/tipped_swords/netherite_sword"
 		},
+		{"predicate": {"custom_model_data": 423000}, "model": "florcraft:item/scorching_arc_sword"},
 		{"predicate": {"custom_model_data":888501}, "model": "item/paxkeeper_sword"},
 		{ "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/tools/activated_sword"},
 		{ "predicate": {"custom_model_data": 1130002}, "model": "item/asphodel/tools/phoenix_sword"},

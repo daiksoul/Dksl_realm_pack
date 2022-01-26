@@ -4,6 +4,31 @@
     "layer0": "minecraft:item/diamond_pickaxe"
   },
   "overrides": [
+	{
+      "predicate": {
+        "custom_model_data": 420037
+      },
+      "model": "um:item/carnage/1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 420038
+      },
+      "model": "um:item/carnage/2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 420039
+      },
+      "model": "um:item/carnage/3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 420040
+      },
+      "model": "um:item/carnage/4"
+    },
+		{"predicate": {"custom_model_data": 423000}, "model": "florcraft:item/raging_river_pickaxe"},
 		{ "predicate": {"custom_model_data": 1130001}, "model": "item/asphodel/tools/mystical_pickaxe"},
 		{ "predicate": {"custom_model_data": 1130002}, "model": "item/asphodel/tools/alchemic_pickaxe"},
         {

@@ -1,0 +1,16 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/spider_eye"
+    },
+    "overrides": [
+
+        {"predicate": {
+
+            "custom_model_data": 3422
+
+            }, 
+        
+            "model": "item/e422.spells/e422_guardian_eye"}
+    ]
+}
