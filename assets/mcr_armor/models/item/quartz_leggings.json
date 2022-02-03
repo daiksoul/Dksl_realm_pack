@@ -1,5 +1,5 @@
 {
-    "parent": "item/handheld",
+    "parent": "item/generated",
     "textures": {
         "layer0": "mcr_armor:item/quartz_leggings",
         "particle": "mcr_armor:item/quartz_leggings",

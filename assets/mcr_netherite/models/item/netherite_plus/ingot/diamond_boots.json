@@ -1,5 +1,5 @@
 {
-    "parent": "item/handheld",
+    "parent": "item/generated",
     "textures": {
         "layer0": "mcr_netherite:item/netherite_plus/ingot/diamond_boots",
         "particle": "mcr_netherite:item/netherite_plus/ingot/diamond_boots",

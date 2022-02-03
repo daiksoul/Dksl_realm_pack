@@ -1,5 +1,5 @@
 {
-    "parent": "item/handheld",
+    "parent": "item/generated",
     "textures": {
         "layer0": "mcr_netherite:item/to_netherite/ingot/leather_chestplate",
         "particle": "mcr_netherite:item/to_netherite/ingot/leather_chestplate",

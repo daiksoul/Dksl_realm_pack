@@ -1,5 +1,5 @@
 {
-    "parent": "item/handheld",
+    "parent": "item/generated",
     "textures": {
         "layer0": "mcr_armor:item/flesh_chestplate",
         "layer1": "mcr_armor:item/flesh_chestplate_overlay",

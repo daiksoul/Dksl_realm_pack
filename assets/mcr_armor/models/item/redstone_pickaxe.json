@@ -1,5 +1,5 @@
 {
-    "parent": "item/handheld",
+    "parent": "item/generated",
     "textures": {
         "layer0": "mcr_armor:item/redstone_pickaxe",
         "particle": "mcr_armor:item/redstone_pickaxe",
