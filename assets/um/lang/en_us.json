@@ -924,6 +924,8 @@
   "item.um.iron_rod.lore": "Conjures falling metal above foes",
 
   "item.um.locator_card": "Locator Card",
+  "item.um.locator_card.lore.0": "Right click to bind the card",
+  "item.um.locator_card.lore.1": "to a nearby Teleporter.",
 
   "item.um.mythical_dragon_egg": "Mythical Dragon Egg",
   "item.um.mythical_dragon_egg.lore": "Summons a wyrmling familiar on right-click",
@@ -1009,303 +1011,332 @@
   "item.um.avenger_helmet": "Avenger Helm",
   "item.um.avenger_helmet.lore": "Projects a strength aura on melee hits with the full set.",
 
+  "item.um.augis_oblivia": "Augis Oblivia",
+  "item.um.augis_oblivia.lore.0": "Increases mana regen by 10 mana per second.",
+  "item.um.augis_oblivia.lore.1": "Also occasionally fires void beams when casting.",
+  "item.um.augis_oblivia.lore.2": "Also buffs abyssal magic weapons.",
+  "item.um.augis_ultra": "Augis Ultra",
+  "item.um.augis_ultra.lore.0": "Increases mana regen by 5 mana per second.",
+  "item.um.augis_ultra.lore.1": "Also occasionally fires laser beams when casting.",
+  
+  "item.um.bfc_9000": "BFC 9000",
+  "item.um.bfc_9000.lore.0": "Fires a spread of beams that deal heavy damage.",
+  "item.um.bfc_9000.lore.1": "Rip and Tear...",
+  "item.um.bfc_9000.lore.fast": "CHEAT VERSION",
+  
+  "item.um.blessed_fragment": "Blessed Fragment",
+  "item.um.blessed_fragment.lore": "A piece of a holy relic from long ago.",
+  
+  "item.um.bloodstained_heart": "Bloodstained Heart",
+  "item.um.bloodstained_heart.lore.0": "Used to upgrade a Bloodstained",
+  "item.um.bloodstained_heart.lore.1": "Chestplate.",
+  
+  "item.um.bloodstained_set.lore.0": "Drains blood from Chalices.",
+  "item.um.bloodstained_set.lore.1": "Uses that blood to heal you.",
+  
+  "item.um.bloody_edge.lore.0.tier_1": "Tier 1",
+  "item.um.bloody_edge.lore.1.tier_1": "May be upgraded via Blood Infusion.",
+  "item.um.bloody_edge.lore.0.tier_2": "Tier 2",
+  "item.um.bloody_edge.lore.1.tier_2": "May be upgraded via Blood Infusion.",
+  "item.um.bloody_edge.lore.0.tier_3": "Tier 3",
+  "item.um.bloody_edge.lore.1.tier_3": "Heals you on a hit.",
+  "item.um.bloody_edge.lore.0.tier_4": "Tier 4",
+  "item.um.bloody_edge.lore.1.tier_4": "Heals you on a hit.",
+  
+  "item.um.blood_chalice": "Blood Chalice",
+  "item.um.blood_chalice.lore": "Used to fuel Blood Infusion.",
+  
+  "item.um.blood_monolith": "Blood Monolith",
+  
+  "item.um.blood_monolith.lore.0": "Used to boost a Blood Chalice",
+  "item.um.blood_monolith.lore.1": "to tier IV.",
+  
+  
+  "item.um.blood_rain_staff.lore.0.tier_1": "Tier 1",
+  "item.um.blood_rain_staff.lore.1.tier_1": "Drips harmful blood and may be upgraded via Blood Infusion.",
+  "item.um.blood_rain_staff.lore.0.tier_2": "Tier 2",
+  "item.um.blood_rain_staff.lore.1.tier_2": "Drips harmful blood and may be upgraded via Blood Infusion.",
+  "item.um.blood_rain_staff.lore.0.tier_3": "Tier 3",
+  "item.um.blood_rain_staff.lore.1.tier_3": "Drips harmful blood and may be upgraded via Blood Infusion.",
+  "item.um.blood_rain_staff.lore.0.tier_4": "Tier 4",
+  "item.um.blood_rain_staff.lore.1.tier_4": "Rains death upon foes.",
+  
+  "item.um.blueprint_ice_bow": "Undercrafter Blueprint",
+  "item.um.blueprint_ice_bow.lore.0": "Bow of Niflheim",
+  "item.um.blueprint_ice_bow.lore.1": "Drop on your Undercrafter to",
+  "item.um.blueprint_ice_bow.lore.2": "enable this item's recipe!",
+  
+  "item.um.blueprint_shadow_shield": "Undercrafter Blueprint",
+  "item.um.blueprint_shadow_shield.lore.0": "Shadow Guardian Bulwark",
+  "item.um.blueprint_shadow_shield.lore.1": "Drop on your Undercrafter to",
+  "item.um.blueprint_shadow_shield.lore.2": "enable this item's recipe!",
+  
+  "item.um.bone_of_wither.lore.0": "Bone clubs enemies.",
+  "item.um.bone_of_wither.lore.1": "Also protects against withering.",
+  
+  "item.um.boots_demonic_steel": "Demonic Steel Boots",
+  "item.um.boots_demonic_steel.lore": "Protects its wearer with dark energy.",
+  "item.um.bow_demonic_steel": "Demonic Reinforced Bow",
+  "item.um.bow_demonic_steel.lore.0": "Advanced bow that shoots stronger shots.",
+  "item.um.bow_demonic_steel.lore.1": "When you have gunpowder, consumes 1 per shot",
+  "item.um.bow_demonic_steel.lore.2": "to fire explosive arrows.",
+  
+  
+  "item.um.carnage.lore.0.tier_1": "Tier 1",
+  "item.um.carnage.lore.1.tier_1": "Mining tool that may be upgraded through Blood Infusion.",
+  "item.um.carnage.lore.0.tier_2": "Tier 2",
+  "item.um.carnage.lore.1.tier_2": "Mining tool that may be upgraded through Blood Infusion.",
+  "item.um.carnage.lore.0.tier_3": "Tier 3",
+  "item.um.carnage.lore.1.tier_3": "Crushes stone and bone with equal ease.",
+  "item.um.carnage.lore.0.tier_4": "Tier 4",
+  "item.um.carnage.lore.1.tier_4": "Crushes stone and bone with equal ease.",
+  
+  "item.um.charm_table": "Charm Table",
+  "item.um.charm_table.lore": "Allows slotting of charms into armor.",
+  "item.um.chestplate_demonic_steel": "Demonic Steel Chestplate",
+  "item.um.chestplate_demonic_steel.lore": "Protects its wearer with dark energy.",
+  "item.um.chunk_loader": "Chunk Loader",
+  "item.um.chunk_loader.lore": "Loads the chunk it is placed in until removed.",
+  
+  "item.um.crusader_helmet": "Crusader Helm",
+  "item.um.crusader_helmet.lore": "Projects a swiftness aura on melee hits with the full set.",
+  
+  "item.um.dark_pulsar": "Dark Pulsar",
+  "item.um.dark_pulsar.lore.0": "Shots fired ignore gravity,",
+  "item.um.dark_pulsar.lore.1": "start slow, and quickly accelerate.",
+  
+  "item.um.demon_kings_revenge": "Music Disc",
+  "item.um.demon_kings_revenge.lore.0": "Hashs - Demon King's Revenge",
+  "item.um.demon_kings_revenge.lore.1": "Theme of the Pit Lord",
+  
+  "item.um.demon_portal_stabilizer.lore.0": "Creates and stabilizes a Demon Portal.",
+  "item.um.demon_portal_stabilizer.lore.1": "The portal spawns demons at a fast rate.",
+  "item.um.demon_portal_stabilizer.lore.2": "Warning: May cause the apocalypse!",
+  "item.um.demon_portal_stabilizer.lore.3": "Throw on top of Obsidian to activate.",
+  
+  "item.um.demonic_steel_bow": "Demonic Reinforced Bow",
+  "item.um.demonic_steel_bow.lore.0": "Advanced bow that shoots stronger shots.",
+  "item.um.demonic_steel_bow.lore.1": "Consumes gunpowder from your inventory",
+  "item.um.demonic_steel_bow.lore.2": "to fire explosive arrows.",
+  
+  "item.um.doom_quiver": "Doom Quiver",
+  "item.um.doom_quiver.lore": "Hold in offhand to periodically grant arrows extra damage and extreme destructive potential.",
+  
+  "item.um.dragons_wrath": "Dragon's Wrath",
+  "item.um.dragons_wrath.lore.0": "Shoots dragon-charged arrows.",
+  "item.um.dragons_wrath.lore.1": "Hold it in your hand to charge the bow.",
+  "item.um.dragons_wrath.lore.2": "Shoot while fully charged to unleash",
+  "item.um.dragons_wrath.lore.3": "draconic fury!",
+  
+  "item.um.dragon_hide": "Dragon Hide",
+  "item.um.dragon_hide.lore": "The hide of the dragon, holding immense vitality within.",
+  
+  "item.um.dragon_lash": "Dragon Lash",
+  "item.um.dragon_lash.lore": "Attack foes with an acidic whip.",
+  
+  "item.um.ebonquartz": "Ebonquartz",
+  
+  "item.um.eldritch_orb": "Eldritch Orb",
+  "item.um.eldritch_orb.lore": "Increases mana regen by 20 mana per second.",
+  
+  "item.um.eye_on_you": "Music Disc",
+  "item.um.eye_on_you.lore.0": "Hashs - Eye on You",
+  "item.um.eye_on_you.lore.1": "Theme of The Elder",
+  
+  "item.um.fallen_avenger_helmet": "Fallen Avenger Helm",
+  "item.um.fallen_avenger_helmet.lore": "Projects a strength aura on melee hits with the full set.",
+  "item.um.fallen_crusader_helmet": "Fallen Crusader Helm",
+  "item.um.fallen_crusader_helmet.lore": "Projects a swiftness aura on melee hits with the full set.",
+  "item.um.fallen_paladin_boots": "Fallen Paladin Boots",
+  "item.um.fallen_paladin_chestplate": "Fallen Paladin Great Plate",
+  "item.um.fallen_paladin_leggings": "Fallen Paladin Leggings",
+  "item.um.fallen_paladin_set.lore": "Projects supportive auras on melee hits with the full set.",
+  "item.um.fallen_protector_helmet": "Fallen Protector Helm",
+  "item.um.fallen_protector_helmet.lore": "Projects a toughening aura on melee hits with the full set.",
+  
+  "item.um.flare_runner": "Flare Runner",
+  "item.um.flare_runner.lore.0": "Right click to jab with the lance.",
+  "item.um.flare_runner.lore.1": "Sneak right click to perform a charged spin attack.",
+  "item.um.flare_runner.lore.2": "Deals more damage while sprinting.",
+  
+  "item.um.flarium_aegis": "Flarium Aegis",
+  "item.um.flarium_aegis.lore.0": "Reduces fire damage taken and grants immunity to natural fire.",
+  "item.um.flarium_aegis.lore.1": "Also, blocking attacks creates flaming explosions.",
+  
+  "item.um.halls_of_shadow": "Music Disc",
+  "item.um.halls_of_shadow.lore.0": "Hashs - Halls of Shadow",
+  "item.um.halls_of_shadow.lore.1": "Theme of the Shadesull Dungeon",
+  
+  "item.um.heart_of_the_wild": "Heart of the Wild",
+  
+  "item.um.hellfire_quiver": "Hellfire Quiver",
+  "item.um.hellfire_quiver.lore": "Hold in offhand to periodically grant arrows extra damage and flames.",
+  
+  "item.um.helmet_demonic_steel": "Demonic Steel Helmet",
+  "item.um.helmet_demonic_steel.lore": "Protects its wearer with dark energy.",
+  
+  "item.um.holy_alloy_plate": "Holy Alloy Plate",
+  
+  "item.um.ice_bow": "Bow of Niflheim",
+  "item.um.ice_bow.lore.0": "Mystical bow that shoots icy bolts.",
+  "item.um.ice_bow.lore.1": "Bolts pierce blocks, except obsidian and bedrock.",
+  
+  "item.um.impact_quiver": "Impact Quiver",
+  "item.um.impact_quiver.lore": "Hold in offhand to periodically grant arrows extra damage and explosions.",
+  
+  "item.um.infernal_soul_aegis": "Infernal Soul Aegis",
+  "item.um.infernal_soul_aegis.lore.0": "Greatly reduces fire damage taken and grants immunity to natural fire.",
+  "item.um.infernal_soul_aegis.lore.1": "Also, blocking attacks creates flaming explosions.",
+  "item.um.infernal_soul_aegis.lore.2": "Lastly, sneak jump to enter nightmare form.",
+  
+  "item.um.infernal_summons.lore.0": "Throw into a demon portal",
+  "item.um.infernal_summons.lore.1": "to call the most powerful demon.",
+  
+  "item.um.in_the_chamber_of_madness": "Music Disc",
+  "item.um.in_the_chamber_of_madness.lore.0": "Hashs - In the Chamber of Madness",
+  "item.um.in_the_chamber_of_madness.lore.1": "Theme of Shadesull (Phase I)",
+  
+  "item.um.iron_whip": "Iron Whip",
+  "item.um.iron_whip.lore": "Attack foes with a flail-like weapon.",
+  
+  "item.um.living_nightmares_aegis": "Living Nightmare's Buckler",
+  "item.um.living_nightmares_aegis.lore.0": "Sneak jump to temporarily turn into a nightmare form.",
+  "item.um.living_nightmares_aegis.lore.1": "This lasts until you hit a melee attack, and grants numerous buffs.",
+  
+  "item.um.lucid_staff": "Lucid Staff",
+  "item.um.lucid_staff.lore": "Fires homing stars.",
+  
+  "item.um.magi_boots": "Boots of the Magi",
+  "item.um.magi_chestplate": "Robe of the Magi",
+  "item.um.magi_helmet": "Hood of the Magi",
+  "item.um.magi_leggings": "Pants of the Magi",
+  "item.um.magi_set.lore": "A full set generates a protective ward, and buffs mana regen if it is shattered.",
+  
+  "item.um.mysterious_crystal": "Mysterious Crystal",
+  
+  "item.um.mysterious_orb": "Mysterious Orb",
+  "item.um.mysterious_orb.lore": "Increases mana regen by 10 mana per second.",
+  
+  "item.um.nether_shard": "Nether Shard",
+  
+  "item.um.oblivion_matrix": "Oblivion Matrix",
+  "item.um.oblivion_matrix.lore": "Improves abyssal magic weapons and increases mana regen by 10 mana per second.",
+  
+  "item.um.omega_boots": "Omega Boots",
+  "item.um.omega_chestplate": "Omega Chestplate",
+  "item.um.omega_helmet": "Omega Helmet",
+  "item.um.omega_leggings": "Omega Leggings",
+  "item.um.omega_set.lore": "Engraved with eerie runes, it hides great power.",
+  
+  "item.um.omega_plate": "Omega Plate",
+  
+  "item.um.paladin_boots": "Paladin Boots",
+  "item.um.paladin_chestplate": "Paladin Great Plate",
+  "item.um.paladin_hammer": "Paladin Hammer",
+  "item.um.paladin_hammer.lore": "Every 5th strike doubles damage and heals you and others nearby.",
+  "item.um.paladin_leggings": "Paladin Leggings",
+  "item.um.paladin_set.lore": "Projects supportive auras on melee hits with the full set.",
+  
+  "item.um.pit_lord_chestplate.lore.0": "Provides supreme protection against heavy hits.",
+  "item.um.pit_lord_chestplate.lore.1": "Also reduces fire damage and grants immunity to lava.",
+  
+  "item.um.primal_boots": "Primal Boots",
+  "item.um.primal_chestplate": "Primal Cloak",
+  "item.um.primal_helmet": "Primal Cap",
+  "item.um.primal_leggings": "Primal Shinguards",
+  "item.um.primal_set.lore": "A full set grants primal instinct, empowering bows.",
+  
+  "item.um.protector_helmet": "Protector Helm",
+  "item.um.protector_helmet.lore": "Projects a toughening aura on melee hits with the full set.",
+  
+  "item.um.puncture": "Puncture",
+  "item.um.puncture.lore.0.tier_1": "Tier 1",
+  "item.um.puncture.lore.1.tier_1": "Piercing crossbow that may be upgraded via Blood Infusion.",
+  "item.um.puncture.lore.0.tier_2": "Tier 2",
+  "item.um.puncture.lore.1.tier_2": "Piercing crossbow that may be upgraded via Blood Infusion.",
+  "item.um.puncture.lore.0.tier_3": "Tier 3",
+  "item.um.puncture.lore.1.tier_3": "Piercing crossbow that may be upgraded via Blood Infusion.",
+  "item.um.puncture.lore.0.tier_4": "Tier 4",
+  "item.um.puncture.lore.1.tier_4": "Bloodsoaked bolts can critically pierce many foes.",
+  
+  "item.um.radiant_monolith": "Radiant Monolith",
+  "item.um.radiant_monolith.lore": "Used to boost a Blood Altar to tier III.",
+  "item.um.reign_of_the_corrupt": "Music Disc",
+  "item.um.reign_of_the_corrupt.lore.0": "Hashs - Reign of the Corrupt",
+  "item.um.reign_of_the_corrupt.lore.1": "Theme of Shadesull (Phase II)",
+  
+  "item.um.relic_of_ruin.lore.0": "Toss on the ground to call",
+  "item.um.relic_of_ruin.lore.1": "a great eldritch being.",
+  
+  "item.um.revenant_blade": "Revenant Blade",
+  "item.um.revenant_blade.lore": "Increased damage below 5 hearts.",
+  
+  "item.um.revenant_guard": "Revenant Guard",
+  "item.um.revenant_guard.lore": "Grants a damage boost after blocking an attack for your next melee hit.",
+  
+  "item.um.sanguine_eye.lore.0": "Throw into a Blood Crucible",
+  "item.um.sanguine_eye.lore.1": "to battle the Blood Amalgam!",
+  
+  "item.um.shadow_quiver": "Shadow Quiver",
+  "item.um.shadow_quiver.lore": "Hold in offhand to periodically grant arrows extra damage and blinding bursts.",
+  
+  "item.um.shadow_steel": "Shadow Steel Ingot",
+  "item.um.shadow_steel.lore": "An extraordinarily strong metal.",
+  
+  "item.um.shortbow_of_decay": "Shortbow of Decay",
+  "item.um.shortbow_of_decay.lore": "Fires shorter, stronger shots that slow and wither.",
+  
+  "item.um.shortbow_of_the_wild": "Shortbow of the Wild",
+  "item.um.shortbow_of_the_wild.lore": "Fires shorter, stronger shots that slow and poison.",
+  
+  "item.um.sigil_of_the_shade": "Sigil of the Shade",
+  "item.um.sigil_of_the_shade.lore": "Use in the Abyss to enter the Shade's dark dungeon.",
+  
+  "item.um.staff_of_the_magi": "Staff of the Magi",
+  "item.um.staff_of_the_magi.lore": "Fires homing magic darts.",
+  
+  "item.um.teleporter": "Teleporter",
+  "item.um.teleporter.lore.0": "Insert a linked Locator Card and walk in",
+  "item.um.teleporter.lore.1": "to teleport to the linked Teleporter.",
+  
+  "item.um.venom_quiver": "Venom Quiver",
+  "item.um.venom_quiver.lore": "Hold in offhand to periodically grant arrows extra damage and poison.",
+  
+  "item.um.charm.lore": "Can be used to charm armor.",
+  "item.um.charm.blaze": "Charm - Blaze",
+  "item.um.charm.combo": "Charm - Combo",
+  "item.um.charm.counter_dash": "Charm - Counter Dash",
+  "item.um.charm.cowardice": "Charm - Cowardice",
+  "item.um.charm.critical_hit": "Charm - Critical Hit",
+  "item.um.charm.cure": "Charm - Cure",
+  "item.um.charm.frenzy": "Charm - Frenzy",
+  "item.um.charm.ghost_step": "Charm - Ghost Step",
+  "item.um.charm.immunity": "Charm - Immunity",
+  "item.um.charm.kinetic_field": "Charm - Kinetic Field",
+  "item.um.charm.last_stand": "Charm - Last Stand",
+  "item.um.charm.mana_conduit": "Charm - Mana Conduit",
+  "item.um.charm.mana_regen": "Charm - Mana Regen",
+  "item.um.charm.panic": "Charm - Panic",
+  "item.um.charm.spectre_sight": "Charm - Spectre Sight",
+  "item.um.charm.sprint": "Charm - Sprint",
+  "item.um.charm.supercharge": "Charm - Supercharge",
+  "item.um.charm.swirling": "Charm - Swirling",
+  
+  "item.um.dungeon.obliteration":"Obliteration",
+  "item.um.dungeon.obliteration.lore":"Concentrate to destroy all things.",
+  "item.um.dungeon.blaster":"The Blaster",
+  "item.um.dungeon.blaster.lore.0":"An ultra-fast crossbow modified from",
+  "item.um.dungeon.blaster.lore.1":"an Illager design.",
+  "item.um.dungeon.umbra_chain":"Chain of Umbra",
+  "item.um.dungeon.umbra_chain.lore":"Strike foes with a whip formed from shadows.",
+  
   "lore.um.lunatic_drop": "Lunatic Drop",
   "lore.um.lunatic_drop_obfuscation": "a %s b",
-  
-      "item.um.augis_oblivia": "Augis Oblivia",
-    "item.um.augis_oblivia.lore.0": "Increases mana regen by 10 mana per second.",
-    "item.um.augis_oblivia.lore.1": "Also occasionally fires void beams when casting.",
-    "item.um.augis_oblivia.lore.2": "Also buffs abyssal magic weapons.",
-    "item.um.augis_ultra": "Augis Ultra",
-    "item.um.augis_ultra.lore.0": "Increases mana regen by 5 mana per second.",
-    "item.um.augis_ultra.lore.1": "Also occasionally fires laser beams when casting.",
-
-    "item.um.bfc_9000": "BFC 9000",
-    "item.um.bfc_9000.lore.0": "Fires a spread of beams that deal heavy damage.",
-    "item.um.bfc_9000.lore.1": "Rip and Tear...",
-    "item.um.bfc_9000.lore.fast": "CHEAT VERSION",
-
-    "item.um.blessed_fragment": "Blessed Fragment",
-    "item.um.blessed_fragment.lore": "A piece of a holy relic from long ago.",
-	
-    "item.um.bloodstained_heart": "Bloodstained Heart",
-    "item.um.bloodstained_heart.lore.0": "Used to upgrade a Bloodstained",
-    "item.um.bloodstained_heart.lore.1": "Chestplate.",
-
-    "item.um.bloodstained_set.lore.0": "Drains blood from Chalices.",
-    "item.um.bloodstained_set.lore.1": "Uses that blood to heal you.",
-
-    "item.um.bloody_edge.lore.0.tier_1": "Tier 1",
-    "item.um.bloody_edge.lore.1.tier_1": "May be upgraded via Blood Infusion.",
-    "item.um.bloody_edge.lore.0.tier_2": "Tier 2",
-    "item.um.bloody_edge.lore.1.tier_2": "May be upgraded via Blood Infusion.",
-    "item.um.bloody_edge.lore.0.tier_3": "Tier 3",
-    "item.um.bloody_edge.lore.1.tier_3": "Heals you on a hit.",
-    "item.um.bloody_edge.lore.0.tier_4": "Tier 4",
-    "item.um.bloody_edge.lore.1.tier_4": "Heals you on a hit.",
-
-    "item.um.blood_chalice": "Blood Chalice",
-    "item.um.blood_chalice.lore": "Used to fuel Blood Infusion.",
-
-    "item.um.blood_monolith": "Blood Monolith",
-
-    "item.um.blood_monolith.lore.0": "Used to boost a Blood Chalice",
-    "item.um.blood_monolith.lore.1": "to tier IV.",
-
-
-    "item.um.blood_rain_staff.lore.0.tier_1": "Tier 1",
-    "item.um.blood_rain_staff.lore.1.tier_1": "Drips harmful blood and may be upgraded via Blood Infusion.",
-    "item.um.blood_rain_staff.lore.0.tier_2": "Tier 2",
-    "item.um.blood_rain_staff.lore.1.tier_2": "Drips harmful blood and may be upgraded via Blood Infusion.",
-    "item.um.blood_rain_staff.lore.0.tier_3": "Tier 3",
-    "item.um.blood_rain_staff.lore.1.tier_3": "Drips harmful blood and may be upgraded via Blood Infusion.",
-    "item.um.blood_rain_staff.lore.0.tier_4": "Tier 4",
-    "item.um.blood_rain_staff.lore.1.tier_4": "Rains death upon foes.",
-
-    "item.um.blueprint_ice_bow": "Undercrafter Blueprint",
-    "item.um.blueprint_ice_bow.lore.0": "Bow of Niflheim",
-    "item.um.blueprint_ice_bow.lore.1": "Drop on your Undercrafter to",
-    "item.um.blueprint_ice_bow.lore.2": "enable this item's recipe!",
-
-    "item.um.blueprint_shadow_shield": "Undercrafter Blueprint",
-    "item.um.blueprint_shadow_shield.lore.0": "Shadow Guardian Bulwark",
-    "item.um.blueprint_shadow_shield.lore.1": "Drop on your Undercrafter to",
-    "item.um.blueprint_shadow_shield.lore.2": "enable this item's recipe!",
-
-    "item.um.bone_of_wither.lore.0": "Bone clubs enemies.",
-    "item.um.bone_of_wither.lore.1": "Also protects against withering.",
-
-    "item.um.boots_demonic_steel": "Demonic Steel Boots",
-    "item.um.boots_demonic_steel.lore": "Protects its wearer with dark energy.",
-    "item.um.bow_demonic_steel": "Demonic Reinforced Bow",
-    "item.um.bow_demonic_steel.lore.0": "Advanced bow that shoots stronger shots.",
-    "item.um.bow_demonic_steel.lore.1": "When you have gunpowder, consumes 1 per shot",
-    "item.um.bow_demonic_steel.lore.2": "to fire explosive arrows.",
-
-
-    "item.um.carnage.lore.0.tier_1": "Tier 1",
-    "item.um.carnage.lore.1.tier_1": "Mining tool that may be upgraded through Blood Infusion.",
-    "item.um.carnage.lore.0.tier_2": "Tier 2",
-    "item.um.carnage.lore.1.tier_2": "Mining tool that may be upgraded through Blood Infusion.",
-    "item.um.carnage.lore.0.tier_3": "Tier 3",
-    "item.um.carnage.lore.1.tier_3": "Crushes stone and bone with equal ease.",
-    "item.um.carnage.lore.0.tier_4": "Tier 4",
-    "item.um.carnage.lore.1.tier_4": "Crushes stone and bone with equal ease.",
-	
-    "item.um.charm_table": "Charm Table",
-    "item.um.charm_table.lore": "Allows slotting of charms into armor.",
-    "item.um.chestplate_demonic_steel": "Demonic Steel Chestplate",
-    "item.um.chestplate_demonic_steel.lore": "Protects its wearer with dark energy.",
-    "item.um.chunk_loader": "Chunk Loader",
-    "item.um.chunk_loader.lore": "Loads the chunk it is placed in until removed.",
-
-    "item.um.crusader_helmet": "Crusader Helm",
-    "item.um.crusader_helmet.lore": "Projects a swiftness aura on melee hits with the full set.",
-
-    "item.um.dark_pulsar": "Dark Pulsar",
-    "item.um.dark_pulsar.lore.0": "Shots fired ignore gravity,",
-    "item.um.dark_pulsar.lore.1": "start slow, and quickly accelerate.",
-
-    "item.um.demon_kings_revenge": "Music Disc",
-    "item.um.demon_kings_revenge.lore.0": "Hashs - Demon King's Revenge",
-    "item.um.demon_kings_revenge.lore.1": "Theme of the Pit Lord",
-
-    "item.um.demon_portal_stabilizer.lore.0": "Creates and stabilizes a Demon Portal.",
-    "item.um.demon_portal_stabilizer.lore.1": "The portal spawns demons at a fast rate.",
-    "item.um.demon_portal_stabilizer.lore.2": "Warning: May cause the apocalypse!",
-    "item.um.demon_portal_stabilizer.lore.3": "Throw on top of Obsidian to activate.",
-
-    "item.um.demonic_steel_bow": "Demonic Reinforced Bow",
-    "item.um.demonic_steel_bow.lore.0": "Advanced bow that shoots stronger shots.",
-    "item.um.demonic_steel_bow.lore.1": "Consumes gunpowder from your inventory",
-    "item.um.demonic_steel_bow.lore.2": "to fire explosive arrows.",
-
-    "item.um.doom_quiver": "Doom Quiver",
-    "item.um.doom_quiver.lore": "Hold in offhand to periodically grant arrows extra damage and extreme destructive potential.",
-
-    "item.um.dragons_wrath": "Dragon's Wrath",
-    "item.um.dragons_wrath.lore.0": "Shoots dragon-charged arrows.",
-    "item.um.dragons_wrath.lore.1": "Hold it in your hand to charge the bow.",
-    "item.um.dragons_wrath.lore.2": "Shoot while fully charged to unleash",
-    "item.um.dragons_wrath.lore.3": "draconic fury!",
-
-    "item.um.dragon_hide": "Dragon Hide",
-    "item.um.dragon_hide.lore": "The hide of the dragon, holding immense vitality within.",
-
-    "item.um.dragon_lash": "Dragon Lash",
-    "item.um.dragon_lash.lore": "Attack foes with an acidic whip.",
-
-    "item.um.ebonquartz": "Ebonquartz",
-
-    "item.um.eldritch_orb": "Eldritch Orb",
-    "item.um.eldritch_orb.lore": "Increases mana regen by 20 mana per second.",
-
-    "item.um.eye_on_you": "Music Disc",
-    "item.um.eye_on_you.lore.0": "Hashs - Eye on You",
-    "item.um.eye_on_you.lore.1": "Theme of The Elder",
-
-    "item.um.fallen_avenger_helmet": "Fallen Avenger Helm",
-    "item.um.fallen_avenger_helmet.lore": "Projects a strength aura on melee hits with the full set.",
-    "item.um.fallen_crusader_helmet": "Fallen Crusader Helm",
-    "item.um.fallen_crusader_helmet.lore": "Projects a swiftness aura on melee hits with the full set.",
-    "item.um.fallen_paladin_boots": "Fallen Paladin Boots",
-    "item.um.fallen_paladin_chestplate": "Fallen Paladin Great Plate",
-    "item.um.fallen_paladin_leggings": "Fallen Paladin Leggings",
-    "item.um.fallen_paladin_set.lore": "Projects supportive auras on melee hits with the full set.",
-    "item.um.fallen_protector_helmet": "Fallen Protector Helm",
-    "item.um.fallen_protector_helmet.lore": "Projects a toughening aura on melee hits with the full set.",
-
-    "item.um.flare_runner": "Flare Runner",
-    "item.um.flare_runner.lore.0": "Right click to jab with the lance.",
-    "item.um.flare_runner.lore.1": "Sneak right click to perform a charged spin attack.",
-    "item.um.flare_runner.lore.2": "Deals more damage while sprinting.",
-
-    "item.um.flarium_aegis": "Flarium Aegis",
-    "item.um.flarium_aegis.lore.0": "Reduces fire damage taken and grants immunity to natural fire.",
-    "item.um.flarium_aegis.lore.1": "Also, blocking attacks creates flaming explosions.",
-
-    "item.um.halls_of_shadow": "Music Disc",
-    "item.um.halls_of_shadow.lore.0": "Hashs - Halls of Shadow",
-    "item.um.halls_of_shadow.lore.1": "Theme of the Shadesull Dungeon",
-	
-    "item.um.heart_of_the_wild": "Heart of the Wild",
-
-    "item.um.hellfire_quiver": "Hellfire Quiver",
-    "item.um.hellfire_quiver.lore": "Hold in offhand to periodically grant arrows extra damage and flames.",
-
-    "item.um.helmet_demonic_steel": "Demonic Steel Helmet",
-    "item.um.helmet_demonic_steel.lore": "Protects its wearer with dark energy.",
-
-    "item.um.holy_alloy_plate": "Holy Alloy Plate",
-
-    "item.um.ice_bow": "Bow of Niflheim",
-    "item.um.ice_bow.lore.0": "Mystical bow that shoots icy bolts.",
-    "item.um.ice_bow.lore.1": "Bolts pierce blocks, except obsidian and bedrock.",
-
-    "item.um.impact_quiver": "Impact Quiver",
-    "item.um.impact_quiver.lore": "Hold in offhand to periodically grant arrows extra damage and explosions.",
-	
-    "item.um.infernal_soul_aegis": "Infernal Soul Aegis",
-    "item.um.infernal_soul_aegis.lore.0": "Greatly reduces fire damage taken and grants immunity to natural fire.",
-    "item.um.infernal_soul_aegis.lore.1": "Also, blocking attacks creates flaming explosions.",
-    "item.um.infernal_soul_aegis.lore.2": "Lastly, sneak jump to enter nightmare form.",
-
-    "item.um.infernal_summons.lore.0": "Throw into a demon portal",
-    "item.um.infernal_summons.lore.1": "to call the most powerful demon.",
-
-    "item.um.in_the_chamber_of_madness": "Music Disc",
-    "item.um.in_the_chamber_of_madness.lore.0": "Hashs - In the Chamber of Madness",
-    "item.um.in_the_chamber_of_madness.lore.1": "Theme of Shadesull (Phase I)",
-
-    "item.um.iron_whip": "Iron Whip",
-    "item.um.iron_whip.lore": "Attack foes with a flail-like weapon.",
-
-    "item.um.living_nightmares_aegis": "Living Nightmare's Buckler",
-    "item.um.living_nightmares_aegis.lore.0": "Sneak jump to temporarily turn into a nightmare form.",
-    "item.um.living_nightmares_aegis.lore.1": "This lasts until you hit a melee attack, and grants numerous buffs.",
-
-    "item.um.lucid_staff": "Lucid Staff",
-    "item.um.lucid_staff.lore": "Fires homing stars.",
-
-    "item.um.magi_boots": "Boots of the Magi",
-    "item.um.magi_chestplate": "Robe of the Magi",
-    "item.um.magi_helmet": "Hood of the Magi",
-    "item.um.magi_leggings": "Pants of the Magi",
-    "item.um.magi_set.lore": "A full set generates a protective ward, and buffs mana regen if it is shattered.",
-
-    "item.um.mysterious_crystal": "Mysterious Crystal",
-
-    "item.um.mysterious_orb": "Mysterious Orb",
-    "item.um.mysterious_orb.lore": "Increases mana regen by 10 mana per second.",
-
-    "item.um.nether_shard": "Nether Shard",
-
-    "item.um.oblivion_matrix": "Oblivion Matrix",
-    "item.um.oblivion_matrix.lore": "Improves abyssal magic weapons and increases mana regen by 10 mana per second.",
-
-    "item.um.omega_boots": "Omega Boots",
-    "item.um.omega_chestplate": "Omega Chestplate",
-    "item.um.omega_helmet": "Omega Helmet",
-    "item.um.omega_leggings": "Omega Leggings",
-    "item.um.omega_set.lore": "Engraved with eerie runes, it hides great power.",
-
-    "item.um.omega_plate": "Omega Plate",
-
-    "item.um.paladin_boots": "Paladin Boots",
-    "item.um.paladin_chestplate": "Paladin Great Plate",
-    "item.um.paladin_hammer": "Paladin Hammer",
-    "item.um.paladin_hammer.lore": "Every 5th strike doubles damage and heals you and others nearby.",
-    "item.um.paladin_leggings": "Paladin Leggings",
-    "item.um.paladin_set.lore": "Projects supportive auras on melee hits with the full set.",
-
-    "item.um.pit_lord_chestplate.lore.0": "Provides supreme protection against heavy hits.",
-    "item.um.pit_lord_chestplate.lore.1": "Also reduces fire damage and grants immunity to lava.",
-
-    "item.um.primal_boots": "Primal Boots",
-    "item.um.primal_chestplate": "Primal Cloak",
-    "item.um.primal_helmet": "Primal Cap",
-    "item.um.primal_leggings": "Primal Shinguards",
-    "item.um.primal_set.lore": "A full set grants primal instinct, empowering bows.",
-
-    "item.um.protector_helmet": "Protector Helm",
-    "item.um.protector_helmet.lore": "Projects a toughening aura on melee hits with the full set.",
-
-    "item.um.puncture": "Puncture",
-    "item.um.puncture.lore.0.tier_1": "Tier 1",
-    "item.um.puncture.lore.1.tier_1": "Piercing crossbow that may be upgraded via Blood Infusion.",
-    "item.um.puncture.lore.0.tier_2": "Tier 2",
-    "item.um.puncture.lore.1.tier_2": "Piercing crossbow that may be upgraded via Blood Infusion.",
-    "item.um.puncture.lore.0.tier_3": "Tier 3",
-    "item.um.puncture.lore.1.tier_3": "Piercing crossbow that may be upgraded via Blood Infusion.",
-    "item.um.puncture.lore.0.tier_4": "Tier 4",
-    "item.um.puncture.lore.1.tier_4": "Bloodsoaked bolts can critically pierce many foes.",
-
-    "item.um.radiant_monolith": "Radiant Monolith",
-    "item.um.radiant_monolith.lore": "Used to boost a Blood Altar to tier III.",
-    "item.um.reign_of_the_corrupt": "Music Disc",
-    "item.um.reign_of_the_corrupt.lore.0": "Hashs - Reign of the Corrupt",
-    "item.um.reign_of_the_corrupt.lore.1": "Theme of Shadesull (Phase II)",
-
-    "item.um.relic_of_ruin.lore.0": "Toss on the ground to call",
-    "item.um.relic_of_ruin.lore.1": "a great eldritch being.",
-
-    "item.um.revenant_blade": "Revenant Blade",
-    "item.um.revenant_blade.lore": "Increased damage below 5 hearts.",
-
-    "item.um.revenant_guard": "Revenant Guard",
-    "item.um.revenant_guard.lore": "Grants a damage boost after blocking an attack for your next melee hit.",
-
-    "item.um.sanguine_eye.lore.0": "Throw into a Blood Crucible",
-    "item.um.sanguine_eye.lore.1": "to battle the Blood Amalgam!",
-
-    "item.um.shadow_quiver": "Shadow Quiver",
-    "item.um.shadow_quiver.lore": "Hold in offhand to periodically grant arrows extra damage and blinding bursts.",
-
-    "item.um.shadow_steel": "Shadow Steel Ingot",
-    "item.um.shadow_steel.lore": "An extraordinarily strong metal.",
-
-    "item.um.shortbow_of_decay": "Shortbow of Decay",
-    "item.um.shortbow_of_decay.lore": "Fires shorter, stronger shots that slow and wither.",
-
-    "item.um.shortbow_of_the_wild": "Shortbow of the Wild",
-    "item.um.shortbow_of_the_wild.lore": "Fires shorter, stronger shots that slow and poison.",
-
-    "item.um.sigil_of_the_shade": "Sigil of the Shade",
-    "item.um.sigil_of_the_shade.lore": "Use in the Abyss to enter the Shade's dark dungeon.",
-
-    "item.um.staff_of_the_magi": "Staff of the Magi",
-    "item.um.staff_of_the_magi.lore": "Fires homing magic darts.",
-
-    "item.um.teleporter": "Teleporter",
-
-    "item.um.venom_quiver": "Venom Quiver",
-    "item.um.venom_quiver.lore": "Hold in offhand to periodically grant arrows extra damage and poison.",
-
 
   "block.um.blood_monolith": "Blood Monolith",
-  "block.um.blood_monolith.lore": "Boosts a Blood Chalice to Tier IV",
+  "block.um.blood_monolith.lore.0": "Used to boost a Blood Chalice",
+  "block.um.blood_monolith.lore.1": "to tier IV.",
   "block.um.teleporter": "Teleporter",
-
 
   "block.um.undercrafter": "Undercrafter",
   "block.um.undercrafter.gui": "\uf100\uf101\uf102%s",
@@ -1318,5 +1349,4 @@
   "subtitles.um.music.herald_p1": "Conflict of the Ages plays",
   "subtitles.um.music.herald_p2": "Echoes of the Apocalypse plays",
   "subtitles.um.music.dungeon": "Halls of Shadow plays"
-
 }
